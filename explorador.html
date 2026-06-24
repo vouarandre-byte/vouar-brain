@@ -94,11 +94,25 @@ function ds(q){if(!q){sm=false;rs();document.getElementById('content').innerHTML
 function sn(path,isD){const nd=fn(path);if(!nd)return;document.getElementById('search').value='';sm=false;const pts=path.split('/');for(let i=2;i<=pts.length;i++)exp.add(pts.slice(0,i).join('/'));rs();if(isD)sc(nd,path);setTimeout(()=>{document.querySelectorAll('.row').forEach(r=>{const m=r.dataset.key===path;r.classList.toggle('selected',m);if(m)r.scrollIntoView({block:'center'});});},30);}
 
 // ─── AUTENTICAÇÃO ────────────────────────────────────────────────────────────
-const HASH_CORRETO = '087559e77849b87cfc0f0606c7c460446e36c52015b94b4bd55a2573e33004f3'; // SHA-256 de vouar2026
+// Senha do dia: DD + MM + 2ª e 3ª letra do mês em português
+// Exemplo: 24/06 junho → 2406un
+const MESES = ['janeiro','fevereiro','março','abril','maio','junho','julho','agosto','setembro','outubro','novembro','dezembro'];
+
+function senhaHoje() {
+  const d = new Date();
+  const dd = String(d.getDate()).padStart(2,'0');
+  const mm = String(d.getMonth()+1).padStart(2,'0');
+  const mes = MESES[d.getMonth()];
+  return dd + mm + mes[1] + mes[2];
+}
 
 async function sha256(str) {
   const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
   return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2,'0')).join('');
+}
+
+async function hashHoje() {
+  return sha256(senhaHoje());
 }
 
 function mostrarLogin() {
@@ -123,9 +137,9 @@ function mostrarLogin() {
 
 async function verificar() {
   const pwd = document.getElementById('pwd').value;
-  const hash = await sha256(pwd);
-  if (hash === HASH_CORRETO) {
-    sessionStorage.setItem('vouar_auth', hash);
+  const [hashDigitado, hashDia] = await Promise.all([sha256(pwd), hashHoje()]);
+  if (hashDigitado === hashDia) {
+    sessionStorage.setItem('vouar_auth', hashDia);
     location.reload();
   } else {
     document.getElementById('erro').textContent = 'Senha incorreta.';
@@ -134,25 +148,27 @@ async function verificar() {
   }
 }
 
-// Verificar autenticação antes de carregar tudo
-if (sessionStorage.getItem('vouar_auth') !== HASH_CORRETO) {
-  mostrarLogin();
-} else {
-  // ─── CARREGAR DADOS ──────────────────────────────────────────────────────
-  fetch('./data/files.json?t=' + Date.now())
-    .then(r => r.json())
-    .then(data => {
-      T = data;
-      exp.add(T.n);
-      if (T.updated) {
-        document.getElementById('updated').textContent = 'Atualizado: ' + T.updated;
-      }
-      rs();
-    })
-    .catch(err => {
-      document.getElementById('tree').innerHTML = '<div style="padding:20px;color:#f85149">Erro ao carregar dados.<br>' + err + '</div>';
-    });
-}
+// Verificar autenticação — compara sessão com hash do dia (muda à meia-noite)
+hashHoje().then(hashDia => {
+  if (sessionStorage.getItem('vouar_auth') !== hashDia) {
+    mostrarLogin();
+  } else {
+    // ─── CARREGAR DADOS ────────────────────────────────────────────────────
+    fetch('./data/files.json?t=' + Date.now())
+      .then(r => r.json())
+      .then(data => {
+        T = data;
+        exp.add(T.n);
+        if (T.updated) {
+          document.getElementById('updated').textContent = 'Atualizado: ' + T.updated;
+        }
+        rs();
+      })
+      .catch(err => {
+        document.getElementById('tree').innerHTML = '<div style="padding:20px;color:#f85149">Erro ao carregar dados.<br>' + err + '</div>';
+      });
+  }
+});
 </script>
 </body>
 </html>
