@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Explorador VOUAR</title>
+<style>
+:root{--bg:#0d1117;--sidebar:#0A1B2E;--accent:#4B8EF5;--green:#1DB87A;--text:#e6edf3;--muted:#8b949e;--border:#21262d;--hover:#161b22;--folder:#f0b72f;}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:'SF Mono',Consolas,monospace;font-size:13px;background:var(--bg);color:var(--text);display:flex;height:100vh;overflow:hidden;}
+#sidebar{width:300px;min-width:180px;background:var(--sidebar);border-right:1px solid var(--border);display:flex;flex-direction:column;resize:horizontal;overflow:auto;}
+#sidebar-header{padding:14px 16px 10px;border-bottom:1px solid var(--border);}
+#sidebar-header h1{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:8px;}
+#updated{font-size:10px;color:var(--muted);margin-top:4px;}
+#search{width:100%;padding:6px 10px;background:var(--border);border:1px solid #30363d;border-radius:6px;color:var(--text);font-family:inherit;font-size:12px;outline:none;}
+#search:focus{border-color:var(--accent);}
+#search::placeholder{color:var(--muted);}
+#tree{flex:1;overflow-y:auto;overflow-x:auto;padding:4px 0;}
+#tree::-webkit-scrollbar{width:6px;height:6px;}
+#tree::-webkit-scrollbar-thumb{background:#30363d;border-radius:3px;}
+.row{display:flex;align-items:center;height:26px;padding-right:10px;cursor:pointer;white-space:nowrap;border-radius:4px;margin:0 4px;}
+.row:hover{background:var(--hover);}
+.row.selected{background:#1f3358;}
+.toggle{width:18px;flex-shrink:0;text-align:center;color:var(--muted);font-size:10px;user-select:none;}
+.icon{width:20px;flex-shrink:0;text-align:center;font-size:13px;}
+.label{flex:1;overflow:hidden;text-overflow:ellipsis;}
+.label.dim{color:var(--muted);}
+.sz{color:var(--muted);font-size:10px;margin-left:5px;flex-shrink:0;}
+.cnt{color:var(--muted);font-size:10px;margin-left:5px;background:#21262d;padding:0 5px;border-radius:10px;flex-shrink:0;}
+#main{flex:1;display:flex;flex-direction:column;overflow:hidden;}
+#topbar{padding:10px 20px;border-bottom:1px solid var(--border);background:var(--bg);display:flex;align-items:center;gap:12px;flex-wrap:wrap;}
+#breadcrumb{font-size:12px;color:var(--muted);flex:1;}
+#stats{font-size:11px;color:var(--muted);}
+#content{flex:1;overflow-y:auto;padding:4px 0;}
+#content::-webkit-scrollbar{width:8px;}
+#content::-webkit-scrollbar-thumb{background:#30363d;border-radius:4px;}
+.ci{display:flex;align-items:center;padding:4px 20px;height:32px;cursor:pointer;gap:10px;}
+.ci:hover{background:var(--hover);}
+.ci.fold{color:var(--folder);}
+.ci-ico{font-size:15px;width:22px;flex-shrink:0;}
+.ci-name{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.ci-sz{font-size:11px;color:var(--muted);width:55px;text-align:right;flex-shrink:0;}
+#empty{display:flex;align-items:center;justify-content:center;height:100%;color:var(--muted);font-size:14px;flex-direction:column;gap:8px;}
+.bc-link{color:var(--accent);cursor:pointer;}
+.bc-link:hover{text-decoration:underline;}
+.bc-cur{color:var(--text);}
+.bc-sep{margin:0 3px;color:var(--border);}
+#loading{display:flex;align-items:center;justify-content:center;height:100%;color:var(--muted);font-size:14px;gap:12px;}
+</style>
+</head>
+<body>
+<div id="sidebar">
+  <div id="sidebar-header">
+    <h1>&#127968; VOUAR &mdash; Explorador</h1>
+    <input id="search" type="text" placeholder="Buscar..." autocomplete="off">
+    <div id="updated"></div>
+  </div>
+  <div id="tree"><div id="loading">&#8987; carregando...</div></div>
+</div>
+<div id="main">
+  <div id="topbar">
+    <div id="breadcrumb">&#127968;</div>
+    <div id="stats"></div>
+  </div>
+  <div id="content"><div id="empty">&#128196; Selecione uma pasta na &aacute;rvore</div></div>
+</div>
+
+<script>
+let T = null;
+let exp = new Set(), sel = null, sm = false;
+
+function gi(n){if(n.t==='d')return'📁';const x=n.n.toLowerCase();if(x.endsWith('.pdf'))return'📄';if(x.endsWith('.docx')||x.endsWith('.doc'))return'📝';if(x.endsWith('.xlsx')||x.endsWith('.xls')||x.endsWith('.csv'))return'📊';if(x.endsWith('.pptx')||x.endsWith('.ppt'))return'📊';if(x.endsWith('.py'))return'🐍';if(x.endsWith('.js')||x.endsWith('.ts')||x.endsWith('.jsx')||x.endsWith('.tsx'))return'💛';if(x.endsWith('.html')||x.endsWith('.htm'))return'🌐';if(x.endsWith('.json'))return'🔧';if(x.endsWith('.md'))return'📋';if(x.endsWith('.png')||x.endsWith('.jpg')||x.endsWith('.jpeg')||x.endsWith('.gif')||x.endsWith('.svg'))return'🖼️';if(x.endsWith('.mp4')||x.endsWith('.mov'))return'🎬';if(x.endsWith('.mp3')||x.endsWith('.m4a'))return'🎵';if(x.endsWith('.zip')||x.endsWith('.tar')||x.endsWith('.gz'))return'📦';if(x.endsWith('.sh')||x.endsWith('.bash'))return'⚡';if(x.endsWith('.yaml')||x.endsWith('.yml')||x.endsWith('.toml')||x.endsWith('.env'))return'⚙️';if(x.endsWith('.sql'))return'🗃️';if(x.endsWith('.app'))return'📱';if(x.endsWith('.txt')||x.endsWith('.log'))return'📃';return'📄';}
+
+function fn(key){const p=key.split('/').slice(1);let c=T;for(const x of p){if(!c.c)return null;c=c.c.find(n=>n.n===x);if(!c)return null;}return c;}
+
+function rt(nodes,depth,pk){let h='';for(const n of nodes){const k=pk+'/'+n.n,isD=n.t==='d',open=exp.has(k),ind=depth*14,has=isD&&n.c&&n.c.length>0,cnt=isD&&n.c?n.c.length:0;h+=`<div class="row" data-key="${k.replace(/"/g,'&quot;')}" data-dir="${isD}" onclick="rc(event,this)"><div style="width:${ind}px;flex-shrink:0"></div><div class="toggle">${isD?(has?(open?'▾':'▸'):'·'):''}</div><div class="icon">${gi(n)}</div><div class="label${!isD?' dim':''}" title="${n.n.replace(/"/g,'&quot;')}">${n.n}</div>${n.s?`<div class="sz">${n.s}</div>`:''}${cnt>0?`<div class="cnt">${cnt}</div>`:''}</div>`;if(isD&&open&&n.c&&n.c.length>0)h+=rt(n.c,depth+1,k);}return h;}
+
+function rs(){const el=document.getElementById('tree');let h=`<div class="row" data-key="${T.n}" data-dir="true" onclick="rc(event,this)"><div class="toggle">▾</div><div class="icon">🏠</div><div class="label">${T.n}</div></div>`;h+=rt(T.c,1,T.n);el.innerHTML=h;}
+
+function rc(e,el){if(sm)return;const k=el.dataset.key,isD=el.dataset.dir==='true';document.querySelectorAll('.row.selected').forEach(r=>r.classList.remove('selected'));el.classList.add('selected');sel=k;const nd=fn(k);if(!nd)return;if(isD){exp.has(k)?exp.delete(k):exp.add(k);rs();setTimeout(()=>{document.querySelectorAll('.row').forEach(r=>{if(r.dataset.key===k)r.classList.add('selected');});},10);sc(nd,k);}else{const p=k.split('/');ub(p,null);}}
+
+function sc(nd,k){const ct=document.getElementById('content'),st=document.getElementById('stats'),p=k.split('/');ub(p,k);if(!nd.c||nd.c.length===0){ct.innerHTML=nd.p?'<div id="empty">🔒 Sem permissão</div>':'<div id="empty">📭 Pasta vazia</div>';st.textContent='';return;}const s=[...nd.c].sort((a,b)=>{if(a.t==='d'&&b.t!=='d')return -1;if(a.t!=='d'&&b.t==='d')return 1;return a.n.localeCompare(b.n);});const fld=s.filter(n=>n.t==='d'),fil=s.filter(n=>n.t==='f');st.textContent=`${fld.length} pastas · ${fil.length} arquivos`;let h='';for(const c of s){const ck=k+'/'+c.n,isD=c.t==='d',cnt=isD&&c.c?c.c.length:'';h+=`<div class="ci${isD?' fold':''}" onclick="cc('${ck.replace(/'/g,"\\'")}',${isD})"><div class="ci-ico">${gi(c)}</div><div class="ci-name" title="${c.n.replace(/"/g,'&quot;')}">${c.n}${isD&&cnt?` <span style="color:var(--muted);font-size:11px">(${cnt})</span>`:''}</div><div class="ci-sz">${c.s||''}</div></div>`;}ct.innerHTML=h;}
+
+function cc(k,isD){const nd=fn(k);if(!nd)return;if(isD){exp.add(k);rs();sc(nd,k);setTimeout(()=>{document.querySelectorAll('.row').forEach(r=>{const m=r.dataset.key===k;r.classList.toggle('selected',m);if(m)r.scrollIntoView({block:'nearest'});});},25);}}
+
+function ub(parts,curKey){const bc=document.getElementById('breadcrumb');let h='',cum='';for(let i=0;i<parts.length;i++){const p=parts[i];cum+=(i===0?'':'/'+p);const last=i===parts.length-1;if(i>0)h+=`<span class="bc-sep">/</span>`;if(last)h+=`<span class="bc-cur">${p}</span>`;else{const k=cum;h+=`<span class="bc-link" onclick="bcc('${k.replace(/'/g,"\\'")}')">  ${p}</span>`;}}bc.innerHTML=h;}
+
+function bcc(k){const nd=fn(k);if(!nd||nd.t!=='d')return;exp.add(k);rs();sc(nd,k);setTimeout(()=>{document.querySelectorAll('.row').forEach(r=>{r.classList.toggle('selected',r.dataset.key===k);});},25);}
+
+let st2;document.getElementById('search').addEventListener('input',function(){clearTimeout(st2);st2=setTimeout(()=>ds(this.value.trim()),200);});
+
+function ds(q){if(!q){sm=false;rs();document.getElementById('content').innerHTML='<div id="empty">📂 Selecione uma pasta</div>';document.getElementById('breadcrumb').innerHTML='🏠';document.getElementById('stats').textContent='';return;}sm=true;const res=[];function wk(n,path){const fp=path+'/'+n.n;if(n.n.toLowerCase().includes(q.toLowerCase()))res.push({node:n,path:fp});if(n.c)for(const c of n.c)wk(c,fp);}for(const c of T.c)wk(c,T.n);const ct=document.getElementById('content'),st=document.getElementById('stats'),bc=document.getElementById('breadcrumb');bc.innerHTML=`🔍 <span style="color:var(--accent)">Busca: "${q}"</span>`;st.textContent=`${res.length} resultado(s)`;if(res.length===0){ct.innerHTML='<div style="padding:40px;text-align:center;color:var(--muted)">Nenhum arquivo encontrado</div>';return;}let h='';for(const{node:n,path}of res.slice(0,400)){const isD=n.t==='d',parts=path.split('/').slice(1),par=parts.slice(0,-1).join(' / ');h+=`<div class="ci${isD?' fold':''}" onclick="sn('${path.replace(/'/g,"\\'")}',${isD})"><div class="ci-ico">${gi(n)}</div><div style="flex:1;overflow:hidden"><div class="ci-name">${n.n}</div><div style="font-size:10px;color:var(--muted);margin-top:1px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${par}</div></div><div class="ci-sz">${n.s||''}</div></div>`;}if(res.length>400)h+=`<div style="padding:10px 20px;color:var(--muted);font-size:11px">... e mais ${res.length-400} resultados</div>`;ct.innerHTML=h;}
+
+function sn(path,isD){const nd=fn(path);if(!nd)return;document.getElementById('search').value='';sm=false;const pts=path.split('/');for(let i=2;i<=pts.length;i++)exp.add(pts.slice(0,i).join('/'));rs();if(isD)sc(nd,path);setTimeout(()=>{document.querySelectorAll('.row').forEach(r=>{const m=r.dataset.key===path;r.classList.toggle('selected',m);if(m)r.scrollIntoView({block:'center'});});},30);}
+
+// Carregar dados via fetch
+fetch('./data/files.json?t=' + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    T = data;
+    exp.add(T.n);
+    if (T.updated) {
+      document.getElementById('updated').textContent = 'Atualizado: ' + T.updated;
+    }
+    rs();
+  })
+  .catch(err => {
+    document.getElementById('tree').innerHTML = '<div style="padding:20px;color:#f85149">Erro ao carregar dados.<br>' + err + '</div>';
+  });
+</script>
+</body>
+</html>
