@@ -1,0 +1,56 @@
+[
+  {
+    "id": "D001",
+    "data": "2026-06-21",
+    "area": "Produto",
+    "titulo": "Mente VOUAR começa como serviço manual, não software",
+    "decisao": "O Projeto Mente será entregue como diagnóstico estratégico manual (site/IG/Reclame Aqui/concorrentes) para o dono, não como produto SaaS imediato.",
+    "motivo": "Validar demanda antes de construir plataforma. Mente vende, Cérebro segura.",
+    "status": "ativa"
+  },
+  {
+    "id": "D002",
+    "data": "2026-06-23",
+    "area": "CIV",
+    "titulo": "CIV em produção no Railway — congelado para novas features",
+    "decisao": "CIV 42/42 tasks concluído. Commit 98d1088. Produção Railway. Sem novas features até próxima fase.",
+    "motivo": "Estabilidade do produto em uso pela equipe.",
+    "status": "ativa"
+  },
+  {
+    "id": "D003",
+    "data": "2026-06-04",
+    "area": "Livros / Conteúdo",
+    "titulo": "Zero cases de terceiros em narrações e slides",
+    "decisao": "Nenhuma narrativa de empresa/pessoa externa nos materiais MTG. Conceito deve se sustentar sem 'empresa X tinha Y funcionários'.",
+    "motivo": "Risco legal e identidade própria da metodologia.",
+    "status": "ativa"
+  },
+  {
+    "id": "D004",
+    "data": "2026-06-17",
+    "area": "Organização",
+    "titulo": "Estrutura definitiva de pastas VOUAR pós-reorganização",
+    "decisao": "VouAR-MTG (ativa) · VouAR-Arquivo (histórico) · VouAR-Projetos · Diversos (não-MTG). 86 GB liberados.",
+    "motivo": "Separar ativo de histórico sem jogar nada fora.",
+    "status": "ativa"
+  },
+  {
+    "id": "D005",
+    "data": "2026-06-15",
+    "area": "Conteúdo",
+    "titulo": "Mínimos de volume por tipo de material",
+    "decisao": "Narração aula ≥1.500 palavras (target 2.000–2.500) · Capítulo livro ≥2.000 · Entregável ≥400. Benchmark: MTG = 2.948 palavras/cap.",
+    "motivo": "Garantir substância. Entregáveis curtos foram problema recorrente.",
+    "status": "ativa"
+  },
+  {
+    "id": "D006",
+    "data": "2026-06-04",
+    "area": "Comercial",
+    "titulo": "Roadmap: lançamento digital 01/07 → imersão presencial 20-21/07",
+    "decisao": "Publicar curso digital até 01/07. Imersão presencial 20-21/07/2026, após lançamento digital.",
+    "motivo": "Sequência estratégica: validar online antes de lotar presencial.",
+    "status": "ativa"
+  }
+]

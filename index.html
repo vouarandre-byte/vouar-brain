@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VOUAR Brain</title>
+<style>
+  :root {
+    --bg: #0A1B2E;
+    --bg2: #0f2440;
+    --bg3: #162d4f;
+    --blue: #4B8EF5;
+    --purple: #8B7CF5;
+    --green: #1DB87A;
+    --yellow: #F5B731;
+    --red: #F55B5B;
+    --gray: #6B7A99;
+    --text: #E8EEF8;
+    --text2: #9AABC4;
+    --border: rgba(75,142,245,0.15);
+    --card: rgba(255,255,255,0.03);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+
+  /* HEADER */
+  header {
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .logo-icon {
+    width: 32px; height: 32px;
+    background: linear-gradient(135deg, var(--blue), var(--purple));
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 16px;
+    flex-shrink: 0;
+  }
+  .logo-text {
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    color: var(--text);
+  }
+  .logo-sub {
+    font-size: 11px;
+    color: var(--text2);
+    letter-spacing: 0.03em;
+  }
+  .last-updated {
+    font-size: 11px;
+    color: var(--gray);
+    text-align: right;
+  }
+
+  /* NAV TABS */
+  .tabs {
+    display: flex;
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    padding: 0 16px;
+    overflow-x: auto;
+    gap: 4px;
+    -webkit-overflow-scrolling: touch;
+  }
+  .tabs::-webkit-scrollbar { display: none; }
+
+  .tab {
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text2);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    white-space: nowrap;
+    transition: all 0.15s;
+    user-select: none;
+  }
+  .tab.active {
+    color: var(--blue);
+    border-bottom-color: var(--blue);
+  }
+  .tab:hover:not(.active) { color: var(--text); }
+
+  /* MAIN */
+  main {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 20px 16px 60px;
+  }
+
+  /* SECTION */
+  .section { display: none; }
+  .section.active { display: block; }
+
+  /* SECTION TITLE */
+  .section-title {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text2);
+    margin-bottom: 14px;
+    margin-top: 4px;
+  }
+
+  /* STATUS CARDS */
+  .status-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 28px;
+  }
+
+  .status-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 16px;
+  }
+
+  .status-card-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+
+  .status-card-name {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  .badge {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 20px;
+    white-space: nowrap;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    flex-shrink: 0;
+  }
+  .badge-verde { background: rgba(29,184,122,0.15); color: var(--green); }
+  .badge-azul { background: rgba(75,142,245,0.15); color: var(--blue); }
+  .badge-amarelo { background: rgba(245,183,49,0.15); color: var(--yellow); }
+  .badge-cinza { background: rgba(107,122,153,0.15); color: var(--gray); }
+  .badge-producao { background: rgba(29,184,122,0.2); color: var(--green); border: 1px solid rgba(29,184,122,0.3); }
+
+  .progress-bar {
+    height: 4px;
+    background: rgba(255,255,255,0.07);
+    border-radius: 4px;
+    margin-bottom: 10px;
+    overflow: hidden;
+  }
+  .progress-fill {
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.5s ease;
+  }
+  .fill-verde { background: var(--green); }
+  .fill-azul { background: var(--blue); }
+  .fill-amarelo { background: var(--yellow); }
+  .fill-cinza { background: var(--gray); }
+
+  .status-proximo {
+    font-size: 12px;
+    color: var(--text2);
+  }
+  .status-proximo strong { color: var(--text); }
+
+  .bloqueios {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-top: 8px;
+  }
+  .bloqueio-tag {
+    font-size: 10px;
+    padding: 2px 7px;
+    border-radius: 4px;
+    background: rgba(245,91,91,0.1);
+    color: var(--red);
+    border: 1px solid rgba(245,91,91,0.2);
+  }
+
+  /* DECISÕES */
+  .decisoes-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .decisao-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+
+  .decisao-header {
+    padding: 12px 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    user-select: none;
+  }
+  .decisao-header:hover { background: rgba(255,255,255,0.02); }
+
+  .decisao-id {
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--blue);
+    background: rgba(75,142,245,0.1);
+    padding: 2px 6px;
+    border-radius: 4px;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+
+  .decisao-info { flex: 1; min-width: 0; }
+
+  .decisao-titulo {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 3px;
+  }
+
+  .decisao-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .decisao-area {
+    font-size: 10px;
+    color: var(--purple);
+    background: rgba(139,124,245,0.1);
+    padding: 1px 6px;
+    border-radius: 3px;
+  }
+
+  .decisao-data {
+    font-size: 10px;
+    color: var(--gray);
+  }
+
+  .decisao-chevron {
+    font-size: 12px;
+    color: var(--gray);
+    flex-shrink: 0;
+    transition: transform 0.2s;
+    margin-top: 2px;
+  }
+  .decisao-card.open .decisao-chevron { transform: rotate(90deg); }
+
+  .decisao-body {
+    display: none;
+    padding: 0 16px 14px 42px;
+    border-top: 1px solid var(--border);
+  }
+  .decisao-card.open .decisao-body { display: block; }
+
+  .decisao-texto {
+    font-size: 13px;
+    color: var(--text);
+    margin: 10px 0 6px;
+    line-height: 1.55;
+  }
+
+  .decisao-motivo {
+    font-size: 12px;
+    color: var(--text2);
+    padding: 8px 12px;
+    background: rgba(255,255,255,0.03);
+    border-radius: 6px;
+    border-left: 2px solid var(--purple);
+  }
+  .decisao-motivo strong { color: var(--purple); }
+
+  /* CANÔNICOS */
+  .canonicos-group {
+    margin-bottom: 24px;
+  }
+
+  .canonicos-group-title {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--purple);
+    margin-bottom: 8px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid rgba(139,124,245,0.15);
+  }
+
+  .canonico-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 12px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    margin-bottom: 6px;
+  }
+
+  .canonico-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    margin-top: 5px;
+    flex-shrink: 0;
+  }
+  .dot-aprovado { background: var(--green); box-shadow: 0 0 6px rgba(29,184,122,0.5); }
+  .dot-em_andamento { background: var(--yellow); }
+  .dot-pendente_deploy { background: var(--yellow); }
+  .dot-producao { background: var(--green); box-shadow: 0 0 6px rgba(29,184,122,0.5); }
+
+  .canonico-info { flex: 1; min-width: 0; }
+
+  .canonico-nome {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  .canonico-versao {
+    font-size: 11px;
+    color: var(--blue);
+    margin-top: 1px;
+  }
+
+  .canonico-path {
+    font-size: 10px;
+    color: var(--gray);
+    font-family: 'SF Mono', 'Menlo', monospace;
+    margin-top: 3px;
+    word-break: break-all;
+  }
+
+  .canonico-notas {
+    font-size: 11px;
+    color: var(--text2);
+    margin-top: 4px;
+    line-height: 1.4;
+  }
+
+  .status-chip {
+    font-size: 9px;
+    font-weight: 700;
+    padding: 2px 6px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+  .chip-aprovado { background: rgba(29,184,122,0.15); color: var(--green); }
+  .chip-em_andamento { background: rgba(245,183,49,0.15); color: var(--yellow); }
+  .chip-pendente_deploy { background: rgba(245,183,49,0.15); color: var(--yellow); }
+  .chip-producao { background: rgba(29,184,122,0.15); color: var(--green); }
+
+  /* LOADING */
+  .loading {
+    text-align: center;
+    color: var(--gray);
+    padding: 60px 20px;
+    font-size: 13px;
+  }
+
+  /* SEARCH */
+  .search-box {
+    width: 100%;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px 14px;
+    font-size: 14px;
+    color: var(--text);
+    outline: none;
+    margin-bottom: 16px;
+    -webkit-appearance: none;
+  }
+  .search-box::placeholder { color: var(--gray); }
+  .search-box:focus { border-color: var(--blue); }
+
+  /* EMPTY */
+  .empty {
+    text-align: center;
+    color: var(--gray);
+    padding: 40px 20px;
+    font-size: 13px;
+  }
+
+  /* FOOTER */
+  .footer-note {
+    text-align: center;
+    font-size: 11px;
+    color: var(--gray);
+    margin-top: 32px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <div class="logo-icon">🧠</div>
+    <div>
+      <div class="logo-text">VOUAR Brain</div>
+      <div class="logo-sub">Central de decisões e estado atual</div>
+    </div>
+  </div>
+  <div class="last-updated" id="last-updated">—</div>
+</header>
+
+<nav class="tabs">
+  <div class="tab active" data-tab="status">📊 Status</div>
+  <div class="tab" data-tab="decisoes">✦ Decisões</div>
+  <div class="tab" data-tab="canonicos">📁 Canônicos</div>
+</nav>
+
+<main>
+
+  <!-- STATUS -->
+  <div class="section active" id="section-status">
+    <div class="section-title">Estado atual de cada projeto</div>
+    <div class="status-grid" id="status-grid">
+      <div class="loading">Carregando...</div>
+    </div>
+  </div>
+
+  <!-- DECISÕES -->
+  <div class="section" id="section-decisoes">
+    <div class="section-title">Decisões que não podem se perder</div>
+    <input class="search-box" type="search" placeholder="Buscar decisão..." id="busca-decisao">
+    <div class="decisoes-list" id="decisoes-list">
+      <div class="loading">Carregando...</div>
+    </div>
+  </div>
+
+  <!-- CANÔNICOS -->
+  <div class="section" id="section-canonicos">
+    <div class="section-title">Versões canônicas — o que vale agora</div>
+    <div id="canonicos-container">
+      <div class="loading">Carregando...</div>
+    </div>
+  </div>
+
+</main>
+
+<script>
+// ─── TABS ────────────────────────────────────────────────
+document.querySelectorAll('.tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+    tab.classList.add('active');
+    document.getElementById('section-' + tab.dataset.tab).classList.add('active');
+  });
+});
+
+// ─── HELPERS ─────────────────────────────────────────────
+function statusLabel(s) {
+  const m = {
+    'Produção': 'producao', 'Pronto p/ gravação': 'azul',
+    'Aguardando deploy': 'amarelo', 'Fechado': 'verde',
+    'Enriquecimento': 'amarelo', 'Planejamento': 'cinza',
+    'Definição': 'cinza'
+  };
+  return m[s] || 'cinza';
+}
+
+// ─── STATUS ──────────────────────────────────────────────
+async function loadStatus() {
+  const r = await fetch('data/status.json');
+  const d = await r.json();
+
+  document.getElementById('last-updated').innerHTML =
+    'Atualizado<br>' + d.ultima_atualizacao;
+
+  const grid = document.getElementById('status-grid');
+  grid.innerHTML = d.projetos.map(p => {
+    const cls = statusLabel(p.fase);
+    const badgeClass = p.cor === 'verde' && p.progresso === 100 ? 'badge-producao' : 'badge-' + p.cor;
+    const bloqueios = p.bloqueios.length > 0
+      ? `<div class="bloqueios">${p.bloqueios.map(b => `<span class="bloqueio-tag">⚠ ${b}</span>`).join('')}</div>`
+      : '';
+    return `
+      <div class="status-card">
+        <div class="status-card-top">
+          <div class="status-card-name">${p.nome}</div>
+          <span class="badge ${badgeClass}">${p.fase}</span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-fill fill-${p.cor}" style="width:${p.progresso}%"></div>
+        </div>
+        <div class="status-proximo"><strong>Próximo:</strong> ${p.proximo}</div>
+        ${bloqueios}
+      </div>`;
+  }).join('');
+}
+
+// ─── DECISÕES ────────────────────────────────────────────
+let todasDecisoes = [];
+
+async function loadDecisoes() {
+  const r = await fetch('data/decisoes.json');
+  todasDecisoes = await r.json();
+  renderDecisoes(todasDecisoes);
+}
+
+function renderDecisoes(lista) {
+  const el = document.getElementById('decisoes-list');
+  if (!lista.length) {
+    el.innerHTML = '<div class="empty">Nenhuma decisão encontrada.</div>';
+    return;
+  }
+  el.innerHTML = lista.map(d => `
+    <div class="decisao-card" id="dc-${d.id}">
+      <div class="decisao-header" onclick="toggleDecisao('${d.id}')">
+        <span class="decisao-id">${d.id}</span>
+        <div class="decisao-info">
+          <div class="decisao-titulo">${d.titulo}</div>
+          <div class="decisao-meta">
+            <span class="decisao-area">${d.area}</span>
+            <span class="decisao-data">${d.data}</span>
+          </div>
+        </div>
+        <span class="decisao-chevron">▶</span>
+      </div>
+      <div class="decisao-body">
+        <div class="decisao-texto">${d.decisao}</div>
+        <div class="decisao-motivo"><strong>Por quê:</strong> ${d.motivo}</div>
+      </div>
+    </div>`).join('');
+}
+
+function toggleDecisao(id) {
+  document.getElementById('dc-' + id).classList.toggle('open');
+}
+
+document.getElementById('busca-decisao').addEventListener('input', function() {
+  const q = this.value.toLowerCase();
+  if (!q) { renderDecisoes(todasDecisoes); return; }
+  renderDecisoes(todasDecisoes.filter(d =>
+    d.titulo.toLowerCase().includes(q) ||
+    d.decisao.toLowerCase().includes(q) ||
+    d.area.toLowerCase().includes(q)
+  ));
+});
+
+// ─── CANÔNICOS ───────────────────────────────────────────
+async function loadCanonicos() {
+  const r = await fetch('data/canonicos.json');
+  const grupos = await r.json();
+  const el = document.getElementById('canonicos-container');
+  el.innerHTML = grupos.map(g => `
+    <div class="canonicos-group">
+      <div class="canonicos-group-title">${g.area}</div>
+      ${g.itens.map(it => `
+        <div class="canonico-item">
+          <div class="canonico-dot dot-${it.status}"></div>
+          <div class="canonico-info">
+            <div class="canonico-nome">${it.nome}</div>
+            <div class="canonico-versao">${it.versao}</div>
+            <div class="canonico-path">${it.caminho}</div>
+            ${it.notas ? `<div class="canonico-notas">${it.notas}</div>` : ''}
+          </div>
+          <span class="status-chip chip-${it.status}">${it.status.replace('_', ' ')}</span>
+        </div>`).join('')}
+    </div>`).join('');
+}
+
+// ─── INIT ─────────────────────────────────────────────────
+Promise.all([loadStatus(), loadDecisoes(), loadCanonicos()]).catch(console.error);
+</script>
+
+</body>
+</html>

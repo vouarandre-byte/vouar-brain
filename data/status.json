@@ -1,0 +1,61 @@
+{
+  "ultima_atualizacao": "2026-06-23",
+  "projetos": [
+    {
+      "nome": "CIV — Cérebro Inteligente Vouar",
+      "fase": "Produção",
+      "progresso": 100,
+      "cor": "verde",
+      "proximo": "Fase 4: Database consolidado (feature/fase-4-database)",
+      "bloqueios": []
+    },
+    {
+      "nome": "Curso MTG Academy",
+      "fase": "Pronto p/ gravação",
+      "progresso": 85,
+      "cor": "azul",
+      "proximo": "Upload Cativa + gravação avatar M00-M06",
+      "bloqueios": ["Agendamento de gravação pendente"]
+    },
+    {
+      "nome": "Site metodomtg.com.br",
+      "fase": "Aguardando deploy",
+      "progresso": 70,
+      "cor": "amarelo",
+      "proximo": "Configurar Brevo, Pixel, foto André → deploy Vercel",
+      "bloqueios": ["Brevo", "Pixel", "Foto André", "URLs finais"]
+    },
+    {
+      "nome": "Livro MTG",
+      "fase": "Fechado",
+      "progresso": 100,
+      "cor": "verde",
+      "proximo": "KDP Amazon — publicação",
+      "bloqueios": []
+    },
+    {
+      "nome": "Banco ISP",
+      "fase": "Enriquecimento",
+      "progresso": 45,
+      "cor": "amarelo",
+      "proximo": "Sanear dados + merge master única",
+      "bloqueios": ["Enriquecimento Serper em andamento"]
+    },
+    {
+      "nome": "Imersão MTG Presencial",
+      "fase": "Planejamento",
+      "progresso": 30,
+      "cor": "cinza",
+      "proximo": "André aprovar ementa · Data: 20-21/07/2026",
+      "bloqueios": ["Ementa pendente aprovação"]
+    },
+    {
+      "nome": "Projeto Mente VOUAR",
+      "fase": "Definição",
+      "progresso": 20,
+      "cor": "cinza",
+      "proximo": "Começar como serviço manual de diagnóstico estratégico",
+      "bloqueios": []
+    }
+  ]
+}

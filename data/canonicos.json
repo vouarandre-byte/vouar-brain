@@ -1,0 +1,83 @@
+[
+  {
+    "area": "Livros",
+    "itens": [
+      {
+        "nome": "MTG — Livro",
+        "versao": "v3.0 — Mai2026",
+        "caminho": "VouAR - MTG/01_LIVROS/MTG_CO...1_Mai2026",
+        "status": "aprovado",
+        "notas": "Versão canônica fechada. Capítulos com média 2.948 palavras."
+      },
+      {
+        "nome": "Livro FOCUS",
+        "versao": "v1.0",
+        "caminho": "VouAR - MTG/01_LIVROS/FOCUS",
+        "status": "em_andamento",
+        "notas": ""
+      },
+      {
+        "nome": "Isca Digital",
+        "versao": "v1.0",
+        "caminho": "VouAR - MTG/01_LIVROS/Isca",
+        "status": "aprovado",
+        "notas": ""
+      }
+    ]
+  },
+  {
+    "area": "Slides / Academy",
+    "itens": [
+      {
+        "nome": "MTG Academy — M00 a M06",
+        "versao": "611 slides · 38 PPTXs",
+        "caminho": "VouAR - MTG/05_ACADEMY",
+        "status": "aprovado",
+        "notas": "Script regenerável. Próximo: upload Cativa + gravação avatar."
+      }
+    ]
+  },
+  {
+    "area": "Site",
+    "itens": [
+      {
+        "nome": "metodomtg.com.br",
+        "versao": "9 páginas",
+        "caminho": "VouAR - MTG/10_SITE",
+        "status": "pendente_deploy",
+        "notas": "Aguardando: Brevo, Pixel, URLs, foto André. Deploy Vercel pendente."
+      },
+      {
+        "nome": "Score MTX",
+        "versao": "v1",
+        "caminho": "VouAR - MTG/10_SITE/Score-MTX",
+        "status": "aprovado",
+        "notas": "URL: metodomtg.com.br/score"
+      }
+    ]
+  },
+  {
+    "area": "CIV — Cérebro Inteligente Vouar",
+    "itens": [
+      {
+        "nome": "CIV Backend",
+        "versao": "42/42 · commit 98d1088",
+        "caminho": "civ/",
+        "status": "producao",
+        "notas": "Railway · 4 fixes: dupla pergunta, health, créditos, fases SSE. 2026-06-23."
+      }
+    ]
+  },
+  {
+    "area": "Infraestrutura",
+    "itens": [
+      {
+        "nome": "Banco ISP Brasil",
+        "versao": "11.087 Anatel",
+        "caminho": "VouAR - MTG/03_COMERCIAL",
+        "status": "em_andamento",
+        "notas": "Enriquecimento rodando (Serper). Próximo: sanear + master única."
+      }
+    ]
+  }
+]
