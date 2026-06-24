@@ -1,0 +1,311 @@
+{
+  "id": "livro-focus",
+  "tipo": "livro",
+  "metodo": "FOCUS",
+  "arquivo": "MTX_FOCUS_Livro_COMPLETO_v1.3.docx",
+  "total_paras": 4075,
+  "secoes": [
+    {
+      "titulo": "INÍCIO",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "QUE EXECUTAR",
+      "nivel": 2,
+      "n_paras": 7
+    },
+    {
+      "titulo": "CAPÍTULO 0",
+      "nivel": 1,
+      "n_paras": 24
+    },
+    {
+      "titulo": "PARTE I — A Dor: Onde a Decisão Morre",
+      "nivel": 1,
+      "n_paras": 3
+    },
+    {
+      "titulo": "PARTE II — O Humano: Por Que Travamos",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "PARTE III — O Método: A Organização da Escolha",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "PARTE IV — A Sabedoria: O Legado da Decisão",
+      "nivel": 1,
+      "n_paras": 65
+    },
+    {
+      "titulo": "PARTE I — *Onde a Decisão Morre*",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "CAPÍTULO 1 — **Decisão Não Escala. Critério Sim.**",
+      "nivel": 1,
+      "n_paras": 295
+    },
+    {
+      "titulo": "CAPÍTULO 2 — **O Ruído**",
+      "nivel": 1,
+      "n_paras": 272
+    },
+    {
+      "titulo": "CAPÍTULO 3 — **Informação Não É Decisão**",
+      "nivel": 1,
+      "n_paras": 273
+    },
+    {
+      "titulo": "CAPÍTULO 4 — **A Máquina Que Não Decide**",
+      "nivel": 1,
+      "n_paras": 122
+    },
+    {
+      "titulo": "CAPÍTULO 5 — **A Ilusão da Clareza**",
+      "nivel": 1,
+      "n_paras": 273
+    },
+    {
+      "titulo": "PARTE II — *Por Que Travamos*",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "CAPÍTULO 6 — **Os Jogos Invisíveis — As Três Mentes**",
+      "nivel": 1,
+      "n_paras": 50
+    },
+    {
+      "titulo": "parte do tempo. Carrega crenças formadas na infância, traumas não",
+      "nivel": 1,
+      "n_paras": 197
+    },
+    {
+      "titulo": "CAPÍTULO 7 — **Ego e Consenso — As Necessidades**",
+      "nivel": 1,
+      "n_paras": 241
+    },
+    {
+      "titulo": "CAPÍTULO 8 — **O Tempo Moral da Decisão**",
+      "nivel": 1,
+      "n_paras": 261
+    },
+    {
+      "titulo": "PARTE III — *A Organização da Escolha*",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "CAPÍTULO 9 — **F · Foco no Problema Central**",
+      "nivel": 1,
+      "n_paras": 196
+    },
+    {
+      "titulo": "etapa mais produtiva do processo inteiro. Porque te impede de correr na",
+      "nivel": 1,
+      "n_paras": 67
+    },
+    {
+      "titulo": "CAPÍTULO 10 — **O · Opções**",
+      "nivel": 1,
+      "n_paras": 230
+    },
+    {
+      "titulo": "CAPÍTULO 11 — **C · Consequências**",
+      "nivel": 1,
+      "n_paras": 220
+    },
+    {
+      "titulo": "CAPÍTULO 12 — **U · Urgência Moral**",
+      "nivel": 1,
+      "n_paras": 218
+    },
+    {
+      "titulo": "CAPÍTULO 13 — **S · Sustentação**",
+      "nivel": 1,
+      "n_paras": 129
+    },
+    {
+      "titulo": "capítulo um nos ensinou a evitar.",
+      "nivel": 1,
+      "n_paras": 51
+    },
+    {
+      "titulo": "Bloco 1: Comunicação. Quem precisa saber? Em que ordem? Com que",
+      "nivel": 1,
+      "n_paras": 3
+    },
+    {
+      "titulo": "Bloco 2: Execução. Quais são os primeiros três passos concretos?",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "Bloco 3: Critério de ajuste. Quais sinais indicam que você precisa",
+      "nivel": 1,
+      "n_paras": 68
+    },
+    {
+      "titulo": "parte trata. Não mais o que fazer. Mas quem ser enquanto faz. Porque a",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "PARTE IV — *O Legado da Decisão*",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "CAPÍTULO 14 — **Sabedoria Não É Conhecimento**",
+      "nivel": 1,
+      "n_paras": 137
+    },
+    {
+      "titulo": "CAPÍTULO 15 — **Ensinar Sem Sequestrar**",
+      "nivel": 1,
+      "n_paras": 132
+    },
+    {
+      "titulo": "CAPÍTULO 16 — **O Manual Pessoal**",
+      "nivel": 1,
+      "n_paras": 84
+    },
+    {
+      "titulo": "CAPÍTULO 17 — A Fidelidade ao Enxergado",
+      "nivel": 1,
+      "n_paras": 69
+    },
+    {
+      "titulo": "capítulo te ensinou a enxergar melhor. Agora você precisa ter a coragem de",
+      "nivel": 1,
+      "n_paras": 9
+    },
+    {
+      "titulo": "CAPÍTULO 18 — **O Legado do Meu Pai. E o Seu.**",
+      "nivel": 1,
+      "n_paras": 101
+    },
+    {
+      "titulo": "ENCERRAMENTO",
+      "nivel": 2,
+      "n_paras": 47
+    },
+    {
+      "titulo": "APÊNDICE",
+      "nivel": 2,
+      "n_paras": 157
+    }
+  ],
+  "conceitos": [
+    "\"Seu público é quem valoriza origem, processo e experiência sensorial",
+    "**Canvas FOCUS™**",
+    "**Checklist das 5 Etapas FOCUS™**",
+    "**O Canvas de Sustentação**",
+    "**O Mapa do Ruído**",
+    "**O MÉTODO**",
+    "**O Protocolo M.A.V.**",
+    "**O método completo**",
+    "**O silêncio como ferramenta estratégica**",
+    ". O silêncio não era passividade. Era o método dele de limpar o ruído antes de enxergar.",
+    ". Porque decidir exige algo que nenhuma ferramenta dá: a disposição de ser responsável pelo resultado.",
+    "A Ficha também é ferramenta de comunicação. Quando você precisa explicar",
+    "A Matriz Sintoma versus Causa Raiz é a ferramenta que transforma",
+    "A Matriz de Consequências é a ferramenta que transforma imaginação em",
+    "A ferramenta prática do C é a Matriz de Consequências. Simples de",
+    "A maioria dos livros de método joga você direto na primeira parte sem te mostrar aonde vai",
+    "Agora é diferente. Agora você tem método.",
+    "Antes de começar: o que este método não faz.",
+    "Antes de qualquer ferramenta, um princípio. O FOCUS™ inteiro é",
+    "Existe um processo prático para isso. Não é teoria. É ferramenta.",
+    "Existe uma ferramenta simples e poderosa para cavar abaixo do sintoma.",
+    "Existem dois tipos de perguntas no processo de decisão. As que adicionam",
+    "Final do capítulo anterior é sua melhor ferramenta de",
+    "Mapa do Ruído do capítulo dois? Aqui ele volta. Porque antes de",
+    "Mas método sem sabedoria é ferramenta sem alma. E é disso que a próxim",
+    "Mas método sem sabedoria é ferramenta sem alma. E é disso que a próxima",
+    "Mas não tem sistema.",
+    "Mas saber não resolve. Você precisa de método. De estrutura. De um",
+    "MÉTODO FOCUS™",
+    "No Método FOCUS™, a inteligência artificial tem limites explícitos. N"
+  ],
+  "decisoes_encontradas": [
+    "E o resultado é o que vemos em líderes ao redor do mundo: pessoas competentes, bem-intencionadas e trabalhadoras que travam. Não por falta de capacidade. Por falta de método. Por falta de critério. Po",
+    "PARTE I — A Dor: Onde a Decisão Morre",
+    "Antes de aprender a decidir bem, você precisa entender por que decide mal. Não por culpa ou julgamento — mas por diagnóstico honesto. Os primeiros cinco capítulos mapeiam os obstáculos externos que sa",
+    "Você vai entender por que decisão não escala mas critério sim — e por que você provavelmente se tornou o gargalo da sua própria operação sem perceber. Vai enfrentar o ruído que consome sua capacidade ",
+    "Três capítulos que mergulham no terreno mais desconfortável da liderança: você. Seus jogos invisíveis. Suas necessidades mais profundas. Seu ego. Sua busca por consenso. E o tempo moral que toda decis",
+    "Usado bem, ele não substitui seu julgamento — ele o potencializa. Não elimina a incerteza — mas a torna gerenciável. Não toma a decisão por você — mas garante que você considerou o que precisava consi",
+    "Não é uma garantia de acerto. Você vai errar. Todo decisor erra. A diferença está em errar com consciência — sabendo por que escolheu, o que esperava, e o que vai ajustar — em vez de errar no piloto a",
+    "Mas tudo isso depende de uma coisa que só você pode dar: presença. Ler com a intenção de aplicar. Não de acumular. Não de concordar ou discordar em abstrato. Mas de olhar para o que você lê e pergunta",
+    "PARTE I — *Onde a Decisão Morre*",
+    "*\"A decisão é singular. O critério é transmissível.\"*",
+    "deteriorando. Não por falta de dinheiro. Por falta de autonomia do",
+    "de e-mail marketing. Confere nota fiscal. E quando chega a decisão que",
+    "A decisão é singular. O critério é transmissível.",
+    "Você não decide mal porque falta informação.",
+    "Se você não lembra, o problema não é falta de tempo. É excesso de ruído.",
+    "a falta de dados. É o excesso. Cada notícia, cada opinião, cada análise,",
+    "ilusão de que, se você souber tudo, a decisão vai ficar fácil.",
+    "Não vai. A decisão nunca fica fácil. O que fica possível é enxergar com",
+    "silêncio que a decisão se forma. Não no barulho de uma reunião. Não no",
+    "critério. Porque ele tinha algo que nós perdemos: espaço mental."
+  ],
+  "termos_em_negrito": [
+    "A decisão é singular. O critério é transmissível.",
+    "A decisão é sua. Sempre foi. Sempre será.",
+    "Ajuste estratégico",
+    "Antes de Começar",
+    "Análise infinita é sintoma de medo, não de prudência.",
+    "Bloco 1: Comunicação.",
+    "Bloco 2: Execução.",
+    "Bloco 3: Critério de ajuste.",
+    "C · C |",
+    "C · Consequências",
+    "C — CONSEQUÊNCIAS  (opção analisada: _______________________)",
+    "CAPÍTULO 0",
+    "CAPÍTULO 17 — A Fidelidade ao Enxergado",
+    "Certeza através de critério, não de controle.",
+    "Conexão através de respeito, não de agrado.",
+    "Consenso é paralisia disfarçada de harmonia.",
+    "Contribuição através de capacitação, não de dependência.",
+    "Crescimento através de erro processado, não de acumulação vazia.",
+    "Critério",
+    "Critério da escolha:",
+    "Critério de ajuste:",
+    "Critério usado",
+    "Custo de energia mental.",
+    "Custo de oportunidade.",
+    "Custo de reversão.",
+    "Custo relacional.",
+    "DECIDIR É",
+    "Data",
+    "Data limite: \\_\\_\\_/\\_\\_\\_/\\_\\_\\_\\_\\_\\_",
+    "Decidir fora do tempo certo custa mais do que decidir errado.",
+    "Decisão",
+    "Ego é prisão disfarçada de importância.",
+    "Enxergar a verdade e sustentar",
+    "Enxergar consequências",
+    "Enxergar ensino",
+    "Enxergar necessidades",
+    "Enxergar o prazo moral é sabedoria.",
+    "Enxergar o problema",
+    "Enxergar opções",
+    "Enxergar os jogos",
+    "Enxergar prazo moral",
+    "Enxergar sabedoria",
+    "Enxergar sustentação",
+    "Enxergar urgência",
+    "Enxergar versus ver na ilusão da clareza",
+    "Enxergar versus ver no ruído",
+    "F ·   |",
+    "F · Foco no Problema Central",
+    "F — FOCO",
+    "Fatos"
+  ],
+  "titulo_detectado": "MÉTODO FOCUS™"
+}

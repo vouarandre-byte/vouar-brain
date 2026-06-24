@@ -1,0 +1,40 @@
+{
+  "livro": "MTG",
+  "versao_antiga": "v1.8",
+  "versao_atual": "v2.1",
+  "secoes_removidas": [
+    {
+      "titulo": "Capítulo 28",
+      "conteudo": "Teste de Sucessão — Ausência Programada",
+      "status": "Possivelmente incorporado em outro capítulo"
+    },
+    {
+      "titulo": "Capítulo 29",
+      "conteudo": "Os 7 Sinais da Metamorfose",
+      "status": "Possivelmente incorporado em outro capítulo"
+    },
+    {
+      "titulo": "Capítulo 30",
+      "conteudo": "Sinais / O Que Indica",
+      "status": "Possivelmente incorporado em outro capítulo"
+    }
+  ],
+  "secoes_adicionadas": [
+    {
+      "titulo": "Capítulo 4",
+      "status": "Novo"
+    },
+    {
+      "titulo": "Capítulo 5",
+      "status": "Novo"
+    },
+    {
+      "titulo": "Capítulo 25",
+      "status": "Novo"
+    },
+    {
+      "titulo": "INTERLÚDIO",
+      "status": "Novo"
+    }
+  ]
+}

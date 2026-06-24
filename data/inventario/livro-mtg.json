@@ -1,0 +1,431 @@
+{
+  "id": "livro-mtg",
+  "tipo": "livro",
+  "metodo": "MTG",
+  "arquivo": "MTX_MTG_Livro_COMPLETO_v2.1.docx",
+  "total_paras": 2391,
+  "secoes": [
+    {
+      "titulo": "SUA EMPRESA NÃO É SEU FILHO",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "SUA EMPRESA NÃO É SEU FILHO",
+      "nivel": 2,
+      "n_paras": 3
+    },
+    {
+      "titulo": "ABERTURA",
+      "nivel": 2,
+      "n_paras": 14
+    },
+    {
+      "titulo": "O QUE VOCÊ VAI PERCORRER",
+      "nivel": 2,
+      "n_paras": 1
+    },
+    {
+      "titulo": "CONSCIÊNCIA",
+      "nivel": 2,
+      "n_paras": 2
+    },
+    {
+      "titulo": "ENTENDIMENTO",
+      "nivel": 2,
+      "n_paras": 16
+    },
+    {
+      "titulo": "O QUE ESTE LIVRO NÃO É",
+      "nivel": 2,
+      "n_paras": 7
+    },
+    {
+      "titulo": "O PONTO DE PARTIDA",
+      "nivel": 2,
+      "n_paras": 11
+    },
+    {
+      "titulo": "CONSCIÊNCIA",
+      "nivel": 2,
+      "n_paras": 19
+    },
+    {
+      "titulo": "CAPÍTULO 1",
+      "nivel": 1,
+      "n_paras": 74
+    },
+    {
+      "titulo": "CAPÍTULO 2",
+      "nivel": 1,
+      "n_paras": 56
+    },
+    {
+      "titulo": "CAPÍTULO 3",
+      "nivel": 1,
+      "n_paras": 106
+    },
+    {
+      "titulo": "CAPÍTULO 4",
+      "nivel": 1,
+      "n_paras": 80
+    },
+    {
+      "titulo": "CAPÍTULO 5",
+      "nivel": 1,
+      "n_paras": 47
+    },
+    {
+      "titulo": "ENTENDIMENTO",
+      "nivel": 2,
+      "n_paras": 18
+    },
+    {
+      "titulo": "CAPÍTULO 6",
+      "nivel": 1,
+      "n_paras": 75
+    },
+    {
+      "titulo": "CAPÍTULO 7",
+      "nivel": 1,
+      "n_paras": 78
+    },
+    {
+      "titulo": "CAPÍTULO 8",
+      "nivel": 1,
+      "n_paras": 71
+    },
+    {
+      "titulo": "CAPÍTULO 9",
+      "nivel": 1,
+      "n_paras": 35
+    },
+    {
+      "titulo": "INTERLÚDIO",
+      "nivel": 2,
+      "n_paras": 33
+    },
+    {
+      "titulo": "CAPÍTULO 10",
+      "nivel": 1,
+      "n_paras": 96
+    },
+    {
+      "titulo": "PARTE 3",
+      "nivel": 1,
+      "n_paras": 20
+    },
+    {
+      "titulo": "CAPÍTULO 11",
+      "nivel": 1,
+      "n_paras": 11
+    },
+    {
+      "titulo": "Etapa 1, Reconhecimento - O prospect descobre que você existe. Pode ser por indicação, por presença digital, por evento, por prospecção ativa da sua equipe. É o topo do funil, onde tudo começa.",
+      "nivel": 1,
+      "n_paras": 1
+    },
+    {
+      "titulo": "Etapa 2, Interesse - O prospect demonstra interesse, pede informação, aceita uma reunião, solicita proposta. Saiu da posição passiva e se moveu em direção à empresa.",
+      "nivel": 1,
+      "n_paras": 1
+    },
+    {
+      "titulo": "Etapa 3, Avaliação - O prospect está comparando, analisando, pesando. É aqui que a proposta de valor precisa ser clara e o processo comercial precisa ser consistente, porque é onde a maioria das empresas perde por falta de acompanhamento estruturado.",
+      "nivel": 1,
+      "n_paras": 1
+    },
+    {
+      "titulo": "Etapa 4, Decisão - O prospect fecha, ou não fecha. É o momento da conversão, onde o funil produz resultado financeiro visível.",
+      "nivel": 1,
+      "n_paras": 1
+    },
+    {
+      "titulo": "Etapa 5, Retenção e Expansão - O cliente assinou. Aqui começa a jornada pós-venda, e é aqui que a maioria dos donos técnicos abandona o sistema e volta para o topo do funil em busca do próximo prospect.",
+      "nivel": 1,
+      "n_paras": 53
+    },
+    {
+      "titulo": "CAPÍTULO 12",
+      "nivel": 1,
+      "n_paras": 110
+    },
+    {
+      "titulo": "CAPÍTULO 13",
+      "nivel": 1,
+      "n_paras": 113
+    },
+    {
+      "titulo": "CAPÍTULO 14",
+      "nivel": 1,
+      "n_paras": 125
+    },
+    {
+      "titulo": "CAPÍTULO 15",
+      "nivel": 1,
+      "n_paras": 45
+    },
+    {
+      "titulo": "Etapa 2, Medir aderência.  Como você sabe se o processo está sendo seguido? Sem indicador de aderência, você assume que está — e frequentemente está errado. Indicador de aderência não é sofisticado. É a resposta para: quantas vezes o processo foi executado conforme documentado, versus quantas vezes foi improvisado ou executado de forma diferente? Um checklist com datas de preenchimento já é indicador de aderência.",
+      "nivel": 1,
+      "n_paras": 66
+    },
+    {
+      "titulo": "PARTE 4",
+      "nivel": 1,
+      "n_paras": 22
+    },
+    {
+      "titulo": "CAPÍTULO 16",
+      "nivel": 1,
+      "n_paras": 61
+    },
+    {
+      "titulo": "CAPÍTULO 17",
+      "nivel": 1,
+      "n_paras": 56
+    },
+    {
+      "titulo": "CAPÍTULO 18",
+      "nivel": 1,
+      "n_paras": 152
+    },
+    {
+      "titulo": "CAPÍTULO 19",
+      "nivel": 1,
+      "n_paras": 86
+    },
+    {
+      "titulo": "CAPÍTULO 20",
+      "nivel": 1,
+      "n_paras": 54
+    },
+    {
+      "titulo": "PARTE 5",
+      "nivel": 1,
+      "n_paras": 19
+    },
+    {
+      "titulo": "CAPÍTULO 21",
+      "nivel": 1,
+      "n_paras": 51
+    },
+    {
+      "titulo": "CAPÍTULO 22",
+      "nivel": 1,
+      "n_paras": 80
+    },
+    {
+      "titulo": "CAPÍTULO 23",
+      "nivel": 1,
+      "n_paras": 65
+    },
+    {
+      "titulo": "CAPÍTULO 24",
+      "nivel": 1,
+      "n_paras": 52
+    },
+    {
+      "titulo": "CAPÍTULO 25",
+      "nivel": 1,
+      "n_paras": 75
+    },
+    {
+      "titulo": "FERRAMENTAS PRÁTICASRESUMO EXECUTIVO",
+      "nivel": 2,
+      "n_paras": 8
+    },
+    {
+      "titulo": "Capítulo 10",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "Capítulo 11",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "Capítulo 12",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "Capítulo 12",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "Capítulo 13",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "Capítulo 16",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "Capítulo 24",
+      "nivel": 1,
+      "n_paras": 15
+    },
+    {
+      "titulo": "Capítulo 24",
+      "nivel": 1,
+      "n_paras": 1
+    },
+    {
+      "titulo": "Capítulo 25",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "Capítulo 25",
+      "nivel": 1,
+      "n_paras": 1
+    },
+    {
+      "titulo": "O QUE INDICA",
+      "nivel": 2,
+      "n_paras": 15
+    },
+    {
+      "titulo": "Capítulo 24",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "CRITÉRIO DE SUCESSO",
+      "nivel": 2,
+      "n_paras": 16
+    },
+    {
+      "titulo": "Capítulo 10",
+      "nivel": 1,
+      "n_paras": 5
+    },
+    {
+      "titulo": "Capítulo 4",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "Capítulo 5",
+      "nivel": 1,
+      "n_paras": 1
+    },
+    {
+      "titulo": "GLOSSÁRIO ESTRATÉGICO",
+      "nivel": 2,
+      "n_paras": 34
+    }
+  ],
+  "conceitos": [
+    "\"Não questione o processo se ele funciona.\"  Ninguém proibiu questionar. Mas a sugest",
+    "\"era mais rápido\\\". Os relatórios que o sistema gerava não correspondiam ao que estava acontecendo na opera",
+    "' precisa de resposta antes de qualquer ferramenta operacional.",
+    "(dono): Índice de Dependência do Dono, Score MTX, respondem à pergunta: a empresa está se tornando menos",
+    "(metodomtg.com.br/score)",
+    ", Medir aderência.  Como você sabe se o processo está sendo seguido? Sem indicador de aderência, você assume",
+    ", Saída.  O resultado esperado quando o processo é concluído corretamente. O que deve estar pronto, entregue",
+    ", contratação, investimento, mudança de modelo, houve alguém que levantou objeção real que você precisou c",
+    ", disponível como ferramenta digital do método, com resultado de zero a vinte por pilar e zero a cento e q",
+    ", nem uma ferramenta de autoajuda. É um protocolo cognitivo de interrupção, projetado especificamente para cr",
+    ", não apenas do solicitante técnico. Há protocolo de atendimento diferenciado para esses clientes em situação",
+    ", o conhecimento não vai junto. Fica no processo, acessível para quem assume.",
+    ", o dono aplicou o framework CPRE que o método MTG utiliza para estruturar decisão sob pressão.",
+    ". A Pausa é o movimento mais difícil do protocolo porque vai diretamente contra o padrão instalado: urgente e",
+    ". A conclusão de décadas de pesquisa: o Sistema 1 domina a maioria das decisões, especialmente sob pressão.",
+    ". Adapte as funções e etapas para o seu processo prioritário. Legenda: R = Executa · A = Aprova · C = Consul",
+    ". O segundo precisa de coragem, e de um método que transforme a coragem numa escolha estruturada, não num",
+    "0 a 4 pontos: ausência de sistema de alinhamento. A empresa se coordena por urgência e presen",
+    "1. Método MTG — Os 4 Estágios da Transição",
+    "10 a 12 pontos: Processo estruturado. A qualidade da sua contratação é resultado de",
+    "10 a 12 pontos: sistema de rituais consolidado. O alinhamento da sua empresa aconte",
+    "14. Protocolo de Ausência Progressiva",
+    "15. Método FOCUS™",
+    "16 Personalidades — Ferramenta de mapeamento comportamental baseada no MBTI, com 4 grupos",
+    "3. POP — Procedimento Operacional Padrão",
+    "4. Matriz RACI",
+    "5 a 9 pontos: Processo parcial. Você tem alguns elementos certos, mas lacunas que",
+    "5 a 9 pontos: sistema parcial. Alguns rituais funcionam, outros não. Identifique",
+    "8. Modelo de Feedback SCI",
+    "9. Framework CPRE"
+  ],
+  "decisoes_encontradas": [
+    "Dono que vive dentro da operação não tem tempo para trabalhar no negócio. E negócio sem dono que pensa cresce até o limite do que a operação suporta, e para. Não por falta de mercado. Não por falta de",
+    "A resposta não está na falta de informação. Está na arquitetura da mente.",
+    "O empresário da abertura deste capítulo não pausou. Trinta e cinco minutos entre o estímulo e a decisão pareceram tempo suficiente. Não eram, porque ele passou esses trinta e cinco minutos dentro do m",
+    "A Reflexão não elimina a decisão. Ela calibra a decisão. O que sai depois dela é diferente, mais preciso, menos ruidoso, mais alinhado ao que o empresário quer construir do que ao que o padrão antigo ",
+    "\"O problema do empresário operacional não é falta de informação. É excesso de padrão instalado.\"",
+    "—  O ritual de gestão não é uma reunião — é a experiência de governar por dados antes que a intuição sequestre a decisão.",
+    "Dependência operacional não é fraqueza de gestão. É o resultado natural de um modelo de crescimento que colocou o dono no centro de tudo, por necessidade no início, por hábito depois, por falta de est",
+    "Quando esse intervalo é pequeno, horas ou dias para decisões operacionais, semanas para decisões estratégicas, a empresa opera com agilidade e o custo de oportunidade é baixo. Quando esse intervalo se",
+    "Como distinguir os dois? A pergunta é direta: você está levantando novas informações que podem mudar a decisão, ou está revisando as mesmas informações com a esperança de que o problema se resolva soz",
+    "F, Foco no Problema Central. A maioria das decisões falha antes de começar — porque resolve o problema errado. Este passo força a distinção entre sintoma e causa raiz: nomear o problema real, não o qu",
+    "U, Urgência Moral. Toda decisão tem prazo. Não o prazo do calendário — o prazo moral. É o ponto a partir do qual o custo de adiar supera o custo de decidir errado. Este passo te força a nomear esse pr",
+    "S, Sustentação. Como essa decisão será sustentada no tempo? Quem é responsável pelo quê? Qual é o prazo de acompanhamento? Como você vai saber se a decisão está produzindo o resultado esperado? Decisã",
+    "Consequências: No curto prazo (30 dias), qualquer opção gera desconforto — não há saída confortável. No médio prazo (3-6 meses): o plano de melhoria com prazo definido preserva o relacionamento e ofer",
+    "Com o FOCUS™ aplicado no terceiro mês, a decisão teria sido tomada em duas semanas, não oito meses. O custo teria sido uma fração do que foi. E a equipe teria recebido uma mensagem de clareza e critér",
+    "7 a 12 pontos, Gargalo significativo. O padrão de adiamento está instalado e está custando à empresa em receita, em cultura e em oportunidade. O primeiro passo não é aplicar todas as ferramentas ao me",
+    "0 a 6 pontos, Gargalo crítico. A empresa está operando com a decisão represada como padrão. A equipe provavelmente já desenvolveu comportamentos adaptativos ao redor da sua indisponibilidade decisória",
+    "O Método FOCUS™ não elimina a incerteza. Ele estrutura a decisão dentro dela, de forma que o que é tomado seja uma escolha consciente, não uma reação adiada que virou inevitável por falta de ação.",
+    "[ Ponto de Honestidade ] Qual é a decisão mais importante que você tem adiado nos últimos 30 dias? Aplique o Método FOCUS™ agora, não depois de terminar o livro. Agora. E registre: qual é o custo real",
+    "Caso ilustrativo: o dono de uma empresa de tecnologia no Rio de Janeiro respondia mensagens do WhatsApp de clientes em média das 7h às 23h, incluindo fins de semana. Quando definiu janelas de atendime",
+    "1. SER, a decisão que antecede todas as outras"
+  ],
+  "termos_em_negrito": [
+    "\"Nunca contradiga o dono na frente de cliente.\"",
+    "\"Não questione o processo se ele funciona.\"",
+    "\"O problema do empresário operacional não é falta de informação. É excesso de pa",
+    "\"O resultado final do MTG não é um conjunto de processos. É um ambiente que pass",
+    "\"Tragam apenas problemas que já têm solução.\"",
+    "\"Você não muda porque quer. Você muda porque o que você vive todos os dias passo",
+    "0 a 12 pontos, Gestão por percepção.",
+    "0 a 2 respostas sim:",
+    "0 a 3 documentados:",
+    "0 a 4 pontos --- Crescimento prematuro.",
+    "0 a 4 pontos:",
+    "0 a 5 pontos, Ausência de estrutura.",
+    "1. Método MTG — Os 4 Estágios da Transição",
+    "1. SER, a decisão que antecede todas as outras",
+    "10 a 12 pontos:",
+    "10. Rituais de Gestão",
+    "11. Rituais Familiares Inegociáveis",
+    "12 a 14 pontos, Time com estrutura sólida.",
+    "12. Teste de Sucessão — Ausência Programada",
+    "15 dias antes:",
+    "16 Personalidades —",
+    "1:1 —",
+    "2. FAZER, as escolhas congruentes com quem você decidiu ser",
+    "2. Os 4 Pilares de Um Negócio Que Funciona Sem Você",
+    "3 a 4 respostas sim:",
+    "3 a 5 perguntas sem resposta:",
+    "3. POP — Procedimento Operacional Padrão",
+    "3. TER, o resultado que segue de ser e fazer com consistência",
+    "30 dias antes:",
+    "4. Matriz RACI",
+    "5 a 7 pontos --- Crescimento com risco moderado.",
+    "5 a 9 pontos:",
+    "5 respostas sim:",
+    "5. Matriz 2×2 de Performance",
+    "6 a 11 pontos, Estrutura em construção.",
+    "6. Perfil Comportamental DISC",
+    "60 dias antes:",
+    "7 a 10 documentados:",
+    "7 a 12 pontos Proposta em transição.",
+    "7. Os 5 Níveis de Delegação",
+    "8 a 10 pontos --- Empresa estruturada para crescer.",
+    "8. Modelo de Feedback SCI",
+    "9. Framework CPRE",
+    "A Mente Consciente",
+    "A Mente Inconsciente, a camada mais profunda.",
+    "A Mente Subconsciente, a camada dos hábitos e crenças",
+    "A cultura vem do dono, não do manual",
+    "A curva que nenhum dono te ensina, mas todo dono precisa entender",
+    "A empresa cresce até onde a mentalidade do dono permite.",
+    "A ilusão da informação"
+  ],
+  "titulo_detectado": "SUA EMPRESA NÃO É SEU FILHO"
+}

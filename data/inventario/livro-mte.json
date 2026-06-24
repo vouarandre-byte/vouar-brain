@@ -1,0 +1,486 @@
+{
+  "id": "livro-mte",
+  "tipo": "livro",
+  "metodo": "MTE",
+  "arquivo": "MTX_MTE_Livro_REVISADO_v2_12.docx",
+  "total_paras": 1596,
+  "secoes": [
+    {
+      "titulo": "INÍCIO",
+      "nivel": 1,
+      "n_paras": 6
+    },
+    {
+      "titulo": "NOTA DO AUTOR",
+      "nivel": 2,
+      "n_paras": 29
+    },
+    {
+      "titulo": "SUMÁRIO",
+      "nivel": 2,
+      "n_paras": 1
+    },
+    {
+      "titulo": "Capítulo 24. O Que Vem Depois",
+      "nivel": 1,
+      "n_paras": 3
+    },
+    {
+      "titulo": "CONSCIÊNCIA",
+      "nivel": 2,
+      "n_paras": 1
+    },
+    {
+      "titulo": "CAPÍTULO 1",
+      "nivel": 1,
+      "n_paras": 65
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 14
+    },
+    {
+      "titulo": "CAPÍTULO 2",
+      "nivel": 1,
+      "n_paras": 60
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 4
+    },
+    {
+      "titulo": "CAPÍTULO 3",
+      "nivel": 1,
+      "n_paras": 58
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "CAPÍTULO 4",
+      "nivel": 1,
+      "n_paras": 40
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 4
+    },
+    {
+      "titulo": "PARTE 2",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "CAPÍTULO 5",
+      "nivel": 1,
+      "n_paras": 89
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "CAPÍTULO 6",
+      "nivel": 1,
+      "n_paras": 58
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "CAPÍTULO 7",
+      "nivel": 1,
+      "n_paras": 67
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "CAPÍTULO 8",
+      "nivel": 1,
+      "n_paras": 59
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 8
+    },
+    {
+      "titulo": "PARTE 3",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "CAPÍTULO 9",
+      "nivel": 1,
+      "n_paras": 33
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "CAPÍTULO 10",
+      "nivel": 1,
+      "n_paras": 52
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "CAPÍTULO 11",
+      "nivel": 1,
+      "n_paras": 46
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "CAPÍTULO 12",
+      "nivel": 1,
+      "n_paras": 41
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 4
+    },
+    {
+      "titulo": "PARTE 4",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "CAPÍTULO 13",
+      "nivel": 1,
+      "n_paras": 15
+    },
+    {
+      "titulo": "Etapa 1: Atrair, gerar visibilidade qualificada.",
+      "nivel": 1,
+      "n_paras": 3
+    },
+    {
+      "titulo": "Etapa 2: Qualificar, identificar se vale o investimento de uma conversa.",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "Etapa 3: Diagnosticar, entender o problema com mais profundidade do que o próprio cliente.",
+      "nivel": 1,
+      "n_paras": 5
+    },
+    {
+      "titulo": "Etapa 4: Apresentar, propor solução específica, não genérica.",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "Etapa 5: Fechar, criar condição para a decisão.",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "Etapa 6: Reativar, trabalhar a base existente.",
+      "nivel": 1,
+      "n_paras": 9
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 2
+    },
+    {
+      "titulo": "CAPÍTULO 14",
+      "nivel": 1,
+      "n_paras": 50
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "CAPÍTULO 15",
+      "nivel": 1,
+      "n_paras": 47
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 2
+    },
+    {
+      "titulo": "CAPÍTULO 16",
+      "nivel": 1,
+      "n_paras": 40
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 2
+    },
+    {
+      "titulo": "PARTE 5",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "CAPÍTULO 17",
+      "nivel": 1,
+      "n_paras": 34
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "CAPÍTULO 18",
+      "nivel": 1,
+      "n_paras": 37
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "CAPÍTULO 19",
+      "nivel": 1,
+      "n_paras": 34
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "CAPÍTULO 20",
+      "nivel": 1,
+      "n_paras": 50
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 50
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 10
+    },
+    {
+      "titulo": "PARTE 6",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "CAPÍTULO 21",
+      "nivel": 1,
+      "n_paras": 16
+    },
+    {
+      "titulo": "Etapa                Volume/mês   Taxa de avanço Contatos iniciais        12              . Qualificados             4                33% Reunião de diagnóstico   3                75% Proposta enviada         2                67% Proposta aceita          1                50% Entregue com qualidade   1                100% Renova ou indica         0,4              40%",
+      "nivel": 1,
+      "n_paras": 30
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "CAPÍTULO 22",
+      "nivel": 1,
+      "n_paras": 43
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "CAPÍTULO 23",
+      "nivel": 1,
+      "n_paras": 43
+    },
+    {
+      "titulo": "PONTO DE HONESTIDADE",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "CAPÍTULO 24",
+      "nivel": 1,
+      "n_paras": 44
+    },
+    {
+      "titulo": "Parte 6. Aceleração: você identificou as alavancas de crescimento com base em gargalo real. Aprendeu a reinventar o modelo quando os dados indicam que é necessário, sem destruir o que funciona. E entendeu por que o desenvolvimento de liderança precisa começar antes de ser urgentemente necessário.",
+      "nivel": 1,
+      "n_paras": 41
+    },
+    {
+      "titulo": "APÊNDICE",
+      "nivel": 2,
+      "n_paras": 3
+    },
+    {
+      "titulo": "F. FOCO",
+      "nivel": 2,
+      "n_paras": 3
+    },
+    {
+      "titulo": "C. CONSEQUÊNCIAS",
+      "nivel": 2,
+      "n_paras": 1
+    },
+    {
+      "titulo": "U. URGÊNCIA",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "REFERÊNCIAS",
+      "nivel": 2,
+      "n_paras": 3
+    },
+    {
+      "titulo": "GLOSSÁRIO",
+      "nivel": 2,
+      "n_paras": 11
+    }
+  ],
+  "conceitos": [
+    "% do faturamento é sinal de problema de processo, de emissão de cobrança, de follow-up, ou de perfil de clie",
+    "(sistema de venda, canal de aquisição, processo de entrega, precificação) é construído sobre ela. Proposta",
+    ", por falta de pessoas, por problema de processo, ou por qualquer interrupção na capacidade de operação.",
+    ", sem diploma, sem curso de gestão, sem metodologia formalizada. Apenas trabalho, caráter e uma clareza sobre o",
+    "-  pelo menos não neste modelo ou neste momento.",
+    "-  é método. Este capítulo dá o método.",
+    "-la. Mas existe um elemento que nenhuma ferramenta substitui: a disposição para ser diferente do que você foi",
+    ". A fundação primeiro (metodomtg.com.br/score).",
+    ". Gestão Financeira. Com a proposta e o modelo definidos, você precisa de visibilidade financeira para tom",
+    ". Mentalidade, Transição, Estratégia. O Score MTX te espera mais à frente, no",
+    ". Os clientes mudam. O fundador muda. O modelo precisa acompanhar.",
+    "5% de ganho disponível na otimização de processo. Se não, o próximo contrato que fechar já precisa ter a con",
+    "9 a 12: a escolha. Ou você encontra um modelo sustentável e aprende rápido o que não sabe, ou a empresa c",
+    ": a perda de uma licitação por falta de sistema adequado.",
+    ": primeiro P2 real e início do P3, se o modelo estiver correto. Custos: subestimados em 20 a 40% em quase",
+    "A contratação acontece sem processo formal, sem descrição de cargo clara, sem acordo explícito",
+    "A gestão da inadimplência, processo, não tolerância",
+    "A pergunta para definir seu modelo: existe algo no que você faz que pode ser transformado em s",
+    "A proposta está validada ou ajustada. O modelo de receita começa a ter algum grau de previsibilidade. A op",
+    "A revisão trimestral do modelo é o instrumento que detecta o pivot silencioso, antes que e",
+    "Agora você tem o mapa.",
+    "Ajustar o modelo é necessário às vezes. Destruir o que funciona desnecessari",
+    "Ajuste de modelo tem consequências além do faturamento e da margem. Tem cons",
+    "Alavanca 3. Processo de entrega (gargalo: qualidade oscilante ou retrabalho alto",
+    "Alguns sinais de que o modelo precisa de revisão além do ajuste incremental: o público qu",
+    "Apêndice. O Método FOCUS",
+    "Cada capítulo é uma ferramenta. Cada ferramenta tem aplicação prática. Cada aplicação prát",
+    "Cada capítulo é uma ferramenta. Cada ferramenta tem aplicação prática. Cada aplicação prática tem resultado",
+    "Capítulo 11. O Primeiro Processo",
+    "Capítulo 1: que o trabalho aqui seria o mapa para evitar o abismo entre técnico excelente e empresário f"
+  ],
+  "decisoes_encontradas": [
+    "Ao longo de mais de doze anos, trabalhei diretamente com mais de mil líderes e donos de empresas em treinamentos, mentorias e reestruturações operacionais. A maioria deles técnicos que chegaram até mi",
+    "Isso não é fracasso de caráter. Não é falta de dedicação. É o resultado previsível de uma transição que exige aprender um conjunto completamente novo de competências, e que a maioria dos técnicos tent",
+    "Meses 4 a 8: o Vale da Morte. O dinheiro da reserva está diminuindo mais rápido do que planejado. Os clientes não chegam na velocidade que você imaginou. As despesas fixas são maiores do que o estimad",
+    "O fundador que conhece esse padrão antes de vivê-lo toma decisões diferentes em cada etapa. Na euforia inicial, já está construindo processo em vez de apenas executando. No Vale da Morte, já tem reser",
+    "Empresa-ativo é o negócio que produz valor independente do fundador. Tem processos que orientam a operação. Tem pessoas que decidem dentro das suas alçadas. Tem clientes que têm relação com a empresa,",
+    "Sua mente não é uma coisa só. Você não pensa de forma linear e racional, mesmo quando acha que pensa. Você opera em três camadas simultâneas de processamento. Cada uma com velocidade diferente, priori",
+    "Fugir: você adia a decisão indefinidamente. Sempre tem mais uma coisa para estudar, mais uma reserva para fazer, mais um mês para esperar. Você planeja infinitamente porque planejar é seguro. Executar",
+    "Você quer sair de onde está. Está insatisfeito com o salário, com o chefe, com a falta de reconhecimento, com o teto que o emprego impõe. Sua motivação principal é escapar de algo que incomoda, não co",
+    "Leitura do exemplo: reserva de 2,1 meses está abaixo do mínimo de 3 meses, pista vermelha. O maior cliente representa 45% do faturamento, pista amarela. A decisão de contratar precisa aguardar a reser",
+    "Risco de liquidez: a empresa é viável no papel, mas a conta não tem saldo para pagar a folha de sexta. Fluxo de caixa e rentabilidade são conceitos diferentes. Empresa lucrativa pode quebrar por falta",
+    "É o risco de que a empresa não consiga entregar o que prometeu, seja por falha técnica, por falta de pessoas, por problema de processo, ou por qualquer interrupção na capacidade de operação.",
+    "Risco calculado exige não apenas análise de probabilidade e impacto, mas um plano de contingência explícito para os riscos críticos. Um plano de contingência não é pessimismo, é a diferença entre cris",
+    "A decisão consciente, o que significa estar pronto",
+    "O problema não é que recurso seja ruim. É que recurso é facilmente comparável. Se você descreve o que faz em termos técnicos, o cliente vai comparar o seu recurso com o recurso do concorrente, e quand",
+    "A dor superficial é técnica. A dor real é emocional e financeira. E é no nível emocional que o cliente decide comprar. É no nível financeiro que ele justifica o investimento racionalmente depois que a",
+    "Para um provedor de internet: a situação-gatilho pode ser a queda durante uma reunião importante com cliente. Para uma consultoria financeira: a chegada de uma notificação do Fisco ou a descoberta de ",
+    "Uma vez que o perfil está definido e validado, ele precisa ser usado como filtro, não apenas como descrição interna. Na comunicação: toda mensagem que você publica, envia ou fala deve ser escrita para",
+    "A decisão de dizer não, e quando ela é estratégica",
+    "Existe uma categoria de fundador que fecha empresa não por falta de mercado, não por incompetência técnica, não por crise econômica.",
+    "Um técnico que fatura R$ 25 mil por mês e tem custo fixo de R$ 8 mil pensa que tem R$ 17 mil de lucro. Quando inclui o pró-labore real de R$ 7 mil, custo variável de R$ 4 mil e provisão de inadimplênc"
+  ],
+  "termos_em_negrito": [
+    "\"Eu deveria ter minha própria empresa.\"",
+    "(ponto de equilíbrio):",
+    "**A blindagem patrimonial que começa na separação",
+    "**Contrato não é desconfiança, é profissionalismo",
+    "**O cliente errado é mais caro que a ausência de cliente",
+    "**O sinal vermelho que não pode ser ignorado",
+    ". Acordo de Nível de Serviço):",
+    "0 a 7 pontos. Fundação ainda em construção",
+    "1. O que você faz (recurso técnico, em uma frase clara):",
+    "1. Receita recebida na semana.",
+    "14 a 16 pontos. Fundação sólida para o próximo estágio",
+    "2. Contas a pagar nos próximos 7 dias.",
+    "2. Para quem você faz (cliente ideal, específico):",
+    "3. Que problema real você resolve (dor profunda):",
+    "3. Saldo atual em caixa.",
+    "4. Que resultado concreto o cliente obtém (transformação mensurável):",
+    "4. Receita em aberto (a receber).",
+    "5. Custo fixo do mês (já gasto + ainda a pagar).",
+    "6. A frase-síntese (proposta em uma sentença que qualquer pessoa entende em 10 s",
+    "6. Número de novos clientes ou contratos fechados na semana.",
+    "7. Número de clientes ou contratos perdidos na semana.",
+    "8 a 13 pontos. Fundação parcial com lacunas identificadas",
+    "A Pirâmide de Valor: três camadas, três preços",
+    "A distinção que ninguém te ensina antes de abrir empresa",
+    "A frase que orienta tudo",
+    "A promessa cumprida, e a que ainda está por cumprir",
+    "A reinvenção como competência, não como crise",
+    "ACELERAÇÃO",
+    "Agreement",
+    "Ajuste de proposta de valor.",
+    "Ajuste de segmento.",
+    "Ajuste de serviço.",
+    "Alavanca 6. Capacidade operacional (gargalo: não consegue absorver crescimento s",
+    "Alta probabilidade + alto impacto:",
+    "Alta probabilidade + baixo impacto:",
+    "Alçada:",
+    "André Luís Martins Ribeiro",
+    "Antes de decidir crescer, avalie três indicadores:",
+    "Articulabilidade",
+    "As seis alavancas, e como acionar cada uma",
+    "Baixa probabilidade + alto impacto:",
+    "Baixa probabilidade + baixo impacto:",
+    "Break-",
+    "C. CONSEQUÊNCIAS",
+    "CONSCIÊNCIA",
+    "Capital de giro:",
+    "Churn",
+    "Clareza de modelo",
+    "Como usar este diagnóstico",
+    "Como usar o FOCUS a partir de agora"
+  ],
+  "titulo_detectado": "MTE. Série VouAR"
+}

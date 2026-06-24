@@ -1,0 +1,191 @@
+{
+  "id": "civ-prd",
+  "tipo": "prd",
+  "metodo": "CIV",
+  "arquivo": "CIV_PRD_v6.0.docx",
+  "total_paras": 520,
+  "titulo_detectado": "CIV — Cérebro Inteligente da Vouar",
+  "secoes": [
+    {
+      "titulo": "1. VISÃO DO PRODUTO",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "2. A ALMA DO SISTEMA",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "3. EQUAÇÃO CENTRAL",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "4. ARQUITETURA CONCEITUAL",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "5. MULTI-SEGMENTOS",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "6. MULTI-PERFIS",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "7. DOCUMENTO CANÔNICO — MEMÓRIA DA EMPRESA",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "8. KNOWLEDGE ENGINE — HIERARQUIA DAS 4 FONTES",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "9. MOTOR DE RESPOSTA — COMO O CIV PENSA",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "10. REGRAS DE COMPORTAMENTO INEGOCIÁVEIS",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "11. ESTRUTURA DE RESPOSTA POR PERFIL",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "1. Viabilidade financeira não validada",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "2. Infraestrutura técnica desconhecida",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "3. Concorrência local não mapeada",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "12. MÓDULO DE POPS — PROCEDIMENTOS",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "13. PLANOS E GESTÃO DE CRÉDITOS",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "14. INTERFACES POR PERFIL",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "15. PAINEL ADMINISTRATIVO",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "16. STACK TÉCNICA — IMUTÁVEL",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "17. SEGURANÇA E LGPD",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "18. MVP — ESCOPO FECHADO",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "19. INSIGHT DO DIA — PROATIVIDADE MÍNIMA",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "20. GESTÃO DE TOKENS E MOTOR DE RACIOCÍNIO",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "21. PERFORMANCE E MONITORAMENTO DA PLATAFORMA",
+      "nivel": 1,
+      "n_paras": 0
+    },
+    {
+      "titulo": "22. ROADMAP — NÃO IMPLEMENTAR AGORA",
+      "nivel": 1,
+      "n_paras": 0
+    }
+  ],
+  "features_implementadas": [
+    "1. VISÃO DO PRODUTO",
+    "2. A ALMA DO SISTEMA",
+    "3. EQUAÇÃO CENTRAL",
+    "4. ARQUITETURA CONCEITUAL",
+    "5. MULTI-SEGMENTOS",
+    "6. MULTI-PERFIS",
+    "7. DOCUMENTO CANÔNICO — MEMÓRIA DA EMPRESA",
+    "8. KNOWLEDGE ENGINE — HIERARQUIA DAS 4 FONTES",
+    "9. MOTOR DE RESPOSTA — COMO O CIV PENSA",
+    "10. REGRAS DE COMPORTAMENTO INEGOCIÁVEIS",
+    "11. ESTRUTURA DE RESPOSTA POR PERFIL",
+    "1. Viabilidade financeira não validada",
+    "2. Infraestrutura técnica desconhecida",
+    "3. Concorrência local não mapeada",
+    "12. MÓDULO DE POPS — PROCEDIMENTOS",
+    "13. PLANOS E GESTÃO DE CRÉDITOS",
+    "14. INTERFACES POR PERFIL",
+    "15. PAINEL ADMINISTRATIVO",
+    "16. STACK TÉCNICA — IMUTÁVEL",
+    "17. SEGURANÇA E LGPD",
+    "18. MVP — ESCOPO FECHADO",
+    "19. INSIGHT DO DIA — PROATIVIDADE MÍNIMA",
+    "20. GESTÃO DE TOKENS E MOTOR DE RACIOCÍNIO",
+    "21. PERFORMANCE E MONITORAMENTO DA PLATAFORMA"
+  ],
+  "features_roadmap": [
+    {
+      "fase": "Pós-piloto",
+      "item": "Memória entre sessões",
+      "motivo": "Sem memória o CIV é consultor. Com memória é mentor. O piloto valida se o consultor já gera valor."
+    },
+    {
+      "fase": "Pós-piloto",
+      "item": "Risk Engine",
+      "motivo": "Precisa de dados reais dos tenants. Sem dados é tela vazia."
+    },
+    {
+      "fase": "Pós-piloto",
+      "item": "Attention Engine",
+      "motivo": "Idem Risk Engine."
+    },
+    {
+      "fase": "Pós-piloto",
+      "item": "Transformation Engine",
+      "motivo": "Idem Risk Engine."
+    },
+    {
+      "fase": "Fase 2+",
+      "item": "Segmentos 2 a 26",
+      "motivo": "Construir vertical a vertical com a metodologia testada no ISP."
+    }
+  ],
+  "conceitos": [],
+  "decisoes_encontradas": [],
+  "termos_em_negrito": []
+}

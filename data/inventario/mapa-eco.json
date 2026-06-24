@@ -1,0 +1,165 @@
+{
+  "id": "mapa-eco",
+  "tipo": "mapa",
+  "metodo": "VOUAR",
+  "arquivo": "Mapa_do_Ecossistema_Comercial_MTG_v2_0.docx",
+  "total_paras": 360,
+  "secoes": [
+    {
+      "titulo": "INÍCIO",
+      "nivel": 1,
+      "n_paras": 1
+    },
+    {
+      "titulo": "MAPA DO ECOSSISTEMA COMERCIAL",
+      "nivel": 2,
+      "n_paras": 6
+    },
+    {
+      "titulo": "NOTA DE ABERTURA",
+      "nivel": 2,
+      "n_paras": 9
+    },
+    {
+      "titulo": "1. TESE COMERCIAL DO ECOSSISTEMA",
+      "nivel": 2,
+      "n_paras": 10
+    },
+    {
+      "titulo": "2. ARQUITETURA GERAL DO ECOSSISTEMA",
+      "nivel": 2,
+      "n_paras": 176
+    },
+    {
+      "titulo": "10. JORNADA DO CLIENTE",
+      "nivel": 2,
+      "n_paras": 15
+    },
+    {
+      "titulo": "11. FUNIL OPERACIONAL",
+      "nivel": 2,
+      "n_paras": 11
+    },
+    {
+      "titulo": "12. PRODUTOS PRIORITÁRIOS",
+      "nivel": 2,
+      "n_paras": 23
+    },
+    {
+      "titulo": "13. PAPEL DOS PERSONAGENS NO ECOSSISTEMA",
+      "nivel": 2,
+      "n_paras": 16
+    },
+    {
+      "titulo": "15. MÉTRICAS DO ECOSSISTEMA",
+      "nivel": 2,
+      "n_paras": 20
+    },
+    {
+      "titulo": "17. MENSAGEM-MÃE DO ECOSSISTEMA",
+      "nivel": 2,
+      "n_paras": 15
+    },
+    {
+      "titulo": "18. RISCOS DO ECOSSISTEMA",
+      "nivel": 2,
+      "n_paras": 10
+    },
+    {
+      "titulo": "19. PRIORIDADES DOS PRÓXIMOS 90 DIAS",
+      "nivel": 2,
+      "n_paras": 18
+    },
+    {
+      "titulo": "20. SÍNTESE CANÔNICA",
+      "nivel": 2,
+      "n_paras": 15
+    }
+  ],
+  "conceitos": [
+    "\"Existe um método para mudar isso.\"",
+    ", Mentoria Individual, Consultoria MTG, Score-E ou oferta premium futura.",
+    "18.3  Risco 3 — Método complexo demais na entrada",
+    "2.1  Mapa em linha",
+    "2.2  Mapa por profundidade",
+    "4.3  Score MTX Express",
+    "4.4  Score-E Express",
+    "André Ribeiro/VOUAR como criador de uma metodologia proprietária. Aqui o empresário deixa de ver apenas conteúd",
+    "Aplica o método.",
+    "Aplicar o Método MTG com acompanhamento, cadência e orientação para começar",
+    "Aplicação de Score MTX no início e no fim.",
+    "Comercial MTG existe para transformar a metodologia em uma arquitetura de monetização clara.",
+    "Conteúdo gera identificação. Score gera consciência. Diagnóstico gera urgência. Mentoria gera",
+    "Conteúdo → Score → Livro → Diagnóstico Profissional → Programa MTG → Mentori",
+    "Criar modelo de relatório diagnóstico.",
+    "Criar página do Score e automação ou fluxo de WhatsApp.",
+    "Desenvolver Score-E Express.",
+    "Diagnóstico — Score MTX e Score-E.",
+    "Do método à monetização",
+    "Dor → Score → Diagnóstico → Oferta → Transformação → Continuidade",
+    "Ecossistema Comercial MTG transforma a metodologia em uma jornada de monetização.",
+    "Faz o Score MTX Express.",
+    "Faça o Score MTX e descubra se sua empresa funciona por gestão ou por de",
+    "Finalizar Score MTX Express.",
+    "Implantar o Método MTG para reduzir a dependência do dono e construir uma empr",
+    "Implante o Método MTG e reduza a dependência da sua empresa em relação a você",
+    "Introdução ao Score-E.",
+    "MAPA DO ECOSSISTEMA COMERCIAL",
+    "MTC — Método de Transformação do CEO.",
+    "Método: MTG — Mentalidade · Transição · Gestão"
+  ],
+  "decisoes_encontradas": [],
+  "termos_em_negrito": [
+    "-E Express",
+    "1 — Excesso de produtos soltos",
+    "1.1  Sequência",
+    "1.2  Tradução",
+    "10.1  Jornada",
+    "10.2  Jornada",
+    "10.3  Jornada",
+    "11.1  Funil",
+    "11.2  Funil",
+    "11.3  Funil",
+    "12.1  Ordem",
+    "12.2  Ordem",
+    "12.3  Por",
+    "13.1  Dono",
+    "13.2  Dono",
+    "13.3  Dinâmica",
+    "14.1  Canais",
+    "14.2  Estratégia",
+    "15.1  Métricas",
+    "15.2  Métricas",
+    "15.3  Métricas",
+    "15.4  Métricas",
+    "17.1  Versão",
+    "17.2  Frase",
+    "17.3  Versão",
+    "17.4  Versão",
+    "17.5  Versão",
+    "17.6  Versão",
+    "18.1  Risco",
+    "18.2  Risco",
+    "18.3  Risco",
+    "18.4  Risco",
+    "18.5  Risco",
+    "19.1  Primeiros",
+    "19.2  Dias",
+    "19.3  Dias",
+    "2 — Conteúdo sem conversão",
+    "2.1  Mapa",
+    "2.2  Mapa",
+    "3 — Método complexo demais na entrada",
+    "3.1  Função",
+    "3.2  Ativos",
+    "3.3  Promessa",
+    "3.4  CTA",
+    "30 dias",
+    "31 a 60",
+    "4 — Vender consultoria cedo demais",
+    "4.1  Função",
+    "4.2  Ativos",
+    "4.3  Score"
+  ],
+  "titulo_detectado": "VOUAR"
+}

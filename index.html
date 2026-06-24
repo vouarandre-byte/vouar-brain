@@ -305,6 +305,90 @@
   }
   .decisao-motivo strong { color: var(--purple); }
 
+  /* ECOSSISTEMA */
+  .eco-filters {
+    display: flex; flex-wrap: wrap; gap: 6px;
+    margin-bottom: 10px;
+  }
+  .filt, .filt-s {
+    font-size: 11px; font-weight: 600; padding: 5px 10px;
+    border-radius: 20px; border: 1px solid var(--border);
+    background: var(--card); color: var(--text2); cursor: pointer;
+    transition: all 0.15s;
+  }
+  .filt.active, .filt-s.active { background: rgba(75,142,245,0.15); color: var(--blue); border-color: rgba(75,142,245,0.4); }
+  .eco-resumo { font-size: 12px; color: var(--gray); margin-bottom: 14px; }
+  .eco-card {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 10px; margin-bottom: 7px; overflow: hidden;
+  }
+  .eco-card-header {
+    display: flex; align-items: center; gap: 10px;
+    padding: 10px 14px; cursor: pointer;
+  }
+  .eco-card-header:hover { background: rgba(255,255,255,0.02); }
+  .eco-badge {
+    font-size: 10px; font-weight: 800; padding: 2px 7px;
+    border-radius: 3px; flex-shrink: 0; min-width: 28px; text-align: center;
+  }
+  .eco-nome { font-size: 13px; font-weight: 600; flex: 1; }
+  .eco-preco { font-size: 11px; color: var(--text2); flex-shrink: 0; }
+  .eco-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+  .eco-body {
+    display: none; padding: 0 14px 12px 52px;
+    border-top: 1px solid var(--border); font-size: 12px;
+  }
+  .eco-card.open .eco-body { display: block; }
+  .eco-field { margin-top: 7px; color: var(--text2); line-height: 1.5; }
+  .eco-field strong { color: var(--text); }
+  .eco-path { font-family: 'SF Mono', monospace; font-size: 10px; color: var(--gray); margin-top: 4px; word-break: break-all; }
+  .eco-pend { font-size: 11px; color: var(--yellow); background: rgba(245,183,49,0.08); border-left: 2px solid var(--yellow); padding: 5px 8px; border-radius: 4px; margin-top: 6px; }
+
+  /* INVENTÁRIO */
+  .inv-card {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 12px; margin-bottom: 10px; overflow: hidden;
+  }
+  .inv-header {
+    display: flex; align-items: center; gap: 10px;
+    padding: 12px 16px; cursor: pointer;
+  }
+  .inv-header:hover { background: rgba(255,255,255,0.02); }
+  .inv-tipo { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; padding: 2px 7px; border-radius: 3px; flex-shrink: 0; }
+  .tipo-livro { background: rgba(75,142,245,0.15); color: var(--blue); }
+  .tipo-prd   { background: rgba(245,91,91,0.15); color: var(--red); }
+  .tipo-spec  { background: rgba(139,124,245,0.15); color: var(--purple); }
+  .tipo-kit   { background: rgba(29,184,122,0.15); color: var(--green); }
+  .tipo-mapa  { background: rgba(245,183,49,0.15); color: var(--yellow); }
+  .inv-titulo { font-size: 14px; font-weight: 600; flex: 1; }
+  .inv-meta   { font-size: 11px; color: var(--gray); flex-shrink: 0; text-align: right; }
+  .inv-body {
+    display: none; padding: 0 16px 14px;
+    border-top: 1px solid var(--border);
+  }
+  .inv-card.open .inv-body { display: block; }
+  .inv-section-list {
+    display: flex; flex-direction: column; gap: 3px; margin-top: 10px;
+  }
+  .inv-sec {
+    font-size: 12px; padding: 4px 8px; border-radius: 5px;
+    background: rgba(255,255,255,0.03); color: var(--text2);
+    display: flex; justify-content: space-between;
+  }
+  .inv-sec.nivel-1 { border-left: 2px solid var(--blue); }
+  .inv-sec.nivel-2 { border-left: 2px solid rgba(139,124,245,0.5); font-size: 11px; }
+  .inv-sec-count { font-size: 10px; color: var(--gray); }
+  .inv-roadmap { margin-top: 10px; }
+  .inv-roadmap-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--yellow); margin-bottom: 6px; }
+  .inv-roadmap-item { font-size: 12px; padding: 6px 10px; background: rgba(245,183,49,0.06); border-left: 2px solid var(--yellow); border-radius: 4px; margin-bottom: 4px; color: var(--text); }
+  .inv-roadmap-motivo { font-size: 11px; color: var(--text2); margin-top: 2px; }
+  .inv-diff { margin-top: 10px; }
+  .inv-diff-title { font-size: 11px; font-weight: 700; color: var(--red); margin-bottom: 6px; text-transform: uppercase; letter-spacing: 0.06em; }
+  .inv-diff-item { font-size: 12px; padding: 5px 9px; border-left: 2px solid var(--red); background: rgba(245,91,91,0.06); border-radius: 4px; margin-bottom: 4px; }
+  .inv-diff-sub { font-size: 11px; color: var(--text2); }
+  .inv-bold-list { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
+  .inv-bold-tag { font-size: 10px; padding: 2px 7px; border-radius: 3px; background: rgba(255,255,255,0.05); color: var(--text2); border: 1px solid var(--border); }
+
   /* CANÔNICOS */
   .canonicos-group {
     margin-bottom: 24px;
@@ -445,6 +529,8 @@
 
 <nav class="tabs">
   <div class="tab active" data-tab="status">📊 Status</div>
+  <div class="tab" data-tab="ecossistema">🗺 Ecossistema</div>
+  <div class="tab" data-tab="inventario">🔍 Inventário</div>
   <div class="tab" data-tab="decisoes">✦ Decisões</div>
   <div class="tab" data-tab="canonicos">📁 Canônicos</div>
 </nav>
@@ -457,6 +543,35 @@
     <div class="status-grid" id="status-grid">
       <div class="loading">Carregando...</div>
     </div>
+  </div>
+
+  <!-- ECOSSISTEMA -->
+  <div class="section" id="section-ecossistema">
+    <div class="section-title">55 produtos · 6 camadas · mapa completo</div>
+    <div class="eco-filters" id="eco-filters">
+      <button class="filt active" data-f="camada" data-v="">Todas camadas</button>
+      <button class="filt" data-f="camada" data-v="G">G · Isca</button>
+      <button class="filt" data-f="camada" data-v="L">L · Low</button>
+      <button class="filt" data-f="camada" data-v="M">M · Medium</button>
+      <button class="filt" data-f="camada" data-v="I">I · Imersão</button>
+      <button class="filt" data-f="camada" data-v="H">H · High</button>
+      <button class="filt" data-f="camada" data-v="R">R · Recorrente</button>
+    </div>
+    <div class="eco-filters" id="eco-filters-status">
+      <button class="filt-s active" data-s="">Todos status</button>
+      <button class="filt-s" data-s="pronto">Pronto</button>
+      <button class="filt-s" data-s="parcial">Parcial</button>
+      <button class="filt-s" data-s="em_producao">Em produção</button>
+      <button class="filt-s" data-s="a_fazer">A fazer</button>
+    </div>
+    <div id="eco-resumo" class="eco-resumo"></div>
+    <div id="eco-lista"></div>
+  </div>
+
+  <!-- INVENTÁRIO -->
+  <div class="section" id="section-inventario">
+    <div class="section-title">Conteúdo real de cada documento · o que está dentro</div>
+    <div id="inv-lista"><div class="loading">Carregando...</div></div>
   </div>
 
   <!-- DECISÕES -->
@@ -601,8 +716,170 @@ async function loadCanonicos() {
     </div>`).join('');
 }
 
+// ─── ECOSSISTEMA ────────────────────────────────────────────
+let ecoData = null;
+let ecoFiltCamada = '';
+let ecoFiltStatus = '';
+
+async function loadEcossistema() {
+  const r = await fetch('data/ecossistema.json');
+  ecoData = await r.json();
+  renderEco();
+}
+
+function renderEco() {
+  if (!ecoData) return;
+  const lista = document.getElementById('eco-lista');
+  const resumo = document.getElementById('eco-resumo');
+  let produtos = ecoData.produtos;
+  if (ecoFiltCamada) produtos = produtos.filter(p => p.camada === ecoFiltCamada);
+  if (ecoFiltStatus) produtos = produtos.filter(p => p.status === ecoFiltStatus);
+
+  const camadaInfo = {};
+  ecoData.camadas.forEach(c => camadaInfo[c.codigo] = c);
+
+  const statusDot = {pronto:'#1DB87A', parcial:'#F5B731', em_producao:'#4B8EF5', a_fazer:'#6B7A99'};
+  const statusLabel = {pronto:'Pronto', parcial:'Parcial', em_producao:'Em produção', a_fazer:'A fazer'};
+
+  resumo.textContent = `${produtos.length} produto${produtos.length !== 1 ? 's' : ''} exibidos`;
+
+  lista.innerHTML = produtos.map(p => {
+    const ci = camadaInfo[p.camada] || {cor:'#6B7A99'};
+    const dot = statusDot[p.status] || '#6B7A99';
+    const bodyParts = [];
+    if (p.formato) bodyParts.push(`<div class="eco-field"><strong>Formato:</strong> ${p.formato}</div>`);
+    if (p.metodo && p.metodo !== 'Universal') bodyParts.push(`<div class="eco-field"><strong>Segmento:</strong> ${p.metodo}</div>`);
+    if (p.arquivo) bodyParts.push(`<div class="eco-path">📁 ${p.arquivo}</div>`);
+    if (p.pendencia) bodyParts.push(`<div class="eco-pend">⚠ ${p.pendencia}</div>`);
+
+    return `<div class="eco-card" id="ec-${p.id}">
+      <div class="eco-card-header" onclick="toggleEco('${p.id}')">
+        <span class="eco-badge" style="background:${ci.cor}22;color:${ci.cor}">${p.id}</span>
+        <span class="eco-nome">${p.nome}</span>
+        <span class="eco-preco">${p.preco}</span>
+        <span class="eco-dot" style="background:${dot}" title="${statusLabel[p.status]||p.status}"></span>
+      </div>
+      ${bodyParts.length ? `<div class="eco-body">${bodyParts.join('')}</div>` : ''}
+    </div>`;
+  }).join('');
+}
+
+function toggleEco(id) {
+  document.getElementById('ec-' + id).classList.toggle('open');
+}
+
+document.getElementById('eco-filters').addEventListener('click', e => {
+  const btn = e.target.closest('.filt');
+  if (!btn) return;
+  document.querySelectorAll('.filt').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  ecoFiltCamada = btn.dataset.v;
+  renderEco();
+});
+
+document.getElementById('eco-filters-status').addEventListener('click', e => {
+  const btn = e.target.closest('.filt-s');
+  if (!btn) return;
+  document.querySelectorAll('.filt-s').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  ecoFiltStatus = btn.dataset.s;
+  renderEco();
+});
+
+// ─── INVENTÁRIO ─────────────────────────────────────────────
+const INV_DOCS = [
+  {id:'livro-mtg',   label:'Livro MTG',   metodo:'MTG'},
+  {id:'livro-focus', label:'Livro FOCUS', metodo:'FOCUS'},
+  {id:'livro-mte',   label:'Livro MTE',   metodo:'MTE'},
+  {id:'livro-mtc',   label:'Livro MTC',   metodo:'MTC'},
+  {id:'civ-prd',     label:'CIV PRD v6',  metodo:'CIV'},
+  {id:'mapa-eco',    label:'Mapa Ecossistema', metodo:'VOUAR'},
+];
+const DIFFS = ['diff-mtg'];
+
+async function loadInventario() {
+  const el = document.getElementById('inv-lista');
+  const [docs, diffs] = await Promise.all([
+    Promise.all(INV_DOCS.map(d => fetch(`data/inventario/${d.id}.json`).then(r=>r.json()).catch(()=>null))),
+    Promise.all(DIFFS.map(d => fetch(`data/inventario/${d}.json`).then(r=>r.json()).catch(()=>null))),
+  ]);
+
+  el.innerHTML = '';
+
+  // ── Diffs (conteúdo removido) ──
+  const diffOk = diffs.filter(Boolean);
+  if (diffOk.length) {
+    el.innerHTML += `<div class="section-title" style="margin-top:0">🔴 Conteúdo removido entre versões</div>`;
+    diffOk.forEach(df => {
+      el.innerHTML += `<div class="inv-card open">
+        <div class="inv-header">
+          <span class="inv-tipo tipo-spec">DIFF</span>
+          <span class="inv-titulo">${df.livro} — ${df.versao_antiga} → ${df.versao_atual}</span>
+          <span class="inv-meta">${df.secoes_removidas.length} removidas</span>
+        </div>
+        <div class="inv-body">
+          <div class="inv-diff">
+            <div class="inv-diff-title">⚠ Seções removidas — verificar se o conteúdo foi preservado</div>
+            ${df.secoes_removidas.map(s => `<div class="inv-diff-item">
+              <strong>${s.titulo}</strong> — ${s.conteudo}
+              <div class="inv-diff-sub">${s.status}</div>
+            </div>`).join('')}
+          </div>
+        </div>
+      </div>`;
+    });
+  }
+
+  // ── Documentos ──
+  el.innerHTML += `<div class="section-title">📄 Documentos mapeados</div>`;
+  docs.forEach((doc, i) => {
+    if (!doc) return;
+    const meta = INV_DOCS[i];
+    const tipo = doc.tipo || 'spec';
+    const secs = (doc.secoes || []).filter(s => s.titulo.length < 80);
+    const bold = doc.termos_em_negrito || [];
+    const roadmap = doc.features_roadmap || [];
+    const features = doc.features_implementadas || [];
+
+    el.innerHTML += `<div class="inv-card" id="inv-${doc.id}">
+      <div class="inv-header" onclick="toggleInv('${doc.id}')">
+        <span class="inv-tipo tipo-${tipo}">${tipo}</span>
+        <span class="inv-titulo">${meta.label}</span>
+        <span class="inv-meta">${secs.length} seções · ${doc.total_paras || 0} blocos</span>
+      </div>
+      <div class="inv-body">
+        ${features.length ? `<div class="inv-section-list">
+          <div style="font-size:11px;font-weight:700;color:var(--green);margin-bottom:4px;text-transform:uppercase;letter-spacing:.06em">✓ Features implementadas</div>
+          ${features.map(f => `<div class="inv-sec nivel-1"><span>${f}</span></div>`).join('')}
+        </div>` : ''}
+        ${roadmap.length ? `<div class="inv-roadmap">
+          <div class="inv-roadmap-title">⏸ Roadmap / Não implementado ainda</div>
+          ${roadmap.map(rm => `<div class="inv-roadmap-item">
+            <strong>${rm.item}</strong> <span style="color:var(--gray);font-size:10px">[${rm.fase}]</span>
+            <div class="inv-roadmap-motivo">${rm.motivo}</div>
+          </div>`).join('')}
+        </div>` : ''}
+        ${secs.length && !features.length ? `<div class="inv-section-list">
+          ${secs.slice(0,30).map(s => `<div class="inv-sec nivel-${s.nivel}">
+            <span>${s.titulo}</span>
+            <span class="inv-sec-count">${s.n_paras}p</span>
+          </div>`).join('')}
+        </div>` : ''}
+        ${bold.length ? `<div style="margin-top:10px;font-size:11px;font-weight:700;color:var(--text2);margin-bottom:5px">Termos-chave em negrito</div>
+        <div class="inv-bold-list">
+          ${bold.slice(0,20).map(b => `<span class="inv-bold-tag">${b.slice(0,40)}</span>`).join('')}
+        </div>` : ''}
+      </div>
+    </div>`;
+  });
+}
+
+function toggleInv(id) {
+  document.getElementById('inv-' + id).classList.toggle('open');
+}
+
 // ─── INIT ─────────────────────────────────────────────────
-Promise.all([loadStatus(), loadDecisoes(), loadCanonicos()]).catch(console.error);
+Promise.all([loadStatus(), loadDecisoes(), loadCanonicos(), loadEcossistema(), loadInventario()]).catch(console.error);
 </script>
 
 </body>

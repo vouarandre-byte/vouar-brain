@@ -1,0 +1,89 @@
+{
+  "id": "ferramentas",
+  "tipo": "kit",
+  "metodo": "MTG",
+  "arquivo": "Ferramentas.docx",
+  "total_paras": 109,
+  "secoes": [
+    {
+      "titulo": "INÍCIO",
+      "nivel": 1,
+      "n_paras": 91
+    },
+    {
+      "titulo": "15. Z-API",
+      "nivel": 2,
+      "n_paras": 12
+    },
+    {
+      "titulo": "RESUMO EXECUTIVO - O QUE ATIVAR E QUANDO",
+      "nivel": 2,
+      "n_paras": 2
+    }
+  ],
+  "conceitos": [
+    ".com.br e de todas as ferramentas HTML (Score MTX, Score-E, páginas do funil) Para ativar:",
+    "Ativar ferramenta de warmup (2-3 semanas antes do primeiro disparo)",
+    "Configurar conversões: resposta ao Score, download da isca Agente responsável: Felipe Frontend Custo",
+    "Configurar eventos: visualização do Score, conclusão do Score, clique no CTA Agente responsável: Feli",
+    "Criar listas: uma para leads do Score MTX, uma para leads da Isca",
+    "as com estágios: Lead Frio > Engajado > Score Feito > Conversa > Proposta > Cliente",
+    "disparar sequência de e-mails para ISPs Score A e B validados Para ativar:",
+    "e análise de conversão (quem visitou o Score, quem clicou na isca) Para ativar:",
+    "e todas as ferramentas HTML (Score MTX, Score-E, páginas do funil) Para ativar:",
+    "lho, recebe DM automática com o link do Score ou da Isca Para ativar:",
+    "nas antes de disparar (Instantly.ai tem ferramenta de warmup) Custo: ~R$20/ano (registro de domínio adicional,",
+    "o (o que enviar após o lead responder o Score)",
+    "os: visualização do Score, conclusão do Score, clique no CTA Agente responsável: Felipe Frontend Custo: g",
+    "rar palavras-gatilho por campanha (ex: \"SCORE\", \"ISCA\", \"QUERO\")",
+    "ção) > e-mail 2 (valor) > e-mail 3 (CTA Score)"
+  ],
+  "decisoes_encontradas": [
+    "Entregar o CSV ao squad comercial - Gaspar faz o cruzamento com os 23.726 ISPs Agente responsável: Gaspar Garimpo Custo: gratuito Status: pendente - André precisa exportar o CSV",
+    "Configurar mensagens automáticas por estágio do pipeline Custo: ~R$180/mês Pré-requisito: ter um número de WhatsApp Business separado - decisão pendente do André"
+  ],
+  "termos_em_negrito": [
+    "(GHL)",
+    "1. Gmail - Diagnóstico da base histórica",
+    "12. Subdomínio de e-mail dedicado (Trilha A)",
+    "13. Instantly.ai",
+    "15. Z-API",
+    "16. Make.com",
+    "7. Cativa",
+    "8. Meta Pixel",
+    "9. Google",
+    "AUTOMAÇÃO DO SQUAD (quando quiser automatizar os ciclos de conteúdo)",
+    "Agente responsável:",
+    "Amazon",
+    "Analytics",
+    "Bloqueadores antes de publicar:",
+    "Brevo",
+    "Credencial",
+    "Credencial necessária:",
+    "Custo:",
+    "FASE 0 - ANTES DE TUDO (sem custo)",
+    "FASE 1 - LANÇAMENTO (ativar até 01/07/2026 - custo ~R$290/mês)",
+    "FASE 2 - HIGIENIZAÇÃO (setup único, custo ~R$570)",
+    "FASE 3 - CRM COMPLETO (ativar quando leads começarem a chegar - custo adicional ",
+    "Função:",
+    "GoHighLevel",
+    "Lookup",
+    "ManyChat",
+    "Metricool",
+    "O que a equipe faz sozinha depois:",
+    "O que só você pode fazer:",
+    "Para",
+    "Para ativar:",
+    "Prazo:",
+    "Pré-requisito:",
+    "Quando",
+    "RESUMO EXECUTIVO - O QUE ATIVAR E QUANDO",
+    "Status:",
+    "Twilio",
+    "Vercel",
+    "ZeroBounce",
+    "ativar:",
+    "necessária:"
+  ],
+  "titulo_detectado": "FASE 0 - ANTES DE TUDO (sem custo)"
+}

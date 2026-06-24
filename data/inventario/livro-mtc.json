@@ -1,0 +1,361 @@
+{
+  "id": "livro-mtc",
+  "tipo": "livro",
+  "metodo": "MTC",
+  "arquivo": "MTX_MTC_Livro_COMPLETO_v1.3.docx",
+  "total_paras": 2314,
+  "secoes": [
+    {
+      "titulo": "INÍCIO",
+      "nivel": 1,
+      "n_paras": 3
+    },
+    {
+      "titulo": "NOTA DO AUTOR",
+      "nivel": 2,
+      "n_paras": 12
+    },
+    {
+      "titulo": "Capítulo 1 — A Diferença Entre Dono e CEO",
+      "nivel": 1,
+      "n_paras": 78
+    },
+    {
+      "titulo": "Capítulo 2 — O Apego que Trava o CEO",
+      "nivel": 1,
+      "n_paras": 103
+    },
+    {
+      "titulo": "Capítulo 3 — Pensamento de 2ª e 3ª Ordem",
+      "nivel": 1,
+      "n_paras": 108
+    },
+    {
+      "titulo": "Capítulo 4 — O Fundador como Gargalo Invisível",
+      "nivel": 1,
+      "n_paras": 100
+    },
+    {
+      "titulo": "Capítulo 5",
+      "nivel": 1,
+      "n_paras": 111
+    },
+    {
+      "titulo": "Capítulo 6 — O Que o Mercado Compra",
+      "nivel": 1,
+      "n_paras": 106
+    },
+    {
+      "titulo": "Capítulo 7 — Estratégia como Escolha",
+      "nivel": 1,
+      "n_paras": 125
+    },
+    {
+      "titulo": "Capítulo 8 — O C-Level** que Você Precisa Ter**",
+      "nivel": 1,
+      "n_paras": 118
+    },
+    {
+      "titulo": "Capítulo 9 — Governança que Funciona de Verdade",
+      "nivel": 1,
+      "n_paras": 63
+    },
+    {
+      "titulo": "Etapa 1 — Diagnóstico de Governança Atual.",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "Etapa 2 — Definição de Alçadas.",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "Etapa 3 — Instalação das Instâncias.",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "Etapa 4 — Construção do Dashboard de Governança.",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "Etapa 5 — Instalação do Accountability.",
+      "nivel": 1,
+      "n_paras": 44
+    },
+    {
+      "titulo": "Capítulo 10 — Conselho Consultivo de Alto Nível",
+      "nivel": 1,
+      "n_paras": 114
+    },
+    {
+      "titulo": "Capítulo 11 — Planejamento Estratégico Real",
+      "nivel": 1,
+      "n_paras": 115
+    },
+    {
+      "titulo": "Seção 6 — Riscos e Contingências: os três a cinco riscos principais que podem comprometer o plano — e o que vamos fazer se cada um se materializar.",
+      "nivel": 1,
+      "n_paras": 11
+    },
+    {
+      "titulo": "Capítulo 12 — Empresa Familiar de Alto Nível",
+      "nivel": 1,
+      "n_paras": 126
+    },
+    {
+      "titulo": "Capítulo 13 — Métricas de CEO",
+      "nivel": 1,
+      "n_paras": 112
+    },
+    {
+      "titulo": "Capítulo 14 — Due** ****Diligence**** Permanente**",
+      "nivel": 1,
+      "n_paras": 128
+    },
+    {
+      "titulo": "Capítulo 15 — M&A para PME",
+      "nivel": 1,
+      "n_paras": 55
+    },
+    {
+      "titulo": "Etapa 1 — Tese de Aquisição.",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "Etapa 2 — Análise Preliminar.",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "Etapa 3 — Term** ****Sheet****.**",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "Etapa 4 — Due** ****Diligence****.**",
+      "nivel": 1,
+      "n_paras": 3
+    },
+    {
+      "titulo": "Etapa 5 — Estruturação da Transação.",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "Etapa 6 — Integração.",
+      "nivel": 1,
+      "n_paras": 31
+    },
+    {
+      "titulo": "Capítulo 16 — Captação e Capital Externo",
+      "nivel": 1,
+      "n_paras": 47
+    },
+    {
+      "titulo": "Etapa 1 — Tese de Captação.",
+      "nivel": 1,
+      "n_paras": 7
+    },
+    {
+      "titulo": "Etapa 2 — Preparação da Empresa.",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "Etapa 3 — Mapeamento de Investidores.",
+      "nivel": 1,
+      "n_paras": 2
+    },
+    {
+      "titulo": "Etapa 4 — Processo de Conversa.",
+      "nivel": 1,
+      "n_paras": 8
+    },
+    {
+      "titulo": "Etapa 5 — Negociação e Estruturação.",
+      "nivel": 1,
+      "n_paras": 38
+    },
+    {
+      "titulo": "Capítulo 17 — Sucessão: os 3 Caminhos",
+      "nivel": 1,
+      "n_paras": 66
+    },
+    {
+      "titulo": "Etapa 1 — Decisão e Comunicação.",
+      "nivel": 1,
+      "n_paras": 3
+    },
+    {
+      "titulo": "Etapa 2 — Desenvolvimento ou Seleção do Sucessor.",
+      "nivel": 1,
+      "n_paras": 3
+    },
+    {
+      "titulo": "Etapa 3 — Período de Transição.",
+      "nivel": 1,
+      "n_paras": 3
+    },
+    {
+      "titulo": "Etapa 4 — Saída Estruturada.",
+      "nivel": 1,
+      "n_paras": 24
+    },
+    {
+      "titulo": "Capítulo 18 — Empresa Familiar: Profissionalizar Sem Perder a Alma",
+      "nivel": 1,
+      "n_paras": 111
+    },
+    {
+      "titulo": "Capítulo 19 — O CEO Que Não Precisa Estar Presente",
+      "nivel": 1,
+      "n_paras": 34
+    },
+    {
+      "titulo": "Capítulo 8.",
+      "nivel": 1,
+      "n_paras": 4
+    },
+    {
+      "titulo": "Capítulo 9.",
+      "nivel": 1,
+      "n_paras": 3
+    },
+    {
+      "titulo": "Capítulo 14 — dimensão operacional da due diligence permanente.",
+      "nivel": 1,
+      "n_paras": 3
+    },
+    {
+      "titulo": "Capítulo 18 — dimensão da transmissão de valores.",
+      "nivel": 1,
+      "n_paras": 3
+    },
+    {
+      "titulo": "Capítulo 13.",
+      "nivel": 1,
+      "n_paras": 3
+    },
+    {
+      "titulo": "Capítulo 10.",
+      "nivel": 1,
+      "n_paras": 75
+    },
+    {
+      "titulo": "Capítulo 20 — Legado É Sistema, Não Monumento",
+      "nivel": 1,
+      "n_paras": 140
+    }
+  ],
+  "conceitos": [
+    "\"Como transformo esta empresa em um sistema que produz valor sem mim?\"",
+    "\"Governança como Sistema que Liberta\" — inversão semântica deliberada: governança nã",
+    "9 a 12. Alçadas, instâncias, Conselho, Protocolo Familiar. O sistema de decisão que funciona porque tem crit",
+    "? Formação mínima, experiência externa, processo seletivo equivalente ao de um profissional de mercado? Ou q",
+    "A Parte Prática deste capítulo aplica o Framework de Avaliação de M&A, os 4 Filtros de Decisão e o Processo d",
+    "A Parte Prática deste capítulo aplica o Mapa de Valores versus Métodos, o Modelo de Profissionalização c",
+    "A Parte Prática deste capítulo aplica o Mapa do Gargalo, a Matriz de Alçadas e os 3 Tipos de Desbloqueio",
+    "A Parte Prática deste capítulo aplica o Modelo de Composição do Conselho, o Critério de Escolha de Conselh",
+    "A Parte Prática deste capítulo aplica o Modelo de Diagnóstico Estratégico, a Estrutura de Iniciativas com",
+    "A Parte Prática deste capítulo aplica o Score de Due Diligence nas 6 Dimensões, o Calendário de Revisão e",
+    "A Parte Prática deste capítulo aplica o Sistema de Escolha Estratégica, o Mapa de Alocação de Recursos e o",
+    "A diferença está no processo — na lógica clara, nos filtros aplicados com rigor, na due",
+    "A empresa chega ao processo acreditando que está pronta. O fundador sabe o que a empres",
+    "A revisão mais profunda. Score de due diligence completo nas seis dimensões. Comparação co",
+    "Antes de construir o modelo certo, preciso nomear por que o modelo errado persiste — ap",
+    "Ao final das duas semanas, você tem o mapa do seu gargalo. Não como conceito. Como dado concreto.",
+    "Apego 4 — O modelo que sempre funcionou.",
+    "Associados; (c) ter passado pelo mesmo processo seletivo aplicado a candidatos externos para o cargo em que",
+    "CEO não é o motor. CEO é o arquiteto do sistema que faz os motores certos funcionarem nos lugares certos.",
+    "CEO que decide sozinho tem o mapa de uma cabeça.",
+    "Caminho 1: processo de desenvolvimento deliberado com horizonte e marcos defini",
+    "Caminho 2: processo de seleção com critério documentado, com participação do Co",
+    "Caminho 3: processo de preparação da empresa para transação — que é, em grande",
+    "Capítulo 20 — Legado É Sistema, Não Monumento",
+    "Comunicação de valor é processo. Entrega percebida é processo. Reputação de mercado é proce",
+    "Confundir valor com método produz resistência a mudanças necessárias — porque qualquer",
+    "Conselheiro que revisa o score de due diligence está fazendo exatamente o trabalho para o",
+    "Conselho Consultivo de alto nível tem o mapa de cinco cabeças — com experiências diferentes, pontos de v",
+    "Descarta o que era valor como se fosse método ultrapassado.",
+    "Dimensões, os 3 Perfis de Liderança e o Sistema de Governança do C-Level à sua estrutura atual. Execute ant"
+  ],
+  "decisoes_encontradas": [
+    "Saiu do zero. Passou pela escassez, pelo risco, pela insegurança de não saber se o mês fecha. Aprendeu a fazer tudo. Depois aprendeu a delegar o fazer. Depois aprendeu a gerir quem faz. Chegou até aqu",
+    "O custo? Você é o ponto único de falha da própria empresa. Se adoecer, a decisão para. Se viajar, o time aguarda. Se uma oportunidade exige resposta em 48 horas, ela vai embora.",
+    "Não é falta de competência. É o modelo errado.",
+    "Apego não adia decisão. Apego é a decisão de não decidir. E toda não-decisão tem consequência.",
+    "Vem de um critério real? De uma análise de risco fundamentada? De dados que contradizem a decisão?",
+    "Consciência: Identificar quando o apego está dirigindo a decisão. O sinal não é lógico — é emocional. É a resistência desproporcional ao risco real. É a irritação quando alguém questiona o modelo. É o",
+    "Pausa: Não decidir sob emoção de apego. Dormir sobre a decisão. Consultar alguém que não tem apego ao resultado — um conselheiro, um mentor, um sócio sem viés. Criar distância entre o estímulo e a res",
+    "Execução: Sustentar a decisão difícil mesmo quando o inconsciente grita. O apego não desaparece depois de uma decisão. Ele persiste por semanas, às vezes meses. A execução é a disciplina de manter o c",
+    "Não é paranoia. Não é análise infinita que paralisa. É a pergunta sobre o sistema — como a decisão de hoje reconfigura a estrutura da empresa, do mercado competitivo e das pessoas envolvidas no médio ",
+    "Não é falta de inteligência. É consequência do histórico.",
+    "A decisão rápida de primeira ordem que o fundador toma em uma segunda-feira se transforma em 80 pessoas ajustando comportamento na quinta-feira — sem que ninguém tenha calculado o efeito sistêmico dis",
+    "O erro mais comum. Você identifica um problema real, toma uma decisão real para resolvê-lo — e a decisão cria dois problemas novos que o problema original não criaria.",
+    "Este é mais sofisticado — e mais perigoso, porque a decisão em si não estava errada.",
+    "A decisão era certa. A pergunta que faltou foi: quando, dada a capacidade real que tenho agora?",
+    "A assimetria entre os dois arrependimentos revela muito sobre a decisão real. Às vezes o arrependimento da ação é pequeno e recuperável. O arrependimento da inação é grande e permanente.",
+    "Quando a inação é mais cara do que a ação errada, decidir devagar é a decisão mais arriscada.",
+    "Identifique a decisão estratégica mais importante que está na sua mesa neste momento. Aquela que você sabe que precisa ser tomada — e que está adiada ou em análise.",
+    "A decisão que parecia óbvia em primeira ordem ainda é óbvia depois das três camadas? O como, o quando e o com quem mudaram?",
+    "Na maioria das vezes, a decisão em si não muda. O que muda é a forma de implementar — o timing, a sequência, as condições que precisam ser criadas antes, os riscos que precisam ser mitigados durante.",
+    "Às vezes a decisão muda completamente."
+  ],
+  "termos_em_negrito": [
+    "\"Como transformo esta empresa em um sistema que produz valor sem mim?\"",
+    "0 a 2 decisões",
+    "1 — Crítico:",
+    "2 — Frágil:",
+    "3 a 5 decisões",
+    "3 — Adequado:",
+    "4 — Sólido:",
+    "5 — Diferenciado:",
+    "6 a 10 decisões",
+    "A Armadilha da Estratégia Perfeita",
+    "A Armadilha do CEO Ocioso",
+    "A Cadência de Análise do CEO",
+    "A Composição Certa do Conselho",
+    "A Decisão Mais Difícil do CEO",
+    "A Diferença Entre Empresas que Duram",
+    "A Diferença Entre Oferta e Valor Percebido",
+    "A Empresa Que Está Sempre Pronta",
+    "A Instalação da Governança — Sequência Prática",
+    "A Pergunta que Começou Tudo",
+    "A Pergunta que Separa o Dono do CEO",
+    "A Remuneração do Conselho",
+    "A Segunda Geração — Entre a Herança e a Identidade",
+    "A Transição — Do Gargalo para o Governante",
+    "A composição certa do C-Level",
+    "A decisão de captar capital externo começa com a pergunta honesta: o que estou a",
+    "A decisão que parecia óbvia em primeira ordem ainda é óbvia depois das três cama",
+    "A diferença entre os dois modelos não está no lucro. Está na estrutura.",
+    "A diferença não é presença versus ausência. É dependência versus escolha.",
+    "A distinção definitiva — em linguagem de valor:",
+    "A empresa do dono funciona com ele. A empresa do CEO funciona sem ele.",
+    "A empresa financia o que o orçamento aprova — independente do que o planejamento",
+    "A pergunta é: o que você vai construir para destravá-lo?",
+    "A pergunta é: você está disposto a governar?",
+    "A resposta certa: trabalho de CEO de verdade.",
+    "A solução não é não contratar executivos externos. É contratar executivos que en",
+    "A solução não é ter menos estrutura. É ter mais propósito — definido antes de a ",
+    "A transformação começa com a pergunta honesta: qual dos dois você tem hoje?",
+    "APÊNDICE — Fontes e Posicionamento Conceitual",
+    "Accountability",
+    "Acesso a capital melhor.",
+    "Agora a pergunta é sua: qual apego você vai escolher soltar hoje?",
+    "Agora deixa eu te perguntar algo que a maioria dos fundadores nunca considerou:",
+    "Agora você sabe o que construir. A pergunta é quando você começa.",
+    "Agora.",
+    "Além de você.",
+    "Análise anual — Valor de empresa e horizonte.",
+    "Análise mensal — Tendências e decisões.",
+    "Análise semanal — Semáforos críticos.",
+    "Análise trimestral — Trajetória e ajuste estratégico.",
+    "Apego 1 — A narrativa do fundador heroico."
+  ],
+  "titulo_detectado": "MTC — LIVRO 4"
+}

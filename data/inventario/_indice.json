@@ -1,0 +1,1954 @@
+{
+  "documentos": [
+    {
+      "id": "livro-mtg",
+      "tipo": "livro",
+      "metodo": "MTG",
+      "arquivo": "MTX_MTG_Livro_COMPLETO_v2.1.docx",
+      "total_paras": 2391,
+      "secoes": [
+        {
+          "titulo": "SUA EMPRESA NÃO É SEU FILHO",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "SUA EMPRESA NÃO É SEU FILHO",
+          "nivel": 2,
+          "n_paras": 3
+        },
+        {
+          "titulo": "ABERTURA",
+          "nivel": 2,
+          "n_paras": 14
+        },
+        {
+          "titulo": "O QUE VOCÊ VAI PERCORRER",
+          "nivel": 2,
+          "n_paras": 1
+        },
+        {
+          "titulo": "CONSCIÊNCIA",
+          "nivel": 2,
+          "n_paras": 2
+        },
+        {
+          "titulo": "ENTENDIMENTO",
+          "nivel": 2,
+          "n_paras": 16
+        },
+        {
+          "titulo": "O QUE ESTE LIVRO NÃO É",
+          "nivel": 2,
+          "n_paras": 7
+        },
+        {
+          "titulo": "O PONTO DE PARTIDA",
+          "nivel": 2,
+          "n_paras": 11
+        },
+        {
+          "titulo": "CONSCIÊNCIA",
+          "nivel": 2,
+          "n_paras": 19
+        },
+        {
+          "titulo": "CAPÍTULO 1",
+          "nivel": 1,
+          "n_paras": 74
+        },
+        {
+          "titulo": "CAPÍTULO 2",
+          "nivel": 1,
+          "n_paras": 56
+        },
+        {
+          "titulo": "CAPÍTULO 3",
+          "nivel": 1,
+          "n_paras": 106
+        },
+        {
+          "titulo": "CAPÍTULO 4",
+          "nivel": 1,
+          "n_paras": 80
+        },
+        {
+          "titulo": "CAPÍTULO 5",
+          "nivel": 1,
+          "n_paras": 47
+        },
+        {
+          "titulo": "ENTENDIMENTO",
+          "nivel": 2,
+          "n_paras": 18
+        },
+        {
+          "titulo": "CAPÍTULO 6",
+          "nivel": 1,
+          "n_paras": 75
+        },
+        {
+          "titulo": "CAPÍTULO 7",
+          "nivel": 1,
+          "n_paras": 78
+        },
+        {
+          "titulo": "CAPÍTULO 8",
+          "nivel": 1,
+          "n_paras": 71
+        },
+        {
+          "titulo": "CAPÍTULO 9",
+          "nivel": 1,
+          "n_paras": 35
+        },
+        {
+          "titulo": "INTERLÚDIO",
+          "nivel": 2,
+          "n_paras": 33
+        },
+        {
+          "titulo": "CAPÍTULO 10",
+          "nivel": 1,
+          "n_paras": 96
+        },
+        {
+          "titulo": "PARTE 3",
+          "nivel": 1,
+          "n_paras": 20
+        },
+        {
+          "titulo": "CAPÍTULO 11",
+          "nivel": 1,
+          "n_paras": 11
+        },
+        {
+          "titulo": "Etapa 1, Reconhecimento - O prospect descobre que você existe. Pode ser por indicação, por presença digital, por evento, por prospecção ativa da sua equipe. É o topo do funil, onde tudo começa.",
+          "nivel": 1,
+          "n_paras": 1
+        },
+        {
+          "titulo": "Etapa 2, Interesse - O prospect demonstra interesse, pede informação, aceita uma reunião, solicita proposta. Saiu da posição passiva e se moveu em direção à empresa.",
+          "nivel": 1,
+          "n_paras": 1
+        },
+        {
+          "titulo": "Etapa 3, Avaliação - O prospect está comparando, analisando, pesando. É aqui que a proposta de valor precisa ser clara e o processo comercial precisa ser consistente, porque é onde a maioria das empresas perde por falta de acompanhamento estruturado.",
+          "nivel": 1,
+          "n_paras": 1
+        },
+        {
+          "titulo": "Etapa 4, Decisão - O prospect fecha, ou não fecha. É o momento da conversão, onde o funil produz resultado financeiro visível.",
+          "nivel": 1,
+          "n_paras": 1
+        },
+        {
+          "titulo": "Etapa 5, Retenção e Expansão - O cliente assinou. Aqui começa a jornada pós-venda, e é aqui que a maioria dos donos técnicos abandona o sistema e volta para o topo do funil em busca do próximo prospect.",
+          "nivel": 1,
+          "n_paras": 53
+        },
+        {
+          "titulo": "CAPÍTULO 12",
+          "nivel": 1,
+          "n_paras": 110
+        },
+        {
+          "titulo": "CAPÍTULO 13",
+          "nivel": 1,
+          "n_paras": 113
+        },
+        {
+          "titulo": "CAPÍTULO 14",
+          "nivel": 1,
+          "n_paras": 125
+        },
+        {
+          "titulo": "CAPÍTULO 15",
+          "nivel": 1,
+          "n_paras": 45
+        },
+        {
+          "titulo": "Etapa 2, Medir aderência.  Como você sabe se o processo está sendo seguido? Sem indicador de aderência, você assume que está — e frequentemente está errado. Indicador de aderência não é sofisticado. É a resposta para: quantas vezes o processo foi executado conforme documentado, versus quantas vezes foi improvisado ou executado de forma diferente? Um checklist com datas de preenchimento já é indicador de aderência.",
+          "nivel": 1,
+          "n_paras": 66
+        },
+        {
+          "titulo": "PARTE 4",
+          "nivel": 1,
+          "n_paras": 22
+        },
+        {
+          "titulo": "CAPÍTULO 16",
+          "nivel": 1,
+          "n_paras": 61
+        },
+        {
+          "titulo": "CAPÍTULO 17",
+          "nivel": 1,
+          "n_paras": 56
+        },
+        {
+          "titulo": "CAPÍTULO 18",
+          "nivel": 1,
+          "n_paras": 152
+        },
+        {
+          "titulo": "CAPÍTULO 19",
+          "nivel": 1,
+          "n_paras": 86
+        },
+        {
+          "titulo": "CAPÍTULO 20",
+          "nivel": 1,
+          "n_paras": 54
+        },
+        {
+          "titulo": "PARTE 5",
+          "nivel": 1,
+          "n_paras": 19
+        },
+        {
+          "titulo": "CAPÍTULO 21",
+          "nivel": 1,
+          "n_paras": 51
+        },
+        {
+          "titulo": "CAPÍTULO 22",
+          "nivel": 1,
+          "n_paras": 80
+        },
+        {
+          "titulo": "CAPÍTULO 23",
+          "nivel": 1,
+          "n_paras": 65
+        },
+        {
+          "titulo": "CAPÍTULO 24",
+          "nivel": 1,
+          "n_paras": 52
+        },
+        {
+          "titulo": "CAPÍTULO 25",
+          "nivel": 1,
+          "n_paras": 75
+        },
+        {
+          "titulo": "FERRAMENTAS PRÁTICASRESUMO EXECUTIVO",
+          "nivel": 2,
+          "n_paras": 8
+        },
+        {
+          "titulo": "Capítulo 10",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "Capítulo 11",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "Capítulo 12",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "Capítulo 12",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "Capítulo 13",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "Capítulo 16",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "Capítulo 24",
+          "nivel": 1,
+          "n_paras": 15
+        },
+        {
+          "titulo": "Capítulo 24",
+          "nivel": 1,
+          "n_paras": 1
+        },
+        {
+          "titulo": "Capítulo 25",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "Capítulo 25",
+          "nivel": 1,
+          "n_paras": 1
+        },
+        {
+          "titulo": "O QUE INDICA",
+          "nivel": 2,
+          "n_paras": 15
+        },
+        {
+          "titulo": "Capítulo 24",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "CRITÉRIO DE SUCESSO",
+          "nivel": 2,
+          "n_paras": 16
+        },
+        {
+          "titulo": "Capítulo 10",
+          "nivel": 1,
+          "n_paras": 5
+        },
+        {
+          "titulo": "Capítulo 4",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "Capítulo 5",
+          "nivel": 1,
+          "n_paras": 1
+        },
+        {
+          "titulo": "GLOSSÁRIO ESTRATÉGICO",
+          "nivel": 2,
+          "n_paras": 34
+        }
+      ],
+      "conceitos": [
+        "\"Não questione o processo se ele funciona.\"  Ninguém proibiu questionar. Mas a sugest",
+        "\"era mais rápido\\\". Os relatórios que o sistema gerava não correspondiam ao que estava acontecendo na opera",
+        "' precisa de resposta antes de qualquer ferramenta operacional.",
+        "(dono): Índice de Dependência do Dono, Score MTX, respondem à pergunta: a empresa está se tornando menos",
+        "(metodomtg.com.br/score)",
+        ", Medir aderência.  Como você sabe se o processo está sendo seguido? Sem indicador de aderência, você assume",
+        ", Saída.  O resultado esperado quando o processo é concluído corretamente. O que deve estar pronto, entregue",
+        ", contratação, investimento, mudança de modelo, houve alguém que levantou objeção real que você precisou c",
+        ", disponível como ferramenta digital do método, com resultado de zero a vinte por pilar e zero a cento e q",
+        ", nem uma ferramenta de autoajuda. É um protocolo cognitivo de interrupção, projetado especificamente para cr",
+        ", não apenas do solicitante técnico. Há protocolo de atendimento diferenciado para esses clientes em situação",
+        ", o conhecimento não vai junto. Fica no processo, acessível para quem assume.",
+        ", o dono aplicou o framework CPRE que o método MTG utiliza para estruturar decisão sob pressão.",
+        ". A Pausa é o movimento mais difícil do protocolo porque vai diretamente contra o padrão instalado: urgente e",
+        ". A conclusão de décadas de pesquisa: o Sistema 1 domina a maioria das decisões, especialmente sob pressão.",
+        ". Adapte as funções e etapas para o seu processo prioritário. Legenda: R = Executa · A = Aprova · C = Consul",
+        ". O segundo precisa de coragem, e de um método que transforme a coragem numa escolha estruturada, não num",
+        "0 a 4 pontos: ausência de sistema de alinhamento. A empresa se coordena por urgência e presen",
+        "1. Método MTG — Os 4 Estágios da Transição",
+        "10 a 12 pontos: Processo estruturado. A qualidade da sua contratação é resultado de",
+        "10 a 12 pontos: sistema de rituais consolidado. O alinhamento da sua empresa aconte",
+        "14. Protocolo de Ausência Progressiva",
+        "15. Método FOCUS™",
+        "16 Personalidades — Ferramenta de mapeamento comportamental baseada no MBTI, com 4 grupos",
+        "3. POP — Procedimento Operacional Padrão",
+        "4. Matriz RACI",
+        "5 a 9 pontos: Processo parcial. Você tem alguns elementos certos, mas lacunas que",
+        "5 a 9 pontos: sistema parcial. Alguns rituais funcionam, outros não. Identifique",
+        "8. Modelo de Feedback SCI",
+        "9. Framework CPRE"
+      ],
+      "decisoes_encontradas": [
+        "Dono que vive dentro da operação não tem tempo para trabalhar no negócio. E negócio sem dono que pensa cresce até o limite do que a operação suporta, e para. Não por falta de mercado. Não por falta de",
+        "A resposta não está na falta de informação. Está na arquitetura da mente.",
+        "O empresário da abertura deste capítulo não pausou. Trinta e cinco minutos entre o estímulo e a decisão pareceram tempo suficiente. Não eram, porque ele passou esses trinta e cinco minutos dentro do m",
+        "A Reflexão não elimina a decisão. Ela calibra a decisão. O que sai depois dela é diferente, mais preciso, menos ruidoso, mais alinhado ao que o empresário quer construir do que ao que o padrão antigo ",
+        "\"O problema do empresário operacional não é falta de informação. É excesso de padrão instalado.\"",
+        "—  O ritual de gestão não é uma reunião — é a experiência de governar por dados antes que a intuição sequestre a decisão.",
+        "Dependência operacional não é fraqueza de gestão. É o resultado natural de um modelo de crescimento que colocou o dono no centro de tudo, por necessidade no início, por hábito depois, por falta de est",
+        "Quando esse intervalo é pequeno, horas ou dias para decisões operacionais, semanas para decisões estratégicas, a empresa opera com agilidade e o custo de oportunidade é baixo. Quando esse intervalo se",
+        "Como distinguir os dois? A pergunta é direta: você está levantando novas informações que podem mudar a decisão, ou está revisando as mesmas informações com a esperança de que o problema se resolva soz",
+        "F, Foco no Problema Central. A maioria das decisões falha antes de começar — porque resolve o problema errado. Este passo força a distinção entre sintoma e causa raiz: nomear o problema real, não o qu",
+        "U, Urgência Moral. Toda decisão tem prazo. Não o prazo do calendário — o prazo moral. É o ponto a partir do qual o custo de adiar supera o custo de decidir errado. Este passo te força a nomear esse pr",
+        "S, Sustentação. Como essa decisão será sustentada no tempo? Quem é responsável pelo quê? Qual é o prazo de acompanhamento? Como você vai saber se a decisão está produzindo o resultado esperado? Decisã",
+        "Consequências: No curto prazo (30 dias), qualquer opção gera desconforto — não há saída confortável. No médio prazo (3-6 meses): o plano de melhoria com prazo definido preserva o relacionamento e ofer",
+        "Com o FOCUS™ aplicado no terceiro mês, a decisão teria sido tomada em duas semanas, não oito meses. O custo teria sido uma fração do que foi. E a equipe teria recebido uma mensagem de clareza e critér",
+        "7 a 12 pontos, Gargalo significativo. O padrão de adiamento está instalado e está custando à empresa em receita, em cultura e em oportunidade. O primeiro passo não é aplicar todas as ferramentas ao me",
+        "0 a 6 pontos, Gargalo crítico. A empresa está operando com a decisão represada como padrão. A equipe provavelmente já desenvolveu comportamentos adaptativos ao redor da sua indisponibilidade decisória",
+        "O Método FOCUS™ não elimina a incerteza. Ele estrutura a decisão dentro dela, de forma que o que é tomado seja uma escolha consciente, não uma reação adiada que virou inevitável por falta de ação.",
+        "[ Ponto de Honestidade ] Qual é a decisão mais importante que você tem adiado nos últimos 30 dias? Aplique o Método FOCUS™ agora, não depois de terminar o livro. Agora. E registre: qual é o custo real",
+        "Caso ilustrativo: o dono de uma empresa de tecnologia no Rio de Janeiro respondia mensagens do WhatsApp de clientes em média das 7h às 23h, incluindo fins de semana. Quando definiu janelas de atendime",
+        "1. SER, a decisão que antecede todas as outras"
+      ],
+      "termos_em_negrito": [
+        "\"Nunca contradiga o dono na frente de cliente.\"",
+        "\"Não questione o processo se ele funciona.\"",
+        "\"O problema do empresário operacional não é falta de informação. É excesso de pa",
+        "\"O resultado final do MTG não é um conjunto de processos. É um ambiente que pass",
+        "\"Tragam apenas problemas que já têm solução.\"",
+        "\"Você não muda porque quer. Você muda porque o que você vive todos os dias passo",
+        "0 a 12 pontos, Gestão por percepção.",
+        "0 a 2 respostas sim:",
+        "0 a 3 documentados:",
+        "0 a 4 pontos --- Crescimento prematuro.",
+        "0 a 4 pontos:",
+        "0 a 5 pontos, Ausência de estrutura.",
+        "1. Método MTG — Os 4 Estágios da Transição",
+        "1. SER, a decisão que antecede todas as outras",
+        "10 a 12 pontos:",
+        "10. Rituais de Gestão",
+        "11. Rituais Familiares Inegociáveis",
+        "12 a 14 pontos, Time com estrutura sólida.",
+        "12. Teste de Sucessão — Ausência Programada",
+        "15 dias antes:",
+        "16 Personalidades —",
+        "1:1 —",
+        "2. FAZER, as escolhas congruentes com quem você decidiu ser",
+        "2. Os 4 Pilares de Um Negócio Que Funciona Sem Você",
+        "3 a 4 respostas sim:",
+        "3 a 5 perguntas sem resposta:",
+        "3. POP — Procedimento Operacional Padrão",
+        "3. TER, o resultado que segue de ser e fazer com consistência",
+        "30 dias antes:",
+        "4. Matriz RACI",
+        "5 a 7 pontos --- Crescimento com risco moderado.",
+        "5 a 9 pontos:",
+        "5 respostas sim:",
+        "5. Matriz 2×2 de Performance",
+        "6 a 11 pontos, Estrutura em construção.",
+        "6. Perfil Comportamental DISC",
+        "60 dias antes:",
+        "7 a 10 documentados:",
+        "7 a 12 pontos Proposta em transição.",
+        "7. Os 5 Níveis de Delegação",
+        "8 a 10 pontos --- Empresa estruturada para crescer.",
+        "8. Modelo de Feedback SCI",
+        "9. Framework CPRE",
+        "A Mente Consciente",
+        "A Mente Inconsciente, a camada mais profunda.",
+        "A Mente Subconsciente, a camada dos hábitos e crenças",
+        "A cultura vem do dono, não do manual",
+        "A curva que nenhum dono te ensina, mas todo dono precisa entender",
+        "A empresa cresce até onde a mentalidade do dono permite.",
+        "A ilusão da informação"
+      ],
+      "titulo_detectado": "SUA EMPRESA NÃO É SEU FILHO"
+    },
+    {
+      "id": "livro-focus",
+      "tipo": "livro",
+      "metodo": "FOCUS",
+      "arquivo": "MTX_FOCUS_Livro_COMPLETO_v1.3.docx",
+      "total_paras": 4075,
+      "secoes": [
+        {
+          "titulo": "INÍCIO",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "QUE EXECUTAR",
+          "nivel": 2,
+          "n_paras": 7
+        },
+        {
+          "titulo": "CAPÍTULO 0",
+          "nivel": 1,
+          "n_paras": 24
+        },
+        {
+          "titulo": "PARTE I — A Dor: Onde a Decisão Morre",
+          "nivel": 1,
+          "n_paras": 3
+        },
+        {
+          "titulo": "PARTE II — O Humano: Por Que Travamos",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "PARTE III — O Método: A Organização da Escolha",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "PARTE IV — A Sabedoria: O Legado da Decisão",
+          "nivel": 1,
+          "n_paras": 65
+        },
+        {
+          "titulo": "PARTE I — *Onde a Decisão Morre*",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "CAPÍTULO 1 — **Decisão Não Escala. Critério Sim.**",
+          "nivel": 1,
+          "n_paras": 295
+        },
+        {
+          "titulo": "CAPÍTULO 2 — **O Ruído**",
+          "nivel": 1,
+          "n_paras": 272
+        },
+        {
+          "titulo": "CAPÍTULO 3 — **Informação Não É Decisão**",
+          "nivel": 1,
+          "n_paras": 273
+        },
+        {
+          "titulo": "CAPÍTULO 4 — **A Máquina Que Não Decide**",
+          "nivel": 1,
+          "n_paras": 122
+        },
+        {
+          "titulo": "CAPÍTULO 5 — **A Ilusão da Clareza**",
+          "nivel": 1,
+          "n_paras": 273
+        },
+        {
+          "titulo": "PARTE II — *Por Que Travamos*",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "CAPÍTULO 6 — **Os Jogos Invisíveis — As Três Mentes**",
+          "nivel": 1,
+          "n_paras": 50
+        },
+        {
+          "titulo": "parte do tempo. Carrega crenças formadas na infância, traumas não",
+          "nivel": 1,
+          "n_paras": 197
+        },
+        {
+          "titulo": "CAPÍTULO 7 — **Ego e Consenso — As Necessidades**",
+          "nivel": 1,
+          "n_paras": 241
+        },
+        {
+          "titulo": "CAPÍTULO 8 — **O Tempo Moral da Decisão**",
+          "nivel": 1,
+          "n_paras": 261
+        },
+        {
+          "titulo": "PARTE III — *A Organização da Escolha*",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "CAPÍTULO 9 — **F · Foco no Problema Central**",
+          "nivel": 1,
+          "n_paras": 196
+        },
+        {
+          "titulo": "etapa mais produtiva do processo inteiro. Porque te impede de correr na",
+          "nivel": 1,
+          "n_paras": 67
+        },
+        {
+          "titulo": "CAPÍTULO 10 — **O · Opções**",
+          "nivel": 1,
+          "n_paras": 230
+        },
+        {
+          "titulo": "CAPÍTULO 11 — **C · Consequências**",
+          "nivel": 1,
+          "n_paras": 220
+        },
+        {
+          "titulo": "CAPÍTULO 12 — **U · Urgência Moral**",
+          "nivel": 1,
+          "n_paras": 218
+        },
+        {
+          "titulo": "CAPÍTULO 13 — **S · Sustentação**",
+          "nivel": 1,
+          "n_paras": 129
+        },
+        {
+          "titulo": "capítulo um nos ensinou a evitar.",
+          "nivel": 1,
+          "n_paras": 51
+        },
+        {
+          "titulo": "Bloco 1: Comunicação. Quem precisa saber? Em que ordem? Com que",
+          "nivel": 1,
+          "n_paras": 3
+        },
+        {
+          "titulo": "Bloco 2: Execução. Quais são os primeiros três passos concretos?",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "Bloco 3: Critério de ajuste. Quais sinais indicam que você precisa",
+          "nivel": 1,
+          "n_paras": 68
+        },
+        {
+          "titulo": "parte trata. Não mais o que fazer. Mas quem ser enquanto faz. Porque a",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "PARTE IV — *O Legado da Decisão*",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "CAPÍTULO 14 — **Sabedoria Não É Conhecimento**",
+          "nivel": 1,
+          "n_paras": 137
+        },
+        {
+          "titulo": "CAPÍTULO 15 — **Ensinar Sem Sequestrar**",
+          "nivel": 1,
+          "n_paras": 132
+        },
+        {
+          "titulo": "CAPÍTULO 16 — **O Manual Pessoal**",
+          "nivel": 1,
+          "n_paras": 84
+        },
+        {
+          "titulo": "CAPÍTULO 17 — A Fidelidade ao Enxergado",
+          "nivel": 1,
+          "n_paras": 69
+        },
+        {
+          "titulo": "capítulo te ensinou a enxergar melhor. Agora você precisa ter a coragem de",
+          "nivel": 1,
+          "n_paras": 9
+        },
+        {
+          "titulo": "CAPÍTULO 18 — **O Legado do Meu Pai. E o Seu.**",
+          "nivel": 1,
+          "n_paras": 101
+        },
+        {
+          "titulo": "ENCERRAMENTO",
+          "nivel": 2,
+          "n_paras": 47
+        },
+        {
+          "titulo": "APÊNDICE",
+          "nivel": 2,
+          "n_paras": 157
+        }
+      ],
+      "conceitos": [
+        "\"Seu público é quem valoriza origem, processo e experiência sensorial",
+        "**Canvas FOCUS™**",
+        "**Checklist das 5 Etapas FOCUS™**",
+        "**O Canvas de Sustentação**",
+        "**O Mapa do Ruído**",
+        "**O MÉTODO**",
+        "**O Protocolo M.A.V.**",
+        "**O método completo**",
+        "**O silêncio como ferramenta estratégica**",
+        ". O silêncio não era passividade. Era o método dele de limpar o ruído antes de enxergar.",
+        ". Porque decidir exige algo que nenhuma ferramenta dá: a disposição de ser responsável pelo resultado.",
+        "A Ficha também é ferramenta de comunicação. Quando você precisa explicar",
+        "A Matriz Sintoma versus Causa Raiz é a ferramenta que transforma",
+        "A Matriz de Consequências é a ferramenta que transforma imaginação em",
+        "A ferramenta prática do C é a Matriz de Consequências. Simples de",
+        "A maioria dos livros de método joga você direto na primeira parte sem te mostrar aonde vai",
+        "Agora é diferente. Agora você tem método.",
+        "Antes de começar: o que este método não faz.",
+        "Antes de qualquer ferramenta, um princípio. O FOCUS™ inteiro é",
+        "Existe um processo prático para isso. Não é teoria. É ferramenta.",
+        "Existe uma ferramenta simples e poderosa para cavar abaixo do sintoma.",
+        "Existem dois tipos de perguntas no processo de decisão. As que adicionam",
+        "Final do capítulo anterior é sua melhor ferramenta de",
+        "Mapa do Ruído do capítulo dois? Aqui ele volta. Porque antes de",
+        "Mas método sem sabedoria é ferramenta sem alma. E é disso que a próxim",
+        "Mas método sem sabedoria é ferramenta sem alma. E é disso que a próxima",
+        "Mas não tem sistema.",
+        "Mas saber não resolve. Você precisa de método. De estrutura. De um",
+        "MÉTODO FOCUS™",
+        "No Método FOCUS™, a inteligência artificial tem limites explícitos. N"
+      ],
+      "decisoes_encontradas": [
+        "E o resultado é o que vemos em líderes ao redor do mundo: pessoas competentes, bem-intencionadas e trabalhadoras que travam. Não por falta de capacidade. Por falta de método. Por falta de critério. Po",
+        "PARTE I — A Dor: Onde a Decisão Morre",
+        "Antes de aprender a decidir bem, você precisa entender por que decide mal. Não por culpa ou julgamento — mas por diagnóstico honesto. Os primeiros cinco capítulos mapeiam os obstáculos externos que sa",
+        "Você vai entender por que decisão não escala mas critério sim — e por que você provavelmente se tornou o gargalo da sua própria operação sem perceber. Vai enfrentar o ruído que consome sua capacidade ",
+        "Três capítulos que mergulham no terreno mais desconfortável da liderança: você. Seus jogos invisíveis. Suas necessidades mais profundas. Seu ego. Sua busca por consenso. E o tempo moral que toda decis",
+        "Usado bem, ele não substitui seu julgamento — ele o potencializa. Não elimina a incerteza — mas a torna gerenciável. Não toma a decisão por você — mas garante que você considerou o que precisava consi",
+        "Não é uma garantia de acerto. Você vai errar. Todo decisor erra. A diferença está em errar com consciência — sabendo por que escolheu, o que esperava, e o que vai ajustar — em vez de errar no piloto a",
+        "Mas tudo isso depende de uma coisa que só você pode dar: presença. Ler com a intenção de aplicar. Não de acumular. Não de concordar ou discordar em abstrato. Mas de olhar para o que você lê e pergunta",
+        "PARTE I — *Onde a Decisão Morre*",
+        "*\"A decisão é singular. O critério é transmissível.\"*",
+        "deteriorando. Não por falta de dinheiro. Por falta de autonomia do",
+        "de e-mail marketing. Confere nota fiscal. E quando chega a decisão que",
+        "A decisão é singular. O critério é transmissível.",
+        "Você não decide mal porque falta informação.",
+        "Se você não lembra, o problema não é falta de tempo. É excesso de ruído.",
+        "a falta de dados. É o excesso. Cada notícia, cada opinião, cada análise,",
+        "ilusão de que, se você souber tudo, a decisão vai ficar fácil.",
+        "Não vai. A decisão nunca fica fácil. O que fica possível é enxergar com",
+        "silêncio que a decisão se forma. Não no barulho de uma reunião. Não no",
+        "critério. Porque ele tinha algo que nós perdemos: espaço mental."
+      ],
+      "termos_em_negrito": [
+        "A decisão é singular. O critério é transmissível.",
+        "A decisão é sua. Sempre foi. Sempre será.",
+        "Ajuste estratégico",
+        "Antes de Começar",
+        "Análise infinita é sintoma de medo, não de prudência.",
+        "Bloco 1: Comunicação.",
+        "Bloco 2: Execução.",
+        "Bloco 3: Critério de ajuste.",
+        "C · C |",
+        "C · Consequências",
+        "C — CONSEQUÊNCIAS  (opção analisada: _______________________)",
+        "CAPÍTULO 0",
+        "CAPÍTULO 17 — A Fidelidade ao Enxergado",
+        "Certeza através de critério, não de controle.",
+        "Conexão através de respeito, não de agrado.",
+        "Consenso é paralisia disfarçada de harmonia.",
+        "Contribuição através de capacitação, não de dependência.",
+        "Crescimento através de erro processado, não de acumulação vazia.",
+        "Critério",
+        "Critério da escolha:",
+        "Critério de ajuste:",
+        "Critério usado",
+        "Custo de energia mental.",
+        "Custo de oportunidade.",
+        "Custo de reversão.",
+        "Custo relacional.",
+        "DECIDIR É",
+        "Data",
+        "Data limite: \\_\\_\\_/\\_\\_\\_/\\_\\_\\_\\_\\_\\_",
+        "Decidir fora do tempo certo custa mais do que decidir errado.",
+        "Decisão",
+        "Ego é prisão disfarçada de importância.",
+        "Enxergar a verdade e sustentar",
+        "Enxergar consequências",
+        "Enxergar ensino",
+        "Enxergar necessidades",
+        "Enxergar o prazo moral é sabedoria.",
+        "Enxergar o problema",
+        "Enxergar opções",
+        "Enxergar os jogos",
+        "Enxergar prazo moral",
+        "Enxergar sabedoria",
+        "Enxergar sustentação",
+        "Enxergar urgência",
+        "Enxergar versus ver na ilusão da clareza",
+        "Enxergar versus ver no ruído",
+        "F ·   |",
+        "F · Foco no Problema Central",
+        "F — FOCO",
+        "Fatos"
+      ],
+      "titulo_detectado": "MÉTODO FOCUS™"
+    },
+    {
+      "id": "livro-mte",
+      "tipo": "livro",
+      "metodo": "MTE",
+      "arquivo": "MTX_MTE_Livro_REVISADO_v2_12.docx",
+      "total_paras": 1596,
+      "secoes": [
+        {
+          "titulo": "INÍCIO",
+          "nivel": 1,
+          "n_paras": 6
+        },
+        {
+          "titulo": "NOTA DO AUTOR",
+          "nivel": 2,
+          "n_paras": 29
+        },
+        {
+          "titulo": "SUMÁRIO",
+          "nivel": 2,
+          "n_paras": 1
+        },
+        {
+          "titulo": "Capítulo 24. O Que Vem Depois",
+          "nivel": 1,
+          "n_paras": 3
+        },
+        {
+          "titulo": "CONSCIÊNCIA",
+          "nivel": 2,
+          "n_paras": 1
+        },
+        {
+          "titulo": "CAPÍTULO 1",
+          "nivel": 1,
+          "n_paras": 65
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 14
+        },
+        {
+          "titulo": "CAPÍTULO 2",
+          "nivel": 1,
+          "n_paras": 60
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 4
+        },
+        {
+          "titulo": "CAPÍTULO 3",
+          "nivel": 1,
+          "n_paras": 58
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "CAPÍTULO 4",
+          "nivel": 1,
+          "n_paras": 40
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 4
+        },
+        {
+          "titulo": "PARTE 2",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "CAPÍTULO 5",
+          "nivel": 1,
+          "n_paras": 89
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "CAPÍTULO 6",
+          "nivel": 1,
+          "n_paras": 58
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "CAPÍTULO 7",
+          "nivel": 1,
+          "n_paras": 67
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "CAPÍTULO 8",
+          "nivel": 1,
+          "n_paras": 59
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 8
+        },
+        {
+          "titulo": "PARTE 3",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "CAPÍTULO 9",
+          "nivel": 1,
+          "n_paras": 33
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "CAPÍTULO 10",
+          "nivel": 1,
+          "n_paras": 52
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "CAPÍTULO 11",
+          "nivel": 1,
+          "n_paras": 46
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "CAPÍTULO 12",
+          "nivel": 1,
+          "n_paras": 41
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 4
+        },
+        {
+          "titulo": "PARTE 4",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "CAPÍTULO 13",
+          "nivel": 1,
+          "n_paras": 15
+        },
+        {
+          "titulo": "Etapa 1: Atrair, gerar visibilidade qualificada.",
+          "nivel": 1,
+          "n_paras": 3
+        },
+        {
+          "titulo": "Etapa 2: Qualificar, identificar se vale o investimento de uma conversa.",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "Etapa 3: Diagnosticar, entender o problema com mais profundidade do que o próprio cliente.",
+          "nivel": 1,
+          "n_paras": 5
+        },
+        {
+          "titulo": "Etapa 4: Apresentar, propor solução específica, não genérica.",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "Etapa 5: Fechar, criar condição para a decisão.",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "Etapa 6: Reativar, trabalhar a base existente.",
+          "nivel": 1,
+          "n_paras": 9
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 2
+        },
+        {
+          "titulo": "CAPÍTULO 14",
+          "nivel": 1,
+          "n_paras": 50
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "CAPÍTULO 15",
+          "nivel": 1,
+          "n_paras": 47
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 2
+        },
+        {
+          "titulo": "CAPÍTULO 16",
+          "nivel": 1,
+          "n_paras": 40
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 2
+        },
+        {
+          "titulo": "PARTE 5",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "CAPÍTULO 17",
+          "nivel": 1,
+          "n_paras": 34
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "CAPÍTULO 18",
+          "nivel": 1,
+          "n_paras": 37
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "CAPÍTULO 19",
+          "nivel": 1,
+          "n_paras": 34
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "CAPÍTULO 20",
+          "nivel": 1,
+          "n_paras": 50
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 50
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 10
+        },
+        {
+          "titulo": "PARTE 6",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "CAPÍTULO 21",
+          "nivel": 1,
+          "n_paras": 16
+        },
+        {
+          "titulo": "Etapa                Volume/mês   Taxa de avanço Contatos iniciais        12              . Qualificados             4                33% Reunião de diagnóstico   3                75% Proposta enviada         2                67% Proposta aceita          1                50% Entregue com qualidade   1                100% Renova ou indica         0,4              40%",
+          "nivel": 1,
+          "n_paras": 30
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "CAPÍTULO 22",
+          "nivel": 1,
+          "n_paras": 43
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "CAPÍTULO 23",
+          "nivel": 1,
+          "n_paras": 43
+        },
+        {
+          "titulo": "PONTO DE HONESTIDADE",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "CAPÍTULO 24",
+          "nivel": 1,
+          "n_paras": 44
+        },
+        {
+          "titulo": "Parte 6. Aceleração: você identificou as alavancas de crescimento com base em gargalo real. Aprendeu a reinventar o modelo quando os dados indicam que é necessário, sem destruir o que funciona. E entendeu por que o desenvolvimento de liderança precisa começar antes de ser urgentemente necessário.",
+          "nivel": 1,
+          "n_paras": 41
+        },
+        {
+          "titulo": "APÊNDICE",
+          "nivel": 2,
+          "n_paras": 3
+        },
+        {
+          "titulo": "F. FOCO",
+          "nivel": 2,
+          "n_paras": 3
+        },
+        {
+          "titulo": "C. CONSEQUÊNCIAS",
+          "nivel": 2,
+          "n_paras": 1
+        },
+        {
+          "titulo": "U. URGÊNCIA",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "REFERÊNCIAS",
+          "nivel": 2,
+          "n_paras": 3
+        },
+        {
+          "titulo": "GLOSSÁRIO",
+          "nivel": 2,
+          "n_paras": 11
+        }
+      ],
+      "conceitos": [
+        "% do faturamento é sinal de problema de processo, de emissão de cobrança, de follow-up, ou de perfil de clie",
+        "(sistema de venda, canal de aquisição, processo de entrega, precificação) é construído sobre ela. Proposta",
+        ", por falta de pessoas, por problema de processo, ou por qualquer interrupção na capacidade de operação.",
+        ", sem diploma, sem curso de gestão, sem metodologia formalizada. Apenas trabalho, caráter e uma clareza sobre o",
+        "-  pelo menos não neste modelo ou neste momento.",
+        "-  é método. Este capítulo dá o método.",
+        "-la. Mas existe um elemento que nenhuma ferramenta substitui: a disposição para ser diferente do que você foi",
+        ". A fundação primeiro (metodomtg.com.br/score).",
+        ". Gestão Financeira. Com a proposta e o modelo definidos, você precisa de visibilidade financeira para tom",
+        ". Mentalidade, Transição, Estratégia. O Score MTX te espera mais à frente, no",
+        ". Os clientes mudam. O fundador muda. O modelo precisa acompanhar.",
+        "5% de ganho disponível na otimização de processo. Se não, o próximo contrato que fechar já precisa ter a con",
+        "9 a 12: a escolha. Ou você encontra um modelo sustentável e aprende rápido o que não sabe, ou a empresa c",
+        ": a perda de uma licitação por falta de sistema adequado.",
+        ": primeiro P2 real e início do P3, se o modelo estiver correto. Custos: subestimados em 20 a 40% em quase",
+        "A contratação acontece sem processo formal, sem descrição de cargo clara, sem acordo explícito",
+        "A gestão da inadimplência, processo, não tolerância",
+        "A pergunta para definir seu modelo: existe algo no que você faz que pode ser transformado em s",
+        "A proposta está validada ou ajustada. O modelo de receita começa a ter algum grau de previsibilidade. A op",
+        "A revisão trimestral do modelo é o instrumento que detecta o pivot silencioso, antes que e",
+        "Agora você tem o mapa.",
+        "Ajustar o modelo é necessário às vezes. Destruir o que funciona desnecessari",
+        "Ajuste de modelo tem consequências além do faturamento e da margem. Tem cons",
+        "Alavanca 3. Processo de entrega (gargalo: qualidade oscilante ou retrabalho alto",
+        "Alguns sinais de que o modelo precisa de revisão além do ajuste incremental: o público qu",
+        "Apêndice. O Método FOCUS",
+        "Cada capítulo é uma ferramenta. Cada ferramenta tem aplicação prática. Cada aplicação prát",
+        "Cada capítulo é uma ferramenta. Cada ferramenta tem aplicação prática. Cada aplicação prática tem resultado",
+        "Capítulo 11. O Primeiro Processo",
+        "Capítulo 1: que o trabalho aqui seria o mapa para evitar o abismo entre técnico excelente e empresário f"
+      ],
+      "decisoes_encontradas": [
+        "Ao longo de mais de doze anos, trabalhei diretamente com mais de mil líderes e donos de empresas em treinamentos, mentorias e reestruturações operacionais. A maioria deles técnicos que chegaram até mi",
+        "Isso não é fracasso de caráter. Não é falta de dedicação. É o resultado previsível de uma transição que exige aprender um conjunto completamente novo de competências, e que a maioria dos técnicos tent",
+        "Meses 4 a 8: o Vale da Morte. O dinheiro da reserva está diminuindo mais rápido do que planejado. Os clientes não chegam na velocidade que você imaginou. As despesas fixas são maiores do que o estimad",
+        "O fundador que conhece esse padrão antes de vivê-lo toma decisões diferentes em cada etapa. Na euforia inicial, já está construindo processo em vez de apenas executando. No Vale da Morte, já tem reser",
+        "Empresa-ativo é o negócio que produz valor independente do fundador. Tem processos que orientam a operação. Tem pessoas que decidem dentro das suas alçadas. Tem clientes que têm relação com a empresa,",
+        "Sua mente não é uma coisa só. Você não pensa de forma linear e racional, mesmo quando acha que pensa. Você opera em três camadas simultâneas de processamento. Cada uma com velocidade diferente, priori",
+        "Fugir: você adia a decisão indefinidamente. Sempre tem mais uma coisa para estudar, mais uma reserva para fazer, mais um mês para esperar. Você planeja infinitamente porque planejar é seguro. Executar",
+        "Você quer sair de onde está. Está insatisfeito com o salário, com o chefe, com a falta de reconhecimento, com o teto que o emprego impõe. Sua motivação principal é escapar de algo que incomoda, não co",
+        "Leitura do exemplo: reserva de 2,1 meses está abaixo do mínimo de 3 meses, pista vermelha. O maior cliente representa 45% do faturamento, pista amarela. A decisão de contratar precisa aguardar a reser",
+        "Risco de liquidez: a empresa é viável no papel, mas a conta não tem saldo para pagar a folha de sexta. Fluxo de caixa e rentabilidade são conceitos diferentes. Empresa lucrativa pode quebrar por falta",
+        "É o risco de que a empresa não consiga entregar o que prometeu, seja por falha técnica, por falta de pessoas, por problema de processo, ou por qualquer interrupção na capacidade de operação.",
+        "Risco calculado exige não apenas análise de probabilidade e impacto, mas um plano de contingência explícito para os riscos críticos. Um plano de contingência não é pessimismo, é a diferença entre cris",
+        "A decisão consciente, o que significa estar pronto",
+        "O problema não é que recurso seja ruim. É que recurso é facilmente comparável. Se você descreve o que faz em termos técnicos, o cliente vai comparar o seu recurso com o recurso do concorrente, e quand",
+        "A dor superficial é técnica. A dor real é emocional e financeira. E é no nível emocional que o cliente decide comprar. É no nível financeiro que ele justifica o investimento racionalmente depois que a",
+        "Para um provedor de internet: a situação-gatilho pode ser a queda durante uma reunião importante com cliente. Para uma consultoria financeira: a chegada de uma notificação do Fisco ou a descoberta de ",
+        "Uma vez que o perfil está definido e validado, ele precisa ser usado como filtro, não apenas como descrição interna. Na comunicação: toda mensagem que você publica, envia ou fala deve ser escrita para",
+        "A decisão de dizer não, e quando ela é estratégica",
+        "Existe uma categoria de fundador que fecha empresa não por falta de mercado, não por incompetência técnica, não por crise econômica.",
+        "Um técnico que fatura R$ 25 mil por mês e tem custo fixo de R$ 8 mil pensa que tem R$ 17 mil de lucro. Quando inclui o pró-labore real de R$ 7 mil, custo variável de R$ 4 mil e provisão de inadimplênc"
+      ],
+      "termos_em_negrito": [
+        "\"Eu deveria ter minha própria empresa.\"",
+        "(ponto de equilíbrio):",
+        "**A blindagem patrimonial que começa na separação",
+        "**Contrato não é desconfiança, é profissionalismo",
+        "**O cliente errado é mais caro que a ausência de cliente",
+        "**O sinal vermelho que não pode ser ignorado",
+        ". Acordo de Nível de Serviço):",
+        "0 a 7 pontos. Fundação ainda em construção",
+        "1. O que você faz (recurso técnico, em uma frase clara):",
+        "1. Receita recebida na semana.",
+        "14 a 16 pontos. Fundação sólida para o próximo estágio",
+        "2. Contas a pagar nos próximos 7 dias.",
+        "2. Para quem você faz (cliente ideal, específico):",
+        "3. Que problema real você resolve (dor profunda):",
+        "3. Saldo atual em caixa.",
+        "4. Que resultado concreto o cliente obtém (transformação mensurável):",
+        "4. Receita em aberto (a receber).",
+        "5. Custo fixo do mês (já gasto + ainda a pagar).",
+        "6. A frase-síntese (proposta em uma sentença que qualquer pessoa entende em 10 s",
+        "6. Número de novos clientes ou contratos fechados na semana.",
+        "7. Número de clientes ou contratos perdidos na semana.",
+        "8 a 13 pontos. Fundação parcial com lacunas identificadas",
+        "A Pirâmide de Valor: três camadas, três preços",
+        "A distinção que ninguém te ensina antes de abrir empresa",
+        "A frase que orienta tudo",
+        "A promessa cumprida, e a que ainda está por cumprir",
+        "A reinvenção como competência, não como crise",
+        "ACELERAÇÃO",
+        "Agreement",
+        "Ajuste de proposta de valor.",
+        "Ajuste de segmento.",
+        "Ajuste de serviço.",
+        "Alavanca 6. Capacidade operacional (gargalo: não consegue absorver crescimento s",
+        "Alta probabilidade + alto impacto:",
+        "Alta probabilidade + baixo impacto:",
+        "Alçada:",
+        "André Luís Martins Ribeiro",
+        "Antes de decidir crescer, avalie três indicadores:",
+        "Articulabilidade",
+        "As seis alavancas, e como acionar cada uma",
+        "Baixa probabilidade + alto impacto:",
+        "Baixa probabilidade + baixo impacto:",
+        "Break-",
+        "C. CONSEQUÊNCIAS",
+        "CONSCIÊNCIA",
+        "Capital de giro:",
+        "Churn",
+        "Clareza de modelo",
+        "Como usar este diagnóstico",
+        "Como usar o FOCUS a partir de agora"
+      ],
+      "titulo_detectado": "MTE. Série VouAR"
+    },
+    {
+      "id": "livro-mtc",
+      "tipo": "livro",
+      "metodo": "MTC",
+      "arquivo": "MTX_MTC_Livro_COMPLETO_v1.3.docx",
+      "total_paras": 2314,
+      "secoes": [
+        {
+          "titulo": "INÍCIO",
+          "nivel": 1,
+          "n_paras": 3
+        },
+        {
+          "titulo": "NOTA DO AUTOR",
+          "nivel": 2,
+          "n_paras": 12
+        },
+        {
+          "titulo": "Capítulo 1 — A Diferença Entre Dono e CEO",
+          "nivel": 1,
+          "n_paras": 78
+        },
+        {
+          "titulo": "Capítulo 2 — O Apego que Trava o CEO",
+          "nivel": 1,
+          "n_paras": 103
+        },
+        {
+          "titulo": "Capítulo 3 — Pensamento de 2ª e 3ª Ordem",
+          "nivel": 1,
+          "n_paras": 108
+        },
+        {
+          "titulo": "Capítulo 4 — O Fundador como Gargalo Invisível",
+          "nivel": 1,
+          "n_paras": 100
+        },
+        {
+          "titulo": "Capítulo 5",
+          "nivel": 1,
+          "n_paras": 111
+        },
+        {
+          "titulo": "Capítulo 6 — O Que o Mercado Compra",
+          "nivel": 1,
+          "n_paras": 106
+        },
+        {
+          "titulo": "Capítulo 7 — Estratégia como Escolha",
+          "nivel": 1,
+          "n_paras": 125
+        },
+        {
+          "titulo": "Capítulo 8 — O C-Level** que Você Precisa Ter**",
+          "nivel": 1,
+          "n_paras": 118
+        },
+        {
+          "titulo": "Capítulo 9 — Governança que Funciona de Verdade",
+          "nivel": 1,
+          "n_paras": 63
+        },
+        {
+          "titulo": "Etapa 1 — Diagnóstico de Governança Atual.",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "Etapa 2 — Definição de Alçadas.",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "Etapa 3 — Instalação das Instâncias.",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "Etapa 4 — Construção do Dashboard de Governança.",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "Etapa 5 — Instalação do Accountability.",
+          "nivel": 1,
+          "n_paras": 44
+        },
+        {
+          "titulo": "Capítulo 10 — Conselho Consultivo de Alto Nível",
+          "nivel": 1,
+          "n_paras": 114
+        },
+        {
+          "titulo": "Capítulo 11 — Planejamento Estratégico Real",
+          "nivel": 1,
+          "n_paras": 115
+        },
+        {
+          "titulo": "Seção 6 — Riscos e Contingências: os três a cinco riscos principais que podem comprometer o plano — e o que vamos fazer se cada um se materializar.",
+          "nivel": 1,
+          "n_paras": 11
+        },
+        {
+          "titulo": "Capítulo 12 — Empresa Familiar de Alto Nível",
+          "nivel": 1,
+          "n_paras": 126
+        },
+        {
+          "titulo": "Capítulo 13 — Métricas de CEO",
+          "nivel": 1,
+          "n_paras": 112
+        },
+        {
+          "titulo": "Capítulo 14 — Due** ****Diligence**** Permanente**",
+          "nivel": 1,
+          "n_paras": 128
+        },
+        {
+          "titulo": "Capítulo 15 — M&A para PME",
+          "nivel": 1,
+          "n_paras": 55
+        },
+        {
+          "titulo": "Etapa 1 — Tese de Aquisição.",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "Etapa 2 — Análise Preliminar.",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "Etapa 3 — Term** ****Sheet****.**",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "Etapa 4 — Due** ****Diligence****.**",
+          "nivel": 1,
+          "n_paras": 3
+        },
+        {
+          "titulo": "Etapa 5 — Estruturação da Transação.",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "Etapa 6 — Integração.",
+          "nivel": 1,
+          "n_paras": 31
+        },
+        {
+          "titulo": "Capítulo 16 — Captação e Capital Externo",
+          "nivel": 1,
+          "n_paras": 47
+        },
+        {
+          "titulo": "Etapa 1 — Tese de Captação.",
+          "nivel": 1,
+          "n_paras": 7
+        },
+        {
+          "titulo": "Etapa 2 — Preparação da Empresa.",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "Etapa 3 — Mapeamento de Investidores.",
+          "nivel": 1,
+          "n_paras": 2
+        },
+        {
+          "titulo": "Etapa 4 — Processo de Conversa.",
+          "nivel": 1,
+          "n_paras": 8
+        },
+        {
+          "titulo": "Etapa 5 — Negociação e Estruturação.",
+          "nivel": 1,
+          "n_paras": 38
+        },
+        {
+          "titulo": "Capítulo 17 — Sucessão: os 3 Caminhos",
+          "nivel": 1,
+          "n_paras": 66
+        },
+        {
+          "titulo": "Etapa 1 — Decisão e Comunicação.",
+          "nivel": 1,
+          "n_paras": 3
+        },
+        {
+          "titulo": "Etapa 2 — Desenvolvimento ou Seleção do Sucessor.",
+          "nivel": 1,
+          "n_paras": 3
+        },
+        {
+          "titulo": "Etapa 3 — Período de Transição.",
+          "nivel": 1,
+          "n_paras": 3
+        },
+        {
+          "titulo": "Etapa 4 — Saída Estruturada.",
+          "nivel": 1,
+          "n_paras": 24
+        },
+        {
+          "titulo": "Capítulo 18 — Empresa Familiar: Profissionalizar Sem Perder a Alma",
+          "nivel": 1,
+          "n_paras": 111
+        },
+        {
+          "titulo": "Capítulo 19 — O CEO Que Não Precisa Estar Presente",
+          "nivel": 1,
+          "n_paras": 34
+        },
+        {
+          "titulo": "Capítulo 8.",
+          "nivel": 1,
+          "n_paras": 4
+        },
+        {
+          "titulo": "Capítulo 9.",
+          "nivel": 1,
+          "n_paras": 3
+        },
+        {
+          "titulo": "Capítulo 14 — dimensão operacional da due diligence permanente.",
+          "nivel": 1,
+          "n_paras": 3
+        },
+        {
+          "titulo": "Capítulo 18 — dimensão da transmissão de valores.",
+          "nivel": 1,
+          "n_paras": 3
+        },
+        {
+          "titulo": "Capítulo 13.",
+          "nivel": 1,
+          "n_paras": 3
+        },
+        {
+          "titulo": "Capítulo 10.",
+          "nivel": 1,
+          "n_paras": 75
+        },
+        {
+          "titulo": "Capítulo 20 — Legado É Sistema, Não Monumento",
+          "nivel": 1,
+          "n_paras": 140
+        }
+      ],
+      "conceitos": [
+        "\"Como transformo esta empresa em um sistema que produz valor sem mim?\"",
+        "\"Governança como Sistema que Liberta\" — inversão semântica deliberada: governança nã",
+        "9 a 12. Alçadas, instâncias, Conselho, Protocolo Familiar. O sistema de decisão que funciona porque tem crit",
+        "? Formação mínima, experiência externa, processo seletivo equivalente ao de um profissional de mercado? Ou q",
+        "A Parte Prática deste capítulo aplica o Framework de Avaliação de M&A, os 4 Filtros de Decisão e o Processo d",
+        "A Parte Prática deste capítulo aplica o Mapa de Valores versus Métodos, o Modelo de Profissionalização c",
+        "A Parte Prática deste capítulo aplica o Mapa do Gargalo, a Matriz de Alçadas e os 3 Tipos de Desbloqueio",
+        "A Parte Prática deste capítulo aplica o Modelo de Composição do Conselho, o Critério de Escolha de Conselh",
+        "A Parte Prática deste capítulo aplica o Modelo de Diagnóstico Estratégico, a Estrutura de Iniciativas com",
+        "A Parte Prática deste capítulo aplica o Score de Due Diligence nas 6 Dimensões, o Calendário de Revisão e",
+        "A Parte Prática deste capítulo aplica o Sistema de Escolha Estratégica, o Mapa de Alocação de Recursos e o",
+        "A diferença está no processo — na lógica clara, nos filtros aplicados com rigor, na due",
+        "A empresa chega ao processo acreditando que está pronta. O fundador sabe o que a empres",
+        "A revisão mais profunda. Score de due diligence completo nas seis dimensões. Comparação co",
+        "Antes de construir o modelo certo, preciso nomear por que o modelo errado persiste — ap",
+        "Ao final das duas semanas, você tem o mapa do seu gargalo. Não como conceito. Como dado concreto.",
+        "Apego 4 — O modelo que sempre funcionou.",
+        "Associados; (c) ter passado pelo mesmo processo seletivo aplicado a candidatos externos para o cargo em que",
+        "CEO não é o motor. CEO é o arquiteto do sistema que faz os motores certos funcionarem nos lugares certos.",
+        "CEO que decide sozinho tem o mapa de uma cabeça.",
+        "Caminho 1: processo de desenvolvimento deliberado com horizonte e marcos defini",
+        "Caminho 2: processo de seleção com critério documentado, com participação do Co",
+        "Caminho 3: processo de preparação da empresa para transação — que é, em grande",
+        "Capítulo 20 — Legado É Sistema, Não Monumento",
+        "Comunicação de valor é processo. Entrega percebida é processo. Reputação de mercado é proce",
+        "Confundir valor com método produz resistência a mudanças necessárias — porque qualquer",
+        "Conselheiro que revisa o score de due diligence está fazendo exatamente o trabalho para o",
+        "Conselho Consultivo de alto nível tem o mapa de cinco cabeças — com experiências diferentes, pontos de v",
+        "Descarta o que era valor como se fosse método ultrapassado.",
+        "Dimensões, os 3 Perfis de Liderança e o Sistema de Governança do C-Level à sua estrutura atual. Execute ant"
+      ],
+      "decisoes_encontradas": [
+        "Saiu do zero. Passou pela escassez, pelo risco, pela insegurança de não saber se o mês fecha. Aprendeu a fazer tudo. Depois aprendeu a delegar o fazer. Depois aprendeu a gerir quem faz. Chegou até aqu",
+        "O custo? Você é o ponto único de falha da própria empresa. Se adoecer, a decisão para. Se viajar, o time aguarda. Se uma oportunidade exige resposta em 48 horas, ela vai embora.",
+        "Não é falta de competência. É o modelo errado.",
+        "Apego não adia decisão. Apego é a decisão de não decidir. E toda não-decisão tem consequência.",
+        "Vem de um critério real? De uma análise de risco fundamentada? De dados que contradizem a decisão?",
+        "Consciência: Identificar quando o apego está dirigindo a decisão. O sinal não é lógico — é emocional. É a resistência desproporcional ao risco real. É a irritação quando alguém questiona o modelo. É o",
+        "Pausa: Não decidir sob emoção de apego. Dormir sobre a decisão. Consultar alguém que não tem apego ao resultado — um conselheiro, um mentor, um sócio sem viés. Criar distância entre o estímulo e a res",
+        "Execução: Sustentar a decisão difícil mesmo quando o inconsciente grita. O apego não desaparece depois de uma decisão. Ele persiste por semanas, às vezes meses. A execução é a disciplina de manter o c",
+        "Não é paranoia. Não é análise infinita que paralisa. É a pergunta sobre o sistema — como a decisão de hoje reconfigura a estrutura da empresa, do mercado competitivo e das pessoas envolvidas no médio ",
+        "Não é falta de inteligência. É consequência do histórico.",
+        "A decisão rápida de primeira ordem que o fundador toma em uma segunda-feira se transforma em 80 pessoas ajustando comportamento na quinta-feira — sem que ninguém tenha calculado o efeito sistêmico dis",
+        "O erro mais comum. Você identifica um problema real, toma uma decisão real para resolvê-lo — e a decisão cria dois problemas novos que o problema original não criaria.",
+        "Este é mais sofisticado — e mais perigoso, porque a decisão em si não estava errada.",
+        "A decisão era certa. A pergunta que faltou foi: quando, dada a capacidade real que tenho agora?",
+        "A assimetria entre os dois arrependimentos revela muito sobre a decisão real. Às vezes o arrependimento da ação é pequeno e recuperável. O arrependimento da inação é grande e permanente.",
+        "Quando a inação é mais cara do que a ação errada, decidir devagar é a decisão mais arriscada.",
+        "Identifique a decisão estratégica mais importante que está na sua mesa neste momento. Aquela que você sabe que precisa ser tomada — e que está adiada ou em análise.",
+        "A decisão que parecia óbvia em primeira ordem ainda é óbvia depois das três camadas? O como, o quando e o com quem mudaram?",
+        "Na maioria das vezes, a decisão em si não muda. O que muda é a forma de implementar — o timing, a sequência, as condições que precisam ser criadas antes, os riscos que precisam ser mitigados durante.",
+        "Às vezes a decisão muda completamente."
+      ],
+      "termos_em_negrito": [
+        "\"Como transformo esta empresa em um sistema que produz valor sem mim?\"",
+        "0 a 2 decisões",
+        "1 — Crítico:",
+        "2 — Frágil:",
+        "3 a 5 decisões",
+        "3 — Adequado:",
+        "4 — Sólido:",
+        "5 — Diferenciado:",
+        "6 a 10 decisões",
+        "A Armadilha da Estratégia Perfeita",
+        "A Armadilha do CEO Ocioso",
+        "A Cadência de Análise do CEO",
+        "A Composição Certa do Conselho",
+        "A Decisão Mais Difícil do CEO",
+        "A Diferença Entre Empresas que Duram",
+        "A Diferença Entre Oferta e Valor Percebido",
+        "A Empresa Que Está Sempre Pronta",
+        "A Instalação da Governança — Sequência Prática",
+        "A Pergunta que Começou Tudo",
+        "A Pergunta que Separa o Dono do CEO",
+        "A Remuneração do Conselho",
+        "A Segunda Geração — Entre a Herança e a Identidade",
+        "A Transição — Do Gargalo para o Governante",
+        "A composição certa do C-Level",
+        "A decisão de captar capital externo começa com a pergunta honesta: o que estou a",
+        "A decisão que parecia óbvia em primeira ordem ainda é óbvia depois das três cama",
+        "A diferença entre os dois modelos não está no lucro. Está na estrutura.",
+        "A diferença não é presença versus ausência. É dependência versus escolha.",
+        "A distinção definitiva — em linguagem de valor:",
+        "A empresa do dono funciona com ele. A empresa do CEO funciona sem ele.",
+        "A empresa financia o que o orçamento aprova — independente do que o planejamento",
+        "A pergunta é: o que você vai construir para destravá-lo?",
+        "A pergunta é: você está disposto a governar?",
+        "A resposta certa: trabalho de CEO de verdade.",
+        "A solução não é não contratar executivos externos. É contratar executivos que en",
+        "A solução não é ter menos estrutura. É ter mais propósito — definido antes de a ",
+        "A transformação começa com a pergunta honesta: qual dos dois você tem hoje?",
+        "APÊNDICE — Fontes e Posicionamento Conceitual",
+        "Accountability",
+        "Acesso a capital melhor.",
+        "Agora a pergunta é sua: qual apego você vai escolher soltar hoje?",
+        "Agora deixa eu te perguntar algo que a maioria dos fundadores nunca considerou:",
+        "Agora você sabe o que construir. A pergunta é quando você começa.",
+        "Agora.",
+        "Além de você.",
+        "Análise anual — Valor de empresa e horizonte.",
+        "Análise mensal — Tendências e decisões.",
+        "Análise semanal — Semáforos críticos.",
+        "Análise trimestral — Trajetória e ajuste estratégico.",
+        "Apego 1 — A narrativa do fundador heroico."
+      ],
+      "titulo_detectado": "MTC — LIVRO 4"
+    },
+    {
+      "id": "civ-prd",
+      "tipo": "prd",
+      "metodo": "CIV",
+      "arquivo": "CIV_PRD_v6.0.docx",
+      "total_paras": 10,
+      "secoes": [
+        {
+          "titulo": "INÍCIO",
+          "nivel": 1,
+          "n_paras": 10
+        }
+      ],
+      "conceitos": [
+        "A hierarquia é rígida e imutável. O sistema sempre consulta nessa ordem — parando na primeira fonte que",
+        "O POP Engine permite busca estruturada de procedimentos. O Contex",
+        "O sistema de créditos é invisível ao usuário — ele vê uma barra de co",
+        "cedimentos. O Context Engine alimenta o POP Engine: quando um contexto é identificado, o sistema busca",
+        "e: quando um contexto é identificado, o sistema busca POPs relacionados automaticamente. Os nomes internos",
+        "m 'especialista experiente'. Sem ele, o sistema responde literalmente ao que foi perguntado. Com ele, o sis",
+        "mente ao que foi perguntado. Com ele, o sistema entende o território empresarial por trás da pergunta e rac",
+        "precisava ter. A estrutura completa da metodologia de captura está no documento CIV_Metodologia_Captura."
+      ],
+      "decisoes_encontradas": [],
+      "termos_em_negrito": [],
+      "titulo_detectado": "André Ribeiro passou 20 anos entrando em empresas que tinham tudo para funcionar — e não funcionavam. O problema raramente estava onde o dono achava que estava. Estava um andar acima. Estava na mentalidade de quem dirigia."
+    },
+    {
+      "id": "mtg-brain",
+      "tipo": "spec",
+      "metodo": "MTG",
+      "arquivo": "2026-06-17_MTG_Brain_Inteligencia_Negocio_v5.docx",
+      "total_paras": 100,
+      "secoes": [
+        {
+          "titulo": "INÍCIO",
+          "nivel": 1,
+          "n_paras": 100
+        }
+      ],
+      "conceitos": [
+        "15. Modelo de Receita",
+        "GEO Score (Fase 2): como ChatGPT, Claude e Perplexity descrevem a emp",
+        "Mapa de Narrativas: tema, formato, emocao, timing",
+        "O Raio de Relevancia define o que o sistema mostra. O Perfil de Recepcao define como mostra. Juntos, re",
+        "O que o sistema quer saber nunca muda. Como coleta isso se adapta automatic",
+        "O sistema seleciona o tipo de saida com base em quatro variaveis: Per",
+        "Principio 8 -- O sistema nao recomenda",
+        "Score de Momentum",
+        "Sistema Operacional de Decisao para PMEs",
+        "ao visivel em cada saida -- separado do score de Confianca",
+        "berada sao os sinais mais preditivos do sistema. Chegam antes de qualquer tendencia aparecer nas outras cam",
+        "encao de busca antes de existir oferta. Score de Momentum 7d x 30d x 90d. Acesso: SerpAPI.",
+        "nte e sinal estrategico -- nao falha de sistema.",
+        "nto. Se qualquer elo estiver ausente, o sistema nao gera saida -- gera hipotese de monitoramento.",
+        "sposta e sim -- mas com uma condicao. O sistema precisa saber qual e o raio dentro do qual os sinais import",
+        "tantes da V5. Resolve a pergunta: \"essa ferramenta serve para todos?\""
+      ],
+      "decisoes_encontradas": [],
+      "termos_em_negrito": [
+        "1. O Principio Central do Produto",
+        "10. Fontes de Dados -- Arquitetura de Quatro Camadas",
+        "11. Matriz de Fontes -- Visao Consolidada",
+        "12. Arquitetura Conceitual -- As Cinco Zonas",
+        "13. Registro de Resultado e Taxa Historica de Acerto",
+        "14. Sequencia de Construcao",
+        "15. Modelo de Receita",
+        "16. Definicao de Sucesso",
+        "2. Raio de Relevancia -- O Que Importa Para Cada Empresario",
+        "3. Perfil de Recepcao -- Como Cada Empresario Processa Informacao",
+        "4. Os Tres Pilares Incopiaveis",
+        "5. Posicionamento de Mercado",
+        "6. Principios Inviolaveis",
+        "7. Linguagem Contextual -- Os 8 Tipos de Saida",
+        "8. Indice de Conviccao -- Alem da Confianca",
+        "9. Diagnostico de Padrao -- O Espelho Estrategico",
+        "Camada 1 -- Fontes de Atrito e Percepcao",
+        "Camada 2 -- Fontes de Comportamento Declarado",
+        "Camada 3 -- Fontes de Tendencia",
+        "Camada 4 -- Future Vector Engine",
+        "Como o Raio de Relevancia e calibrado",
+        "Exemplo: o mesmo sinal em tres raios diferentes",
+        "Exemplos de Diagnostico de Padrao por Perfil de Recepcao",
+        "Fontes Complementares",
+        "MTG Brain",
+        "Motor de Correlacoes Estrategicas",
+        "Os 5 criterios ponderados pela Bussola",
+        "Principio 1 -- Direcao antes de dashboards",
+        "Principio 2 -- Nenhuma saida sem evidencia rastreavel",
+        "Principio 3 -- Complexo por dentro, simples na entrega",
+        "Principio 4 -- Proximidade tem peso",
+        "Principio 5 -- Fontes de Atrito e Percepcao sao a ancora metodologica",
+        "Principio 6 -- Regras deterministicas antes da IA",
+        "Principio 7 -- Intencao fixa, estrategia adaptativa",
+        "Principio 8 -- O sistema nao recomenda",
+        "Principio 9 -- Grandes players sao vetores de futuro",
+        "Proximidade como Prioridade",
+        "Score de Momentum",
+        "Zona 0 -- Onboarding Estrategico",
+        "Zona 1 -- Coleta Adaptativa",
+        "Zona 2 -- Banco de Dados",
+        "Zona 3 -- Motor MTG",
+        "Zona 4 -- Agente Gerador de Direcao",
+        "Zona 5 -- Interface do Empresario"
+      ],
+      "titulo_detectado": "MTG Brain"
+    },
+    {
+      "id": "ferramentas",
+      "tipo": "kit",
+      "metodo": "MTG",
+      "arquivo": "Ferramentas.docx",
+      "total_paras": 109,
+      "secoes": [
+        {
+          "titulo": "INÍCIO",
+          "nivel": 1,
+          "n_paras": 91
+        },
+        {
+          "titulo": "15. Z-API",
+          "nivel": 2,
+          "n_paras": 12
+        },
+        {
+          "titulo": "RESUMO EXECUTIVO - O QUE ATIVAR E QUANDO",
+          "nivel": 2,
+          "n_paras": 2
+        }
+      ],
+      "conceitos": [
+        ".com.br e de todas as ferramentas HTML (Score MTX, Score-E, páginas do funil) Para ativar:",
+        "Ativar ferramenta de warmup (2-3 semanas antes do primeiro disparo)",
+        "Configurar conversões: resposta ao Score, download da isca Agente responsável: Felipe Frontend Custo",
+        "Configurar eventos: visualização do Score, conclusão do Score, clique no CTA Agente responsável: Feli",
+        "Criar listas: uma para leads do Score MTX, uma para leads da Isca",
+        "as com estágios: Lead Frio > Engajado > Score Feito > Conversa > Proposta > Cliente",
+        "disparar sequência de e-mails para ISPs Score A e B validados Para ativar:",
+        "e análise de conversão (quem visitou o Score, quem clicou na isca) Para ativar:",
+        "e todas as ferramentas HTML (Score MTX, Score-E, páginas do funil) Para ativar:",
+        "lho, recebe DM automática com o link do Score ou da Isca Para ativar:",
+        "nas antes de disparar (Instantly.ai tem ferramenta de warmup) Custo: ~R$20/ano (registro de domínio adicional,",
+        "o (o que enviar após o lead responder o Score)",
+        "os: visualização do Score, conclusão do Score, clique no CTA Agente responsável: Felipe Frontend Custo: g",
+        "rar palavras-gatilho por campanha (ex: \"SCORE\", \"ISCA\", \"QUERO\")",
+        "ção) > e-mail 2 (valor) > e-mail 3 (CTA Score)"
+      ],
+      "decisoes_encontradas": [
+        "Entregar o CSV ao squad comercial - Gaspar faz o cruzamento com os 23.726 ISPs Agente responsável: Gaspar Garimpo Custo: gratuito Status: pendente - André precisa exportar o CSV",
+        "Configurar mensagens automáticas por estágio do pipeline Custo: ~R$180/mês Pré-requisito: ter um número de WhatsApp Business separado - decisão pendente do André"
+      ],
+      "termos_em_negrito": [
+        "(GHL)",
+        "1. Gmail - Diagnóstico da base histórica",
+        "12. Subdomínio de e-mail dedicado (Trilha A)",
+        "13. Instantly.ai",
+        "15. Z-API",
+        "16. Make.com",
+        "7. Cativa",
+        "8. Meta Pixel",
+        "9. Google",
+        "AUTOMAÇÃO DO SQUAD (quando quiser automatizar os ciclos de conteúdo)",
+        "Agente responsável:",
+        "Amazon",
+        "Analytics",
+        "Bloqueadores antes de publicar:",
+        "Brevo",
+        "Credencial",
+        "Credencial necessária:",
+        "Custo:",
+        "FASE 0 - ANTES DE TUDO (sem custo)",
+        "FASE 1 - LANÇAMENTO (ativar até 01/07/2026 - custo ~R$290/mês)",
+        "FASE 2 - HIGIENIZAÇÃO (setup único, custo ~R$570)",
+        "FASE 3 - CRM COMPLETO (ativar quando leads começarem a chegar - custo adicional ",
+        "Função:",
+        "GoHighLevel",
+        "Lookup",
+        "ManyChat",
+        "Metricool",
+        "O que a equipe faz sozinha depois:",
+        "O que só você pode fazer:",
+        "Para",
+        "Para ativar:",
+        "Prazo:",
+        "Pré-requisito:",
+        "Quando",
+        "RESUMO EXECUTIVO - O QUE ATIVAR E QUANDO",
+        "Status:",
+        "Twilio",
+        "Vercel",
+        "ZeroBounce",
+        "ativar:",
+        "necessária:"
+      ],
+      "titulo_detectado": "FASE 0 - ANTES DE TUDO (sem custo)"
+    },
+    {
+      "id": "mapa-eco",
+      "tipo": "mapa",
+      "metodo": "VOUAR",
+      "arquivo": "Mapa_do_Ecossistema_Comercial_MTG_v2_0.docx",
+      "total_paras": 360,
+      "secoes": [
+        {
+          "titulo": "INÍCIO",
+          "nivel": 1,
+          "n_paras": 1
+        },
+        {
+          "titulo": "MAPA DO ECOSSISTEMA COMERCIAL",
+          "nivel": 2,
+          "n_paras": 6
+        },
+        {
+          "titulo": "NOTA DE ABERTURA",
+          "nivel": 2,
+          "n_paras": 9
+        },
+        {
+          "titulo": "1. TESE COMERCIAL DO ECOSSISTEMA",
+          "nivel": 2,
+          "n_paras": 10
+        },
+        {
+          "titulo": "2. ARQUITETURA GERAL DO ECOSSISTEMA",
+          "nivel": 2,
+          "n_paras": 176
+        },
+        {
+          "titulo": "10. JORNADA DO CLIENTE",
+          "nivel": 2,
+          "n_paras": 15
+        },
+        {
+          "titulo": "11. FUNIL OPERACIONAL",
+          "nivel": 2,
+          "n_paras": 11
+        },
+        {
+          "titulo": "12. PRODUTOS PRIORITÁRIOS",
+          "nivel": 2,
+          "n_paras": 23
+        },
+        {
+          "titulo": "13. PAPEL DOS PERSONAGENS NO ECOSSISTEMA",
+          "nivel": 2,
+          "n_paras": 16
+        },
+        {
+          "titulo": "15. MÉTRICAS DO ECOSSISTEMA",
+          "nivel": 2,
+          "n_paras": 20
+        },
+        {
+          "titulo": "17. MENSAGEM-MÃE DO ECOSSISTEMA",
+          "nivel": 2,
+          "n_paras": 15
+        },
+        {
+          "titulo": "18. RISCOS DO ECOSSISTEMA",
+          "nivel": 2,
+          "n_paras": 10
+        },
+        {
+          "titulo": "19. PRIORIDADES DOS PRÓXIMOS 90 DIAS",
+          "nivel": 2,
+          "n_paras": 18
+        },
+        {
+          "titulo": "20. SÍNTESE CANÔNICA",
+          "nivel": 2,
+          "n_paras": 15
+        }
+      ],
+      "conceitos": [
+        "\"Existe um método para mudar isso.\"",
+        ", Mentoria Individual, Consultoria MTG, Score-E ou oferta premium futura.",
+        "18.3  Risco 3 — Método complexo demais na entrada",
+        "2.1  Mapa em linha",
+        "2.2  Mapa por profundidade",
+        "4.3  Score MTX Express",
+        "4.4  Score-E Express",
+        "André Ribeiro/VOUAR como criador de uma metodologia proprietária. Aqui o empresário deixa de ver apenas conteúd",
+        "Aplica o método.",
+        "Aplicar o Método MTG com acompanhamento, cadência e orientação para começar",
+        "Aplicação de Score MTX no início e no fim.",
+        "Comercial MTG existe para transformar a metodologia em uma arquitetura de monetização clara.",
+        "Conteúdo gera identificação. Score gera consciência. Diagnóstico gera urgência. Mentoria gera",
+        "Conteúdo → Score → Livro → Diagnóstico Profissional → Programa MTG → Mentori",
+        "Criar modelo de relatório diagnóstico.",
+        "Criar página do Score e automação ou fluxo de WhatsApp.",
+        "Desenvolver Score-E Express.",
+        "Diagnóstico — Score MTX e Score-E.",
+        "Do método à monetização",
+        "Dor → Score → Diagnóstico → Oferta → Transformação → Continuidade",
+        "Ecossistema Comercial MTG transforma a metodologia em uma jornada de monetização.",
+        "Faz o Score MTX Express.",
+        "Faça o Score MTX e descubra se sua empresa funciona por gestão ou por de",
+        "Finalizar Score MTX Express.",
+        "Implantar o Método MTG para reduzir a dependência do dono e construir uma empr",
+        "Implante o Método MTG e reduza a dependência da sua empresa em relação a você",
+        "Introdução ao Score-E.",
+        "MAPA DO ECOSSISTEMA COMERCIAL",
+        "MTC — Método de Transformação do CEO.",
+        "Método: MTG — Mentalidade · Transição · Gestão"
+      ],
+      "decisoes_encontradas": [],
+      "termos_em_negrito": [
+        "-E Express",
+        "1 — Excesso de produtos soltos",
+        "1.1  Sequência",
+        "1.2  Tradução",
+        "10.1  Jornada",
+        "10.2  Jornada",
+        "10.3  Jornada",
+        "11.1  Funil",
+        "11.2  Funil",
+        "11.3  Funil",
+        "12.1  Ordem",
+        "12.2  Ordem",
+        "12.3  Por",
+        "13.1  Dono",
+        "13.2  Dono",
+        "13.3  Dinâmica",
+        "14.1  Canais",
+        "14.2  Estratégia",
+        "15.1  Métricas",
+        "15.2  Métricas",
+        "15.3  Métricas",
+        "15.4  Métricas",
+        "17.1  Versão",
+        "17.2  Frase",
+        "17.3  Versão",
+        "17.4  Versão",
+        "17.5  Versão",
+        "17.6  Versão",
+        "18.1  Risco",
+        "18.2  Risco",
+        "18.3  Risco",
+        "18.4  Risco",
+        "18.5  Risco",
+        "19.1  Primeiros",
+        "19.2  Dias",
+        "19.3  Dias",
+        "2 — Conteúdo sem conversão",
+        "2.1  Mapa",
+        "2.2  Mapa",
+        "3 — Método complexo demais na entrada",
+        "3.1  Função",
+        "3.2  Ativos",
+        "3.3  Promessa",
+        "3.4  CTA",
+        "30 dias",
+        "31 a 60",
+        "4 — Vender consultoria cedo demais",
+        "4.1  Função",
+        "4.2  Ativos",
+        "4.3  Score"
+      ],
+      "titulo_detectado": "VOUAR"
+    }
+  ]
+}
